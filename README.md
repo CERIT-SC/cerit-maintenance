@@ -1,6 +1,6 @@
 # CERIT-SC's maintenance list
 
-[![Build Status](https://travis-ci.org/vholer/maintenance.png)](https://travis-ci.org/vholer/maintenance)
+[![Build Status](https://travis-ci.org/CERIT-SC/cerit-maintenance.png?branch=master)](https://travis-ci.org/CERIT-SC/cerit-maintenance)
 
 ## File format (CSV)
 
