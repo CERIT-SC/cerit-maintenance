@@ -2,3 +2,4 @@ language: perl
 notifications:
   email:
     - holer@ics.muni.cz
+    - makub@ics.muni.cz
