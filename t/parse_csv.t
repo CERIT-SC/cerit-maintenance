@@ -23,8 +23,8 @@ while (my $row = $csv->getline($fh)) {
 		like( $row->[1], qr/^(\d{4}-\d{1,2}-\d{1,2}( \d{1,2}:\d{1,2})?)?$/ );
 
 		# 3. maintenance type:
-		# planned-maintenance, maintenance, reserved or empty
-		like( $row->[2], qr/^((planned-)?(maintenance|reserved))?$/ );
+		# scheduled maintenance, maintenance, reserved or empty
+		like( $row->[2], qr/^((scheduled )?(maintenance|reserved))?$/ );
 
 		# 5. resources:
 		my @resources = split(' ', $row->[4]);
