@@ -18,3 +18,12 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2000-01-01,,planned-maintenance,"Y2K blackout",zewura.cerit-sc.cz hda.cerit-sc.cz
 ```
+
+## Other
+
+* [Internal document](https://wiki.metacentrum.cz/metawiki/CERIT-SC:Statistika)
+  on how data are processed to get availability/reliability metrics.
+
+***
+
+CERIT Scientific Cloud, <support@cerit-sc.cz>
