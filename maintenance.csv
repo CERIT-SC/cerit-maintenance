@@ -1,3 +1,23 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-01-23 22:29,2014-01-24 11:50,scheduled maintenance,"servisni zasah dodavatele, HW",zewura10.cerit-sc.cz
 2014-01-21 10:12,,scheduled maintenance,"vymena ventilatoru, HW",zapat25.cerit-sc.cz hdc25.cerit-sc.cz
+2013-11-18 11:39,,reserved,"zatezove testy MM/CEZ",zewura1.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox5.cerit-sc.cz hda5.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox6.cerit-sc.cz hda6.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox7.cerit-sc.cz hda7.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox8.cerit-sc.cz hda8.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox10.cerit-sc.cz hda10.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox12.cerit-sc.cz hda12.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox19.cerit-sc.cz hda19.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox20.cerit-sc.cz hda20.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox21.cerit-sc.cz hda21.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox23.cerit-sc.cz hda23.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox24.cerit-sc.cz hda24.cerit-sc.cz
+2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox25.cerit-sc.cz hda25.cerit-sc.cz
+2013-10-14 15:33,,scheduled maintenance,"kolisajici vykon, HW",zapat76.cerit-sc.cz hdc76.cerit-sc.cz
+2013-10-14 11:03,,reserved,"zatezove testy MM/CEZ",zegox3.cerit-sc.cz hda3.cerit-sc.cz
+2013-10-14 11:03,,reserved,"zatezove testy MM/CEZ",zegox4.cerit-sc.cz hda4.cerit-sc.cz
+2013-10-10 15:41,,scheduled maintenance,"kolisajici vykon, HW",zapat17.cerit-sc.cz hdc17.cerit-sc.cz
+2013-09-09 14:43,,scheduled maintenance,"reseni nestability, HW",zapat28.cerit-sc.cz hdc28.cerit-sc.cz
+2013-07-19 11:58,,reserved,"zatezove testy MM/CEZ",zegox2.cerit-sc.cz hda2.cerit-sc.cz
+2013-07-19 11:57,,reserved,"zatezove testy MM/CEZ",zegox1.cerit-sc.cz hda1.cerit-sc.cz
