@@ -56,6 +56,9 @@ sub get_maintenances($) {
 		}
 	}
 
+	die('Not enough CVS lines')
+		unless $rn>10;
+
 	return(\@rtn);
 }
 
@@ -78,6 +81,9 @@ sub get_nodes() {
 			note	=> $d->{note} ? $d->{note} : '',
 		}
 	}
+
+	die('Not enough nodes')
+		unless scalar(keys %rtn)>100;
 
 	return(\%rtn);
 }
