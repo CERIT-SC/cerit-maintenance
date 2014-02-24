@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-02-24 11:30,,scheduled maintenance,"upgrade OS, SW",zewura5.cerit-sc.cz
-2014-02-23 20:00,,scheduled maintenance,"upgrade OS, SW",zewura7.cerit-sc.cz
+2014-02-23 20:00,2014-02-24 14:45,scheduled maintenance,"upgrade OS, SW",zewura7.cerit-sc.cz
 2014-02-21 05:00,2014-02-21 16:15,scheduled maintenance,"servisni zasah dodavatele, HW",zewura17.cerit-sc.cz zewura20.cerit-sc.cz
 2014-02-20 16:00,,scheduled maintenance,"rekonfigurace stroje, SW",hda45.cerit-sc.cz
 2014-02-12 04:00,2014-02-12 17:00,scheduled maintenance,"servisni zasah dodavatele, HW",zewura10.cerit-sc.cz
