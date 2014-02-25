@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-02-25 15:00,,scheduled maintenance,"upgrade OS, SW",zewura8.cerit-sc.cz
-2014-02-24 17:00,,maintenance,"neplanovana rekonfigurace stroje, SW",hda14.cerit-sc.cz zegox14.cerit-sc.cz hda30.cerit-sc.cz zegox30.cerit-sc.cz
+2014-02-24 17:00,2014-02-25 19:15,maintenance,"neplanovana rekonfigurace stroje, SW",hda14.cerit-sc.cz zegox14.cerit-sc.cz hda30.cerit-sc.cz zegox30.cerit-sc.cz
 2014-02-24 17:00,2014-02-25 17:50,scheduled maintenance,"upgrade OS, SW",zewura3.cerit-sc.cz
 2014-02-24 11:30,2014-02-24 16:15,scheduled maintenance,"upgrade OS, SW",zewura5.cerit-sc.cz
 2014-02-23 20:00,2014-02-24 14:45,scheduled maintenance,"upgrade OS, SW",zewura7.cerit-sc.cz
