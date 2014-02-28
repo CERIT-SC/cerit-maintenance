@@ -20,9 +20,9 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2013-11-14 10:14,2014-02-28 21:15,reserved,"zatezove testy MM/CEZ",zegox19.cerit-sc.cz hda19.cerit-sc.cz
 2013-11-14 10:14,2014-02-28 21:25,reserved,"zatezove testy MM/CEZ",zegox20.cerit-sc.cz hda20.cerit-sc.cz
 2013-11-14 10:14,2014-02-28 21:15,reserved,"zatezove testy MM/CEZ",zegox21.cerit-sc.cz hda21.cerit-sc.cz
-2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox23.cerit-sc.cz hda23.cerit-sc.cz
-2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox24.cerit-sc.cz hda24.cerit-sc.cz
-2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox25.cerit-sc.cz hda25.cerit-sc.cz
+2013-11-14 10:14,2014-02-28 22:40,reserved,"zatezove testy MM/CEZ",zegox23.cerit-sc.cz hda23.cerit-sc.cz
+2013-11-14 10:14,2014-02-28 22:40,reserved,"zatezove testy MM/CEZ",zegox24.cerit-sc.cz hda24.cerit-sc.cz
+2013-11-14 10:14,2014-02-28 22:40,reserved,"zatezove testy MM/CEZ",zegox25.cerit-sc.cz hda25.cerit-sc.cz
 2013-10-14 15:33,,scheduled maintenance,"kolisajici vykon, HW",zapat76.cerit-sc.cz hdc76.cerit-sc.cz
 2013-10-14 11:03,,reserved,"zatezove testy MM/CEZ",zegox3.cerit-sc.cz hda3.cerit-sc.cz
 2013-10-14 11:03,,reserved,"zatezove testy MM/CEZ",zegox4.cerit-sc.cz hda4.cerit-sc.cz
