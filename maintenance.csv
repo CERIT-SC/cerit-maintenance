@@ -12,8 +12,8 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-01-05 23:45,2014-01-06 11:30,maintenance,"vypadek proudu",hdb.cerit-sc.cz zigur.cerit-sc.cz hdc.cerit-sc.cz zapat.cerit-sc.cz
 2013-11-18 11:39,2014-02-20 14:30,reserved,"zatezove testy MM/CEZ",zewura1.cerit-sc.cz
 2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox5.cerit-sc.cz hda5.cerit-sc.cz
-2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox6.cerit-sc.cz hda6.cerit-sc.cz
-2013-11-14 10:14,,reserved,"zatezove testy MM/CEZ",zegox7.cerit-sc.cz hda7.cerit-sc.cz
+2013-11-14 10:14,2014-03-02 19:05,reserved,"zatezove testy MM/CEZ",zegox6.cerit-sc.cz hda6.cerit-sc.cz
+2013-11-14 10:14,2014-03-02 19:05,reserved,"zatezove testy MM/CEZ",zegox7.cerit-sc.cz hda7.cerit-sc.cz
 2013-11-14 10:14,2014-02-28 15:30,reserved,"zatezove testy MM/CEZ",zegox8.cerit-sc.cz hda8.cerit-sc.cz
 2013-11-14 10:14,2014-02-28 16:15,reserved,"zatezove testy MM/CEZ",zegox10.cerit-sc.cz hda10.cerit-sc.cz
 2013-11-14 10:14,2014-02-28 21:15,reserved,"zatezove testy MM/CEZ",zegox12.cerit-sc.cz hda12.cerit-sc.cz
