@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2014-03-21 12:00,,reserved,"zatezove testy KYPO",hda10.cerit-sc.cz zegox10.cerit-sc.cz hda12.cerit-sc.cz zegox12.cerit-sc.cz hda13.cerit-sc.cz zegox13.cerit-sc.cz hda14.cerit-sc.cz zegox14.cerit-sc.cz hda15.cerit-sc.cz zegox15.cerit-sc.cz hda16.cerit-sc.cz zegox16.cerit-sc.cz hda17.cerit-sc.cz zegox17.cerit-sc.cz hda18.cerit-sc.cz zegox18.cerit-sc.cz hda19.cerit-sc.cz zegox19.cerit-sc.cz
 2014-03-18 11:40,,scheduled maintenance,"vymena disku, HW",hdc45.cerit-sc.cz zapat45.cerit-sc.cz
 2014-02-25 15:00,2014-02-26 18:30,scheduled maintenance,"upgrade OS, SW",zewura8.cerit-sc.cz zewura2.cerit-sc.cz zewura4.cerit-sc.cz
 2014-02-24 17:00,2014-02-25 19:15,maintenance,"neplanovana rekonfigurace stroje, SW",hda14.cerit-sc.cz zegox14.cerit-sc.cz hda30.cerit-sc.cz zegox30.cerit-sc.cz
