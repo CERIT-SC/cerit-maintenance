@@ -2,7 +2,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-04-04 07:00,2014-04-04 14:20,scheduled maintenance,"servisni zasah dodavatele, HW",zewura16.cerit-sc.cz
 2014-03-28 10:00,2014-03-28 14:30,scheduled maintenance,"servisni zasah dodavatele, HW",zewura12.cerit-sc.cz
 2014-04-22 10:45,2014-04-23 16:35,reserved,"benchmark nested virtualizace",hda16.cerit-sc.cz zegox16.cerit-sc.cz
-2014-04-22 10:45,,reserved,"benchmark nested virtualizace",hda17.cerit-sc.cz zegox17.cerit-sc.cz
+2014-04-22 10:45,2014-04-24 13:30,reserved,"benchmark nested virtualizace",hda17.cerit-sc.cz zegox17.cerit-sc.cz
 2014-03-21 12:00,2014-04-22 10:45,reserved,"zatezove testy KYPO",hda16.cerit-sc.cz zegox16.cerit-sc.cz hda17.cerit-sc.cz zegox17.cerit-sc.cz
 2014-03-21 12:00,,reserved,"zatezove testy KYPO",hda10.cerit-sc.cz zegox10.cerit-sc.cz hda12.cerit-sc.cz zegox12.cerit-sc.cz hda13.cerit-sc.cz zegox13.cerit-sc.cz hda14.cerit-sc.cz zegox14.cerit-sc.cz hda15.cerit-sc.cz zegox15.cerit-sc.cz hda18.cerit-sc.cz zegox18.cerit-sc.cz hda19.cerit-sc.cz zegox19.cerit-sc.cz
 2014-03-18 11:40,2014-04-01 14:00,scheduled maintenance,"vymena disku, HW",hdc45.cerit-sc.cz zapat45.cerit-sc.cz
