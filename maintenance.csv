@@ -1,7 +1,7 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-05-20 17:30,,scheduled maintenance,"vymena pameti, HW",hdb19.cerit-sc.cz zigur19.cerit-sc.cz
 2014-05-20 17:30,,scheduled maintenance,"vymena disku, HW",hdc14.cerit-sc.cz zapat14.cerit-sc.cz
-2014-05-19 17:30,,scheduled maintenance,"Torque nespousti ulohy, SW",ungu1.cerit-sc.cz
+2014-05-19 17:30,2014-05-21 12:30,scheduled maintenance,"Torque nespousti ulohy, SW",ungu1.cerit-sc.cz
 2014-05-09 12:00,2014-05-19 17:30,reserved,"skoleni UV",ungu1.cerit-sc.cz
 2014-04-04 07:00,2014-04-04 14:20,scheduled maintenance,"servisni zasah dodavatele, HW",zewura16.cerit-sc.cz
 2014-03-28 10:00,2014-03-28 14:30,scheduled maintenance,"servisni zasah dodavatele, HW",zewura12.cerit-sc.cz
