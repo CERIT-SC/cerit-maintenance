@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-08-22 02:40,,maintenance,"stroj nejde zapnout, HW",zewura3.cerit-sc.cz
-2014-08-21 16:45,,scheduled maintenance,"vymena pameti, HW",ungu1.cerit-sc.cz
+2014-08-21 16:45,2014-08-26 13:10,scheduled maintenance,"vymena pameti, HW",ungu1.cerit-sc.cz
 2014-08-19 16:15,,scheduled maintenance,"vymena pameti, HW",hdc44.cerit-sc.cz zapat44.cerit-sc.cz
 2014-08-19 15:35,,scheduled maintenance,"vymena disku, HW",hdb9.cerit-sc.cz zigur9.cerit-sc.cz hdc39.cerit-sc.cz zapat39.cerit-sc.cz hdc74.cerit-sc.cz zapat74.cerit-sc.cz hdc106.cerit-sc.cz zapat106.cerit-sc.cz
 2014-07-25 16:32,2014-07-28 14:30,maintenance,"stroj nejde zapnout, HW",zewura3.cerit-sc.cz
