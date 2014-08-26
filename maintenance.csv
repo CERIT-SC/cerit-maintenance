@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2014-08-27 00:01,,scheduled maintenance,"problem s NFS, SW",ungu1.cerit-sc.cz
 2014-08-22 02:40,,maintenance,"stroj nejde zapnout, HW",zewura3.cerit-sc.cz
 2014-08-21 16:45,2014-08-26 13:10,scheduled maintenance,"vymena pameti, HW",ungu1.cerit-sc.cz
 2014-08-19 16:15,,scheduled maintenance,"vymena pameti, HW",hdc44.cerit-sc.cz zapat44.cerit-sc.cz
