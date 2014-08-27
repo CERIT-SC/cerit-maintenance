@@ -77,8 +77,18 @@ sub get_nodes() {
 	for my $node (keys %{$xml->{Node}}) {
 		my $d = $xml->{Node}->{$node};
 		$rtn{$node} = {
-			queue	=> $d->{queue} ? $d->{queue} : '',
-			note	=> $d->{note} ? $d->{note} : '',
+			queue => $d->{queue} ?
+				$d->{queue} :
+				'',
+
+			note => $d->{note} ?
+				$d->{note} :
+				'',
+
+			available_before =>
+				$d->{available_before} ?
+				$d->{available_before} :
+				0,
 		}
 	}
 
@@ -96,27 +106,30 @@ Compare current and required node state and apply change.
 =cut
 sub set_node($$$) {
 	my ($name,$data,$maint) = @_;
-	my ($new_queue,$new_note) = ('','');
-	my ($old_queue,$old_note) = ('','');
+	my ($new_queue,$new_note,$new_avail) = ('','',0);
+	my ($old_queue,$old_note,$old_avail) = ('','',0);
 
 	# maintenance state
 	if ($maint) {
 		$maint->{type} =~ /(maintenance|reserved)$/;
 		$new_queue = $1;
 		$new_note = $maint->{note};
+		$new_avail = $maint->{from};
 	}
 
 	# current state
 	if ($data) {
+		$old_avail = $data->{available_before};
 		$old_queue = $data->{queue};
 		$old_note = $data->{note};
 	}
 
-	if ($old_queue ne $new_queue) {
+	if (($old_queue ne $new_queue) or ($old_avail != $new_avail)) {
 		print(<<EOF);
 Torque node: ${name}
 - set queue '${old_queue}' -> '${new_queue}'
 - set note '${old_note}' -> '${new_note}'
+- set available_before ${old_avail} -> ${new_avail}
 
 EOF
 
@@ -124,6 +137,7 @@ EOF
 		unless (exists $opts{'d'}) {
 			system('qmgr','-c',"set node ${name} queue = '${new_queue}'");
 			system('qmgr','-c',"set node ${name} note = '${new_note}'");
+			system('qmgr','-c',"set node ${name} available_before = ${new_avail}");
 		}
 	}
 }
