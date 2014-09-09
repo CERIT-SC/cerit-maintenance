@@ -17,6 +17,8 @@ my $url = 'https://raw.github.com/CERIT-SC/cerit-maintenance/master/maintenance.
 my %opts;
 getopts('d',\%opts);
 
+my $t = time();
+
 =item get_maintenances($url);
 
 Fetch CSV maintenance list and return ARRAY of active maintenances.
@@ -42,10 +44,9 @@ sub get_maintenances($) {
 			if $columns[1] =~ /^\d{4}-\d{1,2}-\d{1,2}$/;
 		my $t_e = str2time($columns[1]);
 		my $t_s = str2time($columns[0]);
-		my $t = time();
 
 		# check if still under maintenance
-		if (($t>=$t_s) and ((! defined $t_e) or ($t<=$t_e))) {
+		if ((! defined $t_e) or ($t<=$t_e)) {
 			push(@rtn, {
 				from	=> $t_s,
 				to		=> $t_e,
@@ -111,10 +112,12 @@ sub set_node($$$) {
 
 	# maintenance state
 	if ($maint) {
-		$maint->{type} =~ /(maintenance|reserved)$/;
-		$new_queue = $1;
 		$new_note = $maint->{note};
 		$new_avail = $maint->{from};
+
+		if (($t>=$new_avail) and ($maint->{type} =~ /(maintenance|reserved)$/)) {
+			$new_queue = $1;
+		}
 	}
 
 	# current state
