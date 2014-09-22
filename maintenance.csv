@@ -1,4 +1,8 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2014-09-23 12:45,,scheduled maintenance,"reboot stroje, SW",zewura5.cerit-sc.cz
+2014-09-26 11:00,,scheduled maintenance,"reboot stroje, SW",zewura6.cerit-sc.cz
+2014-09-24 14:00,,scheduled maintenance,"reboot stroje, SW",zewura7.cerit-sc.cz
+2014-09-29 11:00,,scheduled maintenance,"reboot stroje, SW",zewura8.cerit-sc.cz
 2014-09-21 02:30,2014-09-22 14:00,maintenance,"vymena disku, HW",hdb6.cerit-sc.cz zigur6.cerit-sc.cz
 2014-09-19 16:00,2014-09-22 11:15,scheduled maintenance,"reboot stroje, SW",hdc90.cerit-sc.cz zapat90.cerit-sc.cz
 2014-09-16 10:30,,scheduled maintenance,"vymena disku, HW",hdc12.cerit-sc.cz zapat12.cerit-sc.cz
