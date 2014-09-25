@@ -7,7 +7,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-09-29 11:00,,scheduled maintenance,"reboot stroje, SW",zewura8.cerit-sc.cz
 2014-09-21 02:30,2014-09-22 14:00,maintenance,"vymena disku, HW",hdb6.cerit-sc.cz zigur6.cerit-sc.cz
 2014-09-19 16:00,2014-09-22 11:15,scheduled maintenance,"reboot stroje, SW",hdc90.cerit-sc.cz zapat90.cerit-sc.cz
-2014-09-16 10:30,,scheduled maintenance,"vymena disku, HW",hdc12.cerit-sc.cz zapat12.cerit-sc.cz
+2014-09-16 10:30,2014-09-25 14:30,scheduled maintenance,"vymena disku, HW",hdc12.cerit-sc.cz zapat12.cerit-sc.cz
 2014-09-14 01:04,2014-09-17 15:45,scheduled maintenance,"vymena disku, HW",hdc36.cerit-sc.cz zapat36.cerit-sc.cz
 2014-09-11 13:00,,reserved,"rezervace pro CDV",hdc7.cerit-sc.cz zapat7.cerit-sc.cz hdc20.cerit-sc.cz zapat20.cerit-sc.cz hdc112.cerit-sc.cz zapat112.cerit-sc.cz hdc111.cerit-sc.cz zapat111.cerit-sc.cz hdc110.cerit-sc.cz zapat110.cerit-sc.cz hdc109.cerit-sc.cz zapat109.cerit-sc.cz
 2014-09-04 17:30,2014-09-10 10:40,maintenance,"chyba r1i11b7, HW",ungu1.cerit-sc.cz
