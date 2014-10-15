@@ -12,6 +12,9 @@ use Date::Parse;
 use XML::Simple;
 use Getopt::Std;
 
+# CSV fetch params
+my $retry = 3; 
+my $sleep = 10;
 my $url = 'https://raw.github.com/CERIT-SC/cerit-maintenance/master/maintenance.csv';
 
 my %opts;
@@ -25,7 +28,12 @@ Fetch CSV maintenance list and return ARRAY of active maintenances.
 
 =cut
 sub get_maintenances($) {
-	my $c = get($_[0]);
+	my $c;
+	while ($retry--) {
+		$c = get($_[0]);
+		last if $c;
+		sleep($sleep);
+	}
 	die('Could not fetch CSV')
 		unless $c;
 
