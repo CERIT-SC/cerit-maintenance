@@ -1,7 +1,9 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-11-28 17:00,,reserved,"workshop KYPO",hda3.cerit-sc.cz zegox3.cerit-sc.cz hda4.cerit-sc.cz zegox4.cerit-sc.cz hda5.cerit-sc.cz zegox5.cerit-sc.cz hda6.cerit-sc.cz zegox6.cerit-sc.cz hda7.cerit-sc.cz zegox7.cerit-sc.cz
-2014-11-03 22:20,,scheduled maintenance,"stehovani clusteru",zebra8.cerit-sc.cz zebra10.cerit-sc.cz
-2014-11-03 22:20,,scheduled maintenance,"stehovani clusteru",zewura16.cerit-sc.cz zewura18.cerit-sc.cz
+2014-11-03 22:20,2014-11-14 11:30,scheduled maintenance,"stehovani clusteru",zebra10.cerit-sc.cz
+2014-11-03 22:20,2014-11-14 11:30,scheduled maintenance,"stehovani clusteru",zewura18.cerit-sc.cz
+2014-11-03 22:20,,scheduled maintenance,"stehovani clusteru",zebra8.cerit-sc.cz
+2014-11-03 22:20,,scheduled maintenance,"stehovani clusteru",zewura16.cerit-sc.cz
 2014-11-03 22:20,2014-11-12 23:20,scheduled maintenance,"stehovani clusteru",zebra1.cerit-sc.cz zebra2.cerit-sc.cz zebra3.cerit-sc.cz zebra4.cerit-sc.cz zebra5.cerit-sc.cz zebra6.cerit-sc.cz zebra7.cerit-sc.cz zebra9.cerit-sc.cz zebra11.cerit-sc.cz zebra12.cerit-sc.cz
 2014-11-03 22:20,2014-11-12 23:20,scheduled maintenance,"stehovani clusteru",zewura9.cerit-sc.cz zewura10.cerit-sc.cz zewura11.cerit-sc.cz zewura12.cerit-sc.cz zewura13.cerit-sc.cz zewura14.cerit-sc.cz zewura15.cerit-sc.cz zewura17.cerit-sc.cz zewura19.cerit-sc.cz zewura20.cerit-sc.cz
 2014-11-12 14:00,,reserved,"testovani noveho deploymentu",hda2.cerit-sc.cz zegox2.cerit-sc.cz hda16.cerit-sc.cz zegox16.cerit-sc.cz
