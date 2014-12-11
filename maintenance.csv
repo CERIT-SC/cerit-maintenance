@@ -11,7 +11,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-12-01 17:35,2014-12-09 10:35,scheduled maintenance,"uprava elektriny",zebra7.cerit-sc.cz
 2014-12-01 17:35,,scheduled maintenance,"uprava elektriny",zebra12.cerit-sc.cz zebra3.cerit-sc.cz zebra5.cerit-sc.cz zebra11.cerit-sc.cz
 2014-11-20 05:00,2014-12-01 17:35,scheduled maintenance,"uprava elektriny",zebra.cerit-sc.cz
-2014-11-14 18:00,,scheduled maintenance,"priprava clusteru, SW",urga1.cerit-sc.cz
+2014-11-14 18:00,2014-12-11 01:30,scheduled maintenance,"priprava clusteru, SW",urga1.cerit-sc.cz
 2014-11-28 12:00,,reserved,"workshop KYPO",hda3.cerit-sc.cz zegox3.cerit-sc.cz hda4.cerit-sc.cz zegox4.cerit-sc.cz hda5.cerit-sc.cz zegox5.cerit-sc.cz hda6.cerit-sc.cz zegox6.cerit-sc.cz hda7.cerit-sc.cz zegox7.cerit-sc.cz
 2014-11-03 22:20,2014-11-14 11:30,scheduled maintenance,"stehovani clusteru",zebra10.cerit-sc.cz
 2014-11-03 22:20,2014-11-14 11:30,scheduled maintenance,"stehovani clusteru",zewura18.cerit-sc.cz
