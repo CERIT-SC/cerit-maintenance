@@ -4,8 +4,8 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-12-15 12:00,,reserved,"posileni cloudu",hdb32.cerit-sc.cz zigur32.cerit-sc.cz hdb31.cerit-sc.cz zigur31.cerit-sc.cz hdb30.cerit-sc.cz zigur30.cerit-sc.cz
 2015-05-25 12:00,,scheduled maintenance,"konec zapujcky experimentalniho stroje",zorg.cerit-sc.cz
 2014-11-28 12:00,2014-11-28 17:00,scheduled maintenance,"vymena pameti, HW",ungu1.cerit-sc.cz
-2014-12-15 12:00,,scheduled maintenance,"udrzba stroje, SW",zewura1.cerit-sc.cz
-2014-12-15 12:00,,scheduled maintenance,"udrzba stroje, SW",zewura3.cerit-sc.cz
+2014-12-15 12:00,2014-12-15 15:55,scheduled maintenance,"udrzba stroje, SW",zewura1.cerit-sc.cz
+2014-12-15 12:00,2014-12-15 16:05,scheduled maintenance,"udrzba stroje, SW",zewura3.cerit-sc.cz
 2015-02-16 12:00,,scheduled maintenance,"udrzba stroje, SW",zewura4.cerit-sc.cz
 2015-02-16 12:00,,scheduled maintenance,"udrzba stroje, SW",zewura5.cerit-sc.cz
 2015-01-19 12:00,,scheduled maintenance,"udrzba stroje, SW",zewura6.cerit-sc.cz
