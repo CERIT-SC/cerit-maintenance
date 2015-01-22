@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2015-01-21 16:00,,maintenance,"stroj nejde zapnout, HW",hda26.cerit-sc.cz zegox26.cerit-sc.cz
 2015-01-21 13:05,,reserved,"zatezove testy IBM, SW",zebra4.cerit-sc.cz zebra5.cerit-sc.cz zebra11.cerit-sc.cz zebra12.cerit-sc.cz
 2015-01-16 15:00,,reserved,"workshop KYPO",hda8.cerit-sc.cz zegox8.cerit-sc.cz hda9.cerit-sc.cz zegox9.cerit-sc.cz hda12.cerit-sc.cz zegox12.cerit-sc.cz hda14.cerit-sc.cz zegox14.cerit-sc.cz hda17.cerit-sc.cz zegox17.cerit-sc.cz hda24.cerit-sc.cz zegox24.cerit-sc.cz hda26.cerit-sc.cz zegox26.cerit-sc.cz
 2014-12-29 17:39,2015-01-08 12:40,maintenance,"vymena disku, HW",hdb2.cerit-sc.cz zigur2.cerit-sc.cz
