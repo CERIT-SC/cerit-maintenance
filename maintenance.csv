@@ -19,8 +19,8 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-11-28 12:00,2014-11-28 17:00,scheduled maintenance,"vymena pameti, HW",ungu1.cerit-sc.cz
 2014-12-15 12:00,2014-12-15 15:55,scheduled maintenance,"udrzba stroje, SW",zewura1.cerit-sc.cz
 2014-12-15 12:00,2014-12-15 16:05,scheduled maintenance,"udrzba stroje, SW",zewura3.cerit-sc.cz
-2015-02-16 9:30,,scheduled maintenance,"udrzba stroje, SW",zewura4.cerit-sc.cz
-2015-02-16 9:30,,scheduled maintenance,"udrzba stroje, SW",zewura5.cerit-sc.cz
+2015-02-16 9:30,2015-02-16 11:10,scheduled maintenance,"udrzba stroje, SW",zewura4.cerit-sc.cz
+2015-02-16 9:30,2015-02-16 11:10,scheduled maintenance,"udrzba stroje, SW",zewura5.cerit-sc.cz
 2015-01-19 12:00,2015-01-20 10:45,scheduled maintenance,"udrzba stroje, SW",zewura6.cerit-sc.cz
 2015-01-19 12:00,2015-01-19 15:45,scheduled maintenance,"udrzba stroje, SW",zewura7.cerit-sc.cz
 2015-01-03 01:00,2015-01-03 04:20,scheduled maintenance,"udrzba stroje, SW",zewura8.cerit-sc.cz
