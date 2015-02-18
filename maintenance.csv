@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2015-02-06 07:14,2015-02-10 21:30,maintenance,"vymena disku, HW",hdc61.cerit-sc.cz zapat61.cerit-sc.cz
-2015-02-18 05:10,,scheduled maintenance,"vymena disku, HW",hdb14.cerit-sc.cz zigur14.cerit-sc.cz
+2015-02-20 08:00,,scheduled maintenance,"vymena disku, HW",hdb14.cerit-sc.cz zigur14.cerit-sc.cz
 2015-01-29 17:10,2015-01-30 15:05,scheduled maintenance,"vymena disku, HW",hda28.cerit-sc.cz zegox28.cerit-sc.cz
 2015-02-02 12:00,2015-02-05 11:00,scheduled maintenance,"rekonfigurace scratchu, SW",ungu.cerit-sc.cz
 2015-01-27 22:07,2015-02-05 10:00,maintenance,"vymena disku, HW",hdc13.cerit-sc.cz zapat13.cerit-sc.cz
