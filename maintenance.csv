@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2015-05-11 12:00,,scheduled maintenance,"zatezove testy IBM, SW",zebra9.cerit-sc.cz zebra12.cerit-sc.cz
 2015-05-11 08:00,,scheduled maintenance,"vymena disku, HW",hdc73.cerit-sc.cz zapat73.cerit-sc.cz
 2015-05-02 21:15,,maintenance,"vymena disku, HW",hdc61.cerit-sc.cz zapat61.cerit-sc.cz
 2015-03-31 09:40,2015-04-07 10:50,maintenance,"uncorrectable MCE, HW",zewura7.cerit-sc.cz
