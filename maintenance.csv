@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2015-06-15 08:00,,scheduled maintenance,"vymena disku, HW",hdb24.cerit-sc.cz zigur24.cerit-sc.cz
-2015-05-29 09:00,,reserved,"stresstesty, SW",hda13.priv.cerit-sc.cz zegox13.cerit-sc.cz
+2015-05-29 09:00,2015-06-05 16:45,reserved,"stresstesty, SW",hda13.priv.cerit-sc.cz zegox13.cerit-sc.cz
 2015-05-24 01:03,2015-06-02 14:30,maintenance,"vymena disku, HW",hdc19.cerit-sc.cz zapat19.cerit-sc.cz
 2015-05-11 12:00,,reserved,"zatezove testy IBM, SW",zebra9.cerit-sc.cz zebra12.cerit-sc.cz
 2015-05-11 08:00,2015-05-13 11:30,scheduled maintenance,"vymena disku, HW",hdc73.cerit-sc.cz zapat73.cerit-sc.cz
