@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2015-06-18 12:50,,reserved,"stresstesty, SW",hda6.priv.cerit-sc.cz zegox6.cerit-sc.cz
 2015-06-17 10:50,,reserved,"stresstesty, SW",hda7.priv.cerit-sc.cz zegox7.cerit-sc.cz
 2015-06-09 12:00,,reserved,"stresstesty, SW",hda8.priv.cerit-sc.cz zegox8.cerit-sc.cz hda9.priv.cerit-sc.cz zegox9.cerit-sc.cz hda11.priv.cerit-sc.cz zegox11.cerit-sc.cz
 2015-06-11 15:21,2015-06-15 11:45,maintenance,"vymena disku, HW",hdb24.cerit-sc.cz zigur24.cerit-sc.cz
