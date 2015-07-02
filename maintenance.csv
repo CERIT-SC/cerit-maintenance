@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2015-06-26 14:30,,maintenance,"vymena disku, HW",hdc52.cerit-sc.cz zapat52.cerit-s.cz
-2015-06-22 22:08,,maintenance,"vymena disku, HW",hdc58.cerit-sc.cz zapat58.cerit-s.cz
+2015-06-22 22:08,2015-07-02 11:30,maintenance,"vymena disku, HW",hdc58.cerit-sc.cz zapat58.cerit-s.cz
 2015-07-07 12:00,,reserved,"virtualni kurz RT 106643",hdb.cerit-sc.cz zigur.cerit-sc.cz
 2015-06-24 16:00,2015-07-01 14:05,reserved,"stresstesty, SW",hda10.priv.cerit-sc.cz zegox10.cerit-sc.cz
 2015-06-18 12:50,2015-07-01 14:05,reserved,"stresstesty, SW",hda6.priv.cerit-sc.cz zegox6.cerit-sc.cz
