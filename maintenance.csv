@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2015-07-29 09:00,,scheduled maintenance,"vymena disku, HW",hdb5.cerit-sc.cz zigur5.cerit-sc.cz
+2015-07-29 09:00,2015-07-30 15:50,scheduled maintenance,"vymena disku, HW",hdb5.cerit-sc.cz zigur5.cerit-sc.cz
 2015-07-15 15:42,2015-07-20 14:40,maintenance,"vymena disku, HW",hdc85.cerit-sc.cz zapat85.cerit-sc.cz
 2015-07-09 14:30,2015-07-10 11:40,maintenance,"vypadek proudu",hdc70.cerit-sc.cz zapat70.cerit-sc.cz hdc71.cerit-sc.cz zapat71.cerit-sc.cz hdc72.cerit-sc.cz zapat72.cerit-sc.cz hdc73.cerit-sc.cz zapat73.cerit-sc.cz hdc86.cerit-sc.cz zapat86.cerit-sc.cz hdc87.cerit-sc.cz zapat87.cerit-sc.cz hdc88.cerit-sc.cz zapat88.cerit-sc.cz hdb29.cerit-sc.cz zigur29.cerit-sc.cz
 2015-06-26 14:30,2015-07-03 11:00,maintenance,"vymena disku, HW",hdc52.cerit-sc.cz zapat52.cerit-sc.cz
