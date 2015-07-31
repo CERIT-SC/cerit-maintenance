@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2015-08-16 23:00,,scheduled maintenance,"stehovani clusteru",hdb.cerit-sc.cz zigur.cerit-sc.cz hdc.cerit-sc.cz zapat.cerit-sc.cz
 2015-08-17 08:00,,scheduled maintenance,"vymena disku, HW",hdc48.cerit-sc.cz zapat48.cerit-sc.cz
 2015-07-29 09:00,2015-07-30 15:50,scheduled maintenance,"vymena disku, HW",hdb5.cerit-sc.cz zigur5.cerit-sc.cz
 2015-07-15 15:42,2015-07-20 14:40,maintenance,"vymena disku, HW",hdc85.cerit-sc.cz zapat85.cerit-sc.cz
