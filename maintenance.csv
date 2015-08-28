@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2015-08-27 08:00,,scheduled maintenance,"prepojeni napajeni",urga.cerit-sc.cz
+2015-08-27 08:00,2015-08-28 19:00,scheduled maintenance,"prepojeni napajeni",urga.cerit-sc.cz
 2015-08-18 12:00,,scheduled maintenance,"stehovani clusteru",hdb.cerit-sc.cz zigur.cerit-sc.cz hdc.cerit-sc.cz zapat.cerit-sc.cz
 2015-08-17 08:00,,scheduled maintenance,"vymena disku, HW",hdc48.cerit-sc.cz zapat48.cerit-sc.cz
 2015-07-29 09:00,2015-07-30 15:50,scheduled maintenance,"vymena disku, HW",hdb5.cerit-sc.cz zigur5.cerit-sc.cz
