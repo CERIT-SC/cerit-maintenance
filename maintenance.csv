@@ -44,7 +44,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2015-01-06 07:00,2015-01-21 13:05,scheduled maintenance,"uprava elektriny",zebra1.cerit-sc.cz zebra2.cerit-sc.cz zebra4.cerit-sc.cz zebra6.cerit-sc.cz zebra7.cerit-sc.cz zebra8.cerit-sc.cz zebra9.cerit-sc.cz zebra10.cerit-sc.cz zebra12.cerit-sc.cz
 2014-12-15 23:55,,reserved,"cloud",hdc112.cerit-sc.cz zapat112.cerit-sc.cz
 2014-12-11 15:00,,reserved,"zatezove testy db. Peruna",hda10.cerit-sc.cz zegox10.cerit-sc.cz hda13.cerit-sc.cz zegox13.cerit-sc.cz
-2014-12-15 12:00,,reserved,"posileni cloudu",hdb32.cerit-sc.cz zigur32.cerit-sc.cz hdb31.cerit-sc.cz zigur31.cerit-sc.cz hdb30.cerit-sc.cz zigur30.cerit-sc.cz
+2014-12-15 12:00,2015-10-27 18:30,reserved,"posileni cloudu",hdb32.cerit-sc.cz zigur32.cerit-sc.cz hdb31.cerit-sc.cz zigur31.cerit-sc.cz hdb30.cerit-sc.cz zigur30.cerit-sc.cz
 2015-05-21 12:00,,scheduled maintenance,"konec zapujcky experimentalniho stroje",zorg.cerit-sc.cz
 2014-11-28 12:00,2014-11-28 17:00,scheduled maintenance,"vymena pameti, HW",ungu1.cerit-sc.cz
 2014-12-15 12:00,2014-12-15 15:55,scheduled maintenance,"udrzba stroje, SW",zewura1.cerit-sc.cz
