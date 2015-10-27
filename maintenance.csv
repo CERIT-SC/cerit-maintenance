@@ -4,7 +4,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2015-08-27 08:00,2015-08-28 19:00,scheduled maintenance,"prepojeni napajeni",urga.cerit-sc.cz
 2015-08-18 12:00,2015-10-27 18:30,scheduled maintenance,"stehovani clusteru",hdc.cerit-sc.cz hdc.priv.cerit-sc.cz zapat.cerit-sc.cz
 2015-08-18 12:00,2015-10-21 15:30,scheduled maintenance,"stehovani clusteru",hdb.cerit-sc.cz hdb.priv.cerit-sc.cz zigur.cerit-sc.cz
-2015-08-17 08:00,,scheduled maintenance,"vymena disku, HW",hdc48.cerit-sc.cz zapat48.cerit-sc.cz
+2015-08-17 08:00,2015-10-27 22:45,scheduled maintenance,"vymena disku, HW",hdc48.cerit-sc.cz zapat48.cerit-sc.cz
 2015-07-29 09:00,2015-07-30 15:50,scheduled maintenance,"vymena disku, HW",hdb5.cerit-sc.cz zigur5.cerit-sc.cz
 2015-07-15 15:42,2015-07-20 14:40,maintenance,"vymena disku, HW",hdc85.cerit-sc.cz zapat85.cerit-sc.cz
 2015-07-09 14:30,2015-07-10 11:40,maintenance,"vypadek proudu",hdc70.cerit-sc.cz zapat70.cerit-sc.cz hdc71.cerit-sc.cz zapat71.cerit-sc.cz hdc72.cerit-sc.cz zapat72.cerit-sc.cz hdc73.cerit-sc.cz zapat73.cerit-sc.cz hdc86.cerit-sc.cz zapat86.cerit-sc.cz hdc87.cerit-sc.cz zapat87.cerit-sc.cz hdc88.cerit-sc.cz zapat88.cerit-sc.cz hdb29.cerit-sc.cz zigur29.cerit-sc.cz
@@ -32,7 +32,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2015-01-29 17:10,2015-01-30 15:05,scheduled maintenance,"vymena disku, HW",hda28.cerit-sc.cz zegox28.cerit-sc.cz
 2015-02-02 12:00,2015-02-05 11:00,scheduled maintenance,"rekonfigurace scratchu, SW",ungu.cerit-sc.cz
 2015-01-27 22:07,2015-02-05 10:00,maintenance,"vymena disku, HW",hdc13.cerit-sc.cz zapat13.cerit-sc.cz
-2015-01-10 12:25,,maintenance,"stroj nejde zapnout, HW",hdc46.cerit-sc.cz zapat46.cerit-sc.cz
+2015-01-10 12:25,2015-10-27 22:45,maintenance,"stroj nejde zapnout, HW",hdc46.cerit-sc.cz zapat46.cerit-sc.cz
 2015-01-18 20:36,2015-02-05 10:00,maintenance,"vymena disku, HW",hdc40.cerit-sc.cz zapat40.cerit-sc.cz
 2015-01-21 16:00,2015-01-22 17:35,maintenance,"stroj nejde zapnout, HW",hda26.cerit-sc.cz zegox26.cerit-sc.cz
 2015-01-21 13:05,2015-04-08 15:10,reserved,"zatezove testy IBM, SW",zebra11.cerit-sc.cz
@@ -42,7 +42,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-12-29 17:39,2015-01-08 12:40,maintenance,"vymena disku, HW",hdb2.cerit-sc.cz zigur2.cerit-sc.cz
 2014-12-17 14:30,2015-01-21 13:05,scheduled maintenance,"zatezove testy, SW",zebra2.cerit-sc.cz
 2015-01-06 07:00,2015-01-21 13:05,scheduled maintenance,"uprava elektriny",zebra1.cerit-sc.cz zebra2.cerit-sc.cz zebra4.cerit-sc.cz zebra6.cerit-sc.cz zebra7.cerit-sc.cz zebra8.cerit-sc.cz zebra9.cerit-sc.cz zebra10.cerit-sc.cz zebra12.cerit-sc.cz
-2014-12-15 23:55,,reserved,"cloud",hdc112.cerit-sc.cz zapat112.cerit-sc.cz
+2014-12-15 23:55,2015-10-27 22:45,reserved,"cloud",hdc112.cerit-sc.cz zapat112.cerit-sc.cz
 2014-12-11 15:00,,reserved,"zatezove testy db. Peruna",hda10.cerit-sc.cz zegox10.cerit-sc.cz hda13.cerit-sc.cz zegox13.cerit-sc.cz
 2014-12-15 12:00,2015-10-27 18:30,reserved,"posileni cloudu",hdb32.cerit-sc.cz zigur32.cerit-sc.cz hdb31.cerit-sc.cz zigur31.cerit-sc.cz hdb30.cerit-sc.cz zigur30.cerit-sc.cz
 2015-05-21 12:00,,scheduled maintenance,"konec zapujcky experimentalniho stroje",zorg.cerit-sc.cz
