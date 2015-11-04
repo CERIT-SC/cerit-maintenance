@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2015-10-29 23:50,,maintenance,"vymena zdroje, HW",hdc6.priv.cerit-sc.cz zapat6.cerit-sc.cz
-2015-11-04 11:00,,scheduled maintenance,"vymena vetraku, HW",hdc28.priv.cerit-sc.cz zapat28.cerit-sc.cz hdc47.priv.cerit-sc.cz zapat47.priv.cerit-sc.cz hdc70.priv.cerit-sc.cz zapat70.cerit-sc.cz hdc72.priv.cerit-sc.cz zapat72.cerit-sc.cz hdc89.priv.cerit-sc.cz zapat89.cerit-sc.cz
+2015-11-05 12:00,,scheduled maintenance,"vymena vetraku, HW",hdc28.priv.cerit-sc.cz zapat28.cerit-sc.cz hdc47.priv.cerit-sc.cz zapat47.priv.cerit-sc.cz hdc70.priv.cerit-sc.cz zapat70.cerit-sc.cz hdc72.priv.cerit-sc.cz zapat72.cerit-sc.cz hdc89.priv.cerit-sc.cz zapat89.cerit-sc.cz
 2015-10-21 04:50,2015-10-22 10:55,maintenance,"nestabilita, HW",zebra8.cerit-sc.cz
 2015-09-30 19:45,2015-10-12 13:00,maintenance,"problem s napajenim I/O boardu, HW",zebra7.cerit-sc.cz
 2015-08-27 08:00,2015-08-28 19:00,scheduled maintenance,"prepojeni napajeni",urga.cerit-sc.cz
