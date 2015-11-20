@@ -30,7 +30,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2015-03-16 12:00,2015-05-15 10:50,reserved,"posileni cloudu",hdc109.cerit-sc.cz zapat109.cerit-sc.cz hdc108.cerit-sc.cz zapat108.cerit-sc.cz hdc105.cerit-sc.cz zapat105.cerit-sc.cz hdc99.cerit-sc.cz zapat99.cerit-sc.cz hdc97.cerit-sc.cz zapat97.cerit-sc.cz hdc96.cerit-sc.cz zapat96.cerit-sc.cz hdc95.cerit-sc.cz zapat95.cerit-sc.cz hdc94.cerit-sc.cz zapat94.cerit-sc.cz hdc92.cerit-sc.cz zapat92.cerit-sc.cz hdc83.cerit-sc.cz zapat83.cerit-sc.cz hdc81.cerit-sc.cz zapat81.cerit-sc.cz hdc75.cerit-sc.cz zapat75.cerit-sc.cz
 2015-03-10 09:00,2015-03-17 14:50,scheduled maintenance,"vymena radice, HW",urga.cerit-sc.cz
 2015-02-19 08:09,2015-02-23 11:45,maintenance,"vymena disku, HW",hdb21.cerit-sc.cz zigur21.cerit-sc.cz
-2015-02-23 03:00,,reserved,"testovani noveho deploymentu",hda40.cerit-sc.cz zegox40.cerit-sc.cz
+2015-02-23 03:00,2015-11-20 12:30,reserved,"testovani noveho deploymentu",hda40.cerit-sc.cz zegox40.cerit-sc.cz
 2015-02-17 05:15,2015-02-26 16:15,maintenance,"stroj se vypina, HW",hda39.cerit-sc.cz zegox39.cerit-sc.cz
 2015-02-17 13:10,2015-02-18 20:55,maintenance,"odchazejici disk, HW",hdc52.cerit-sc.cz zapat52.cerit-sc.cz
 2015-02-06 07:14,2015-02-10 21:30,maintenance,"vymena disku, HW",hdc61.cerit-sc.cz zapat61.cerit-sc.cz
@@ -44,12 +44,12 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2015-01-21 13:05,2015-04-08 15:10,reserved,"zatezove testy IBM, SW",zebra11.cerit-sc.cz
 2015-01-21 13:05,2015-04-17 14:20,reserved,"zatezove testy IBM, SW",zebra12.cerit-sc.cz
 2015-01-21 13:05,2015-08-03 23:15,reserved,"zatezove testy IBM, SW",zebra4.cerit-sc.cz zebra5.cerit-sc.cz
-2015-01-16 15:00,,reserved,"workshop KYPO",hda8.cerit-sc.cz zegox8.cerit-sc.cz hda9.cerit-sc.cz zegox9.cerit-sc.cz hda12.cerit-sc.cz zegox12.cerit-sc.cz hda14.cerit-sc.cz zegox14.cerit-sc.cz hda17.cerit-sc.cz zegox17.cerit-sc.cz hda24.cerit-sc.cz zegox24.cerit-sc.cz hda26.cerit-sc.cz zegox26.cerit-sc.cz
+2015-01-16 15:00,2015-11-20 12:30,reserved,"workshop KYPO",hda8.cerit-sc.cz zegox8.cerit-sc.cz hda9.cerit-sc.cz zegox9.cerit-sc.cz hda12.cerit-sc.cz zegox12.cerit-sc.cz hda14.cerit-sc.cz zegox14.cerit-sc.cz hda17.cerit-sc.cz zegox17.cerit-sc.cz hda24.cerit-sc.cz zegox24.cerit-sc.cz hda26.cerit-sc.cz zegox26.cerit-sc.cz
 2014-12-29 17:39,2015-01-08 12:40,maintenance,"vymena disku, HW",hdb2.cerit-sc.cz zigur2.cerit-sc.cz
 2014-12-17 14:30,2015-01-21 13:05,scheduled maintenance,"zatezove testy, SW",zebra2.cerit-sc.cz
 2015-01-06 07:00,2015-01-21 13:05,scheduled maintenance,"uprava elektriny",zebra1.cerit-sc.cz zebra2.cerit-sc.cz zebra4.cerit-sc.cz zebra6.cerit-sc.cz zebra7.cerit-sc.cz zebra8.cerit-sc.cz zebra9.cerit-sc.cz zebra10.cerit-sc.cz zebra12.cerit-sc.cz
 2014-12-15 23:55,2015-10-27 22:45,reserved,"cloud",hdc112.cerit-sc.cz zapat112.cerit-sc.cz
-2014-12-11 15:00,,reserved,"zatezove testy db. Peruna",hda10.cerit-sc.cz zegox10.cerit-sc.cz hda13.cerit-sc.cz zegox13.cerit-sc.cz
+2014-12-11 15:00,2015-11-20 12:30,reserved,"zatezove testy db. Peruna",hda10.cerit-sc.cz zegox10.cerit-sc.cz hda13.cerit-sc.cz zegox13.cerit-sc.cz
 2014-12-15 12:00,2015-10-27 18:30,reserved,"posileni cloudu",hdb32.cerit-sc.cz zigur32.cerit-sc.cz hdb31.cerit-sc.cz zigur31.cerit-sc.cz hdb30.cerit-sc.cz zigur30.cerit-sc.cz
 2015-05-21 12:00,,scheduled maintenance,"konec zapujcky experimentalniho stroje",zorg.cerit-sc.cz
 2014-11-28 12:00,2014-11-28 17:00,scheduled maintenance,"vymena pameti, HW",ungu1.cerit-sc.cz
@@ -66,24 +66,24 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-12-01 17:35,2015-01-21 13:05,scheduled maintenance,"uprava elektriny",zebra3.cerit-sc.cz zebra5.cerit-sc.cz zebra11.cerit-sc.cz
 2014-11-20 05:00,2014-12-01 17:35,scheduled maintenance,"uprava elektriny",zebra.cerit-sc.cz
 2014-11-14 18:00,2014-12-11 01:30,scheduled maintenance,"priprava clusteru, SW",urga1.cerit-sc.cz
-2014-11-28 12:00,,reserved,"workshop KYPO",hda3.cerit-sc.cz zegox3.cerit-sc.cz hda4.cerit-sc.cz zegox4.cerit-sc.cz hda5.cerit-sc.cz zegox5.cerit-sc.cz hda6.cerit-sc.cz zegox6.cerit-sc.cz hda7.cerit-sc.cz zegox7.cerit-sc.cz
+2014-11-28 12:00,2015-11-20 12:30,reserved,"workshop KYPO",hda3.cerit-sc.cz zegox3.cerit-sc.cz hda4.cerit-sc.cz zegox4.cerit-sc.cz hda5.cerit-sc.cz zegox5.cerit-sc.cz hda6.cerit-sc.cz zegox6.cerit-sc.cz hda7.cerit-sc.cz zegox7.cerit-sc.cz
 2014-11-03 22:20,2014-11-14 11:30,scheduled maintenance,"stehovani clusteru",zebra10.cerit-sc.cz
 2014-11-03 22:20,2014-11-14 11:30,scheduled maintenance,"stehovani clusteru",zewura18.cerit-sc.cz
 2014-11-03 22:20,2014-12-01 17:35,scheduled maintenance,"stehovani clusteru",zebra8.cerit-sc.cz
 2014-11-03 22:20,2014-12-01 17:35,scheduled maintenance,"stehovani clusteru",zewura16.cerit-sc.cz
 2014-11-03 22:20,2014-11-12 23:20,scheduled maintenance,"stehovani clusteru",zebra.cerit-sc.cz
 2014-11-03 22:20,2014-11-12 23:20,scheduled maintenance,"stehovani clusteru",zewura9.cerit-sc.cz zewura10.cerit-sc.cz zewura11.cerit-sc.cz zewura12.cerit-sc.cz zewura13.cerit-sc.cz zewura14.cerit-sc.cz zewura15.cerit-sc.cz zewura17.cerit-sc.cz zewura19.cerit-sc.cz zewura20.cerit-sc.cz
-2014-11-12 14:00,,reserved,"testovani noveho deploymentu",hda2.cerit-sc.cz zegox2.cerit-sc.cz hda16.cerit-sc.cz zegox16.cerit-sc.cz
+2014-11-12 14:00,2015-11-20 12:30,reserved,"testovani noveho deploymentu",hda2.cerit-sc.cz zegox2.cerit-sc.cz hda16.cerit-sc.cz zegox16.cerit-sc.cz
 2014-11-07 23:33,2014-11-10 11:30,maintenance,"vymena disku, HW",hdc83.cerit-sc.cz zapat83.cerit-sc.cz
 2014-11-08 10:22,2014-11-10 11:30,maintenance,"problem s virtualizaci, SW",hdc31.cerit-sc.cz zapat31.cerit-sc.cz
 2014-11-02 11:50,2014-11-10 11:30,maintenance,"problem s virtualizaci, SW",hdc55.cerit-sc.cz zapat55.cerit-sc.cz
 2014-11-04 20:05,2014-11-10 11:30,maintenance,"vymena disku, HW",hdc87.cerit-sc.cz zapat87.cerit-sc.cz
 2014-11-12 12:00,2014-11-13 13:30,scheduled maintenance,"vymena disku, HW",hdc12.cerit-sc.cz zapat12.cerit-sc.cz
 2014-10-15 10:00,2015-01-09 14:30,reserved,"workshop KYPO",hda24.cerit-sc.cz zegox24.cerit-sc.cz 
-2014-10-15 10:00,,reserved,"workshop KYPO",hda37.cerit-sc.cz zegox37.cerit-sc.cz hda36.cerit-sc.cz zegox36.cerit-sc.cz hda27.cerit-sc.cz zegox27.cerit-sc.cz hda23.cerit-sc.cz zegox23.cerit-sc.cz hda21.cerit-sc.cz zegox21.cerit-sc.cz hda25.cerit-sc.cz zegox25.cerit-sc.cz
+2014-10-15 10:00,2015-11-20 12:30,reserved,"workshop KYPO",hda37.cerit-sc.cz zegox37.cerit-sc.cz hda36.cerit-sc.cz zegox36.cerit-sc.cz hda27.cerit-sc.cz zegox27.cerit-sc.cz hda23.cerit-sc.cz zegox23.cerit-sc.cz hda21.cerit-sc.cz zegox21.cerit-sc.cz hda25.cerit-sc.cz zegox25.cerit-sc.cz
 2014-10-10 06:03,2014-10-13 16:50,maintenance,"vymena disku, HW",hdc22.cerit-sc.cz zapat22.cerit-sc.cz
 2014-10-13 10:48,2014-10-13 16:00,scheduled maintenance,"vymena disku, HW",hdc45.cerit-sc.cz zapat45.cerit-sc.cz
-2014-09-26 17:00,,reserved,"workshop KYPO",hda40.cerit-sc.cz zegox40.cerit-sc.cz hda20.cerit-sc.cz zegox20.cerit-sc.cz hda22.cerit-sc.cz zegox22.cerit-sc.cz hda11.cerit-sc.cz zegox11.cerit-sc.cz hda38.cerit-sc.cz zegox38.cerit-sc.cz hda39.cerit-sc.cz zegox39.cerit-sc.cz
+2014-09-26 17:00,2015-11-20 12:30,reserved,"workshop KYPO",hda40.cerit-sc.cz zegox40.cerit-sc.cz hda20.cerit-sc.cz zegox20.cerit-sc.cz hda22.cerit-sc.cz zegox22.cerit-sc.cz hda11.cerit-sc.cz zegox11.cerit-sc.cz hda38.cerit-sc.cz zegox38.cerit-sc.cz hda39.cerit-sc.cz zegox39.cerit-sc.cz
 2014-11-24 11:00,2014-11-24 16:50,scheduled maintenance,"reboot stroje, SW",zewura2.cerit-sc.cz
 2014-09-23 12:45,2014-09-23 13:00,scheduled maintenance,"reboot stroje, SW",zewura5.cerit-sc.cz
 2014-09-24 14:00,2014-09-26 16:00,scheduled maintenance,"reboot stroje, SW",zewura7.cerit-sc.cz
@@ -103,7 +103,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-08-27 06:11,2014-09-17 15:45,scheduled maintenance,"vymena disku, HW",hdc67.cerit-sc.cz zapat67.cerit-sc.cz
 2014-08-19 15:35,2014-09-17 15:45,scheduled maintenance,"vymena disku, HW",hdb9.cerit-sc.cz zigur9.cerit-sc.cz hdc39.cerit-sc.cz zapat39.cerit-sc.cz hdc74.cerit-sc.cz zapat74.cerit-sc.cz hdc106.cerit-sc.cz zapat106.cerit-sc.cz
 2014-07-25 16:32,2014-07-28 14:30,maintenance,"stroj nejde zapnout, HW",zewura3.cerit-sc.cz
-2014-07-15 11:45,,reserved,"cloud",hda28.cerit-sc.cz zegox28.cerit-sc.cz hda29.cerit-sc.cz zegox29.cerit-sc.cz hda30.cerit-sc.cz zegox30.cerit-sc.cz hda31.cerit-sc.cz zegox31.cerit-sc.cz hda32.cerit-sc.cz zegox32.cerit-sc.cz hda33.cerit-sc.cz zegox33.cerit-sc.cz hda34.cerit-sc.cz zegox34.cerit-sc.cz hda35.cerit-sc.cz zegox35.cerit-sc.cz
+2014-07-15 11:45,2015-11-20 12:30,reserved,"cloud",hda28.cerit-sc.cz zegox28.cerit-sc.cz hda29.cerit-sc.cz zegox29.cerit-sc.cz hda30.cerit-sc.cz zegox30.cerit-sc.cz hda31.cerit-sc.cz zegox31.cerit-sc.cz hda32.cerit-sc.cz zegox32.cerit-sc.cz hda33.cerit-sc.cz zegox33.cerit-sc.cz hda34.cerit-sc.cz zegox34.cerit-sc.cz hda35.cerit-sc.cz zegox35.cerit-sc.cz
 2014-06-12 12:00,2014-07-15 11:45,reserved,"workshop KYPO",hda20.cerit-sc.cz zegox20.cerit-sc.cz hda21.cerit-sc.cz zegox21.cerit-sc.cz hda22.cerit-sc.cz zegox22.cerit-sc.cz hda23.cerit-sc.cz zegox23.cerit-sc.cz hda24.cerit-sc.cz zegox24.cerit-sc.cz hda25.cerit-sc.cz zegox25.cerit-sc.cz hda26.cerit-sc.cz zegox26.cerit-sc.cz hda27.cerit-sc.cz zegox27.cerit-sc.cz hda28.cerit-sc.cz zegox28.cerit-sc.cz hda29.cerit-sc.cz zegox29.cerit-sc.cz hda30.cerit-sc.cz zegox30.cerit-sc.cz hda31.cerit-sc.cz zegox31.cerit-sc.cz hda32.cerit-sc.cz zegox32.cerit-sc.cz hda33.cerit-sc.cz zegox33.cerit-sc.cz hda34.cerit-sc.cz zegox34.cerit-sc.cz hda35.cerit-sc.cz zegox35.cerit-sc.cz
 2014-06-05 13:50,2014-06-09 14:30,scheduled maintenance,"vymena disku, HW",hdc46.cerit-sc.cz zapat46.cerit-sc.cz
 2014-05-26 11:30,2014-06-09 14:30,scheduled maintenance,"vymena disku, HW",hdc24.cerit-sc.cz zapat24.cerit-sc.cz
@@ -119,7 +119,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-03-21 12:00,2014-04-22 10:45,reserved,"zatezove testy KYPO",hda16.cerit-sc.cz zegox16.cerit-sc.cz hda17.cerit-sc.cz zegox17.cerit-sc.cz
 2014-03-21 12:00,2014-05-12 17:30,reserved,"zatezove testy KYPO",hda10.cerit-sc.cz zegox10.cerit-sc.cz hda12.cerit-sc.cz zegox12.cerit-sc.cz hda13.cerit-sc.cz zegox13.cerit-sc.cz
 2014-03-21 12:00,2014-05-29 15:00,reserved,"zatezove testy KYPO",hda14.cerit-sc.cz zegox14.cerit-sc.cz
-2014-03-21 12:00,,reserved,"zatezove testy KYPO",hda15.cerit-sc.cz zegox15.cerit-sc.cz hda18.cerit-sc.cz zegox18.cerit-sc.cz hda19.cerit-sc.cz zegox19.cerit-sc.cz
+2014-03-21 12:00,2015-11-20 12:30,reserved,"zatezove testy KYPO",hda15.cerit-sc.cz zegox15.cerit-sc.cz hda18.cerit-sc.cz zegox18.cerit-sc.cz hda19.cerit-sc.cz zegox19.cerit-sc.cz
 2014-03-18 11:40,2014-04-01 14:00,scheduled maintenance,"vymena disku, HW",hdc45.cerit-sc.cz zapat45.cerit-sc.cz
 2014-02-25 15:00,2014-02-26 18:30,scheduled maintenance,"upgrade OS, SW",zewura8.cerit-sc.cz zewura2.cerit-sc.cz zewura4.cerit-sc.cz
 2014-02-24 17:00,2014-02-25 19:15,maintenance,"neplanovana rekonfigurace stroje, SW",hda14.cerit-sc.cz zegox14.cerit-sc.cz hda30.cerit-sc.cz zegox30.cerit-sc.cz
@@ -151,4 +151,4 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2013-10-10 15:41,2014-04-01 14:00,scheduled maintenance,"kolisajici vykon, HW",zapat17.cerit-sc.cz hdc17.cerit-sc.cz
 2013-09-09 14:43,2014-04-03 17:50,scheduled maintenance,"reseni nestability, HW",zapat28.cerit-sc.cz hdc28.cerit-sc.cz
 2013-07-19 11:58,2014-05-12 17:30,reserved,"zatezove testy MM/CEZ",zegox2.cerit-sc.cz hda2.cerit-sc.cz
-2013-07-19 11:57,,reserved,"zatezove testy MM/CEZ",zegox1.cerit-sc.cz hda1.cerit-sc.cz
+2013-07-19 11:57,2015-11-20 12:30,reserved,"zatezove testy MM/CEZ",zegox1.cerit-sc.cz hda1.cerit-sc.cz
