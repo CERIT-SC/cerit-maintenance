@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2016-01-11 14:00,,scheduled maintenance,"vymena disku, HW",hdb8.priv.cerit-sc.cz zigur8.cerit-sc.cz
+2016-01-11 14:00,2016-01-14 17:30,scheduled maintenance,"vymena disku, HW",hdb8.priv.cerit-sc.cz zigur8.cerit-sc.cz
 2016-01-09 12:00,2016-01-11 10:50,scheduled maintenance,"chyba IB VF",hdb18.priv.cerit-sc.cz zigur18.cerit-sc.cz
 2016-01-19 12:00,,scheduled maintenance,"chyba IB VF",hdc48.priv.cerit-sc.cz zapat48.cerit-sc.cz
 2016-01-14 08:00,2016-01-14 15:45,scheduled maintenance,"vymena vetraku, HW",hdc104.priv.cerit-sc.cz zapat104.cerit-sc.cz
