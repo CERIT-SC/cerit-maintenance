@@ -2,7 +2,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2016-01-11 14:00,,scheduled maintenance,"vymena disku, HW",hdb8.priv.cerit-sc.cz zigur8.cerit-sc.cz
 2016-01-09 12:00,2016-01-11 10:50,scheduled maintenance,"chyba IB VF",hdb18.priv.cerit-sc.cz zigur18.cerit-sc.cz
 2016-01-19 12:00,,scheduled maintenance,"chyba IB VF",hdc48.priv.cerit-sc.cz zapat48.cerit-sc.cz
-2016-01-14 08:00,,scheduled maintenance,"vymena vetraku, HW",hdc104.priv.cerit-sc.cz zapat104.cerit-sc.cz
+2016-01-14 08:00,2016-01-14 15:45,scheduled maintenance,"vymena vetraku, HW",hdc104.priv.cerit-sc.cz zapat104.cerit-sc.cz
 2015-12-16 00:00,,maintenance,"vymena zdroje, HW",hdc20.priv.cerit-sc.cz zapat20.cerit-sc.cz
 2015-12-11 08:00,2015-12-21 15:00,scheduled maintenance,"prepojeni napajeni",hdc89.priv.cerit-sc.cz zapat89.cerit-sc.cz hdc90.priv.cerit-sc.cz zapat90.cerit-sc.cz hdc91.priv.cerit-sc.cz zapat91.cerit-sc.cz
 2015-12-11 08:00,2016-01-04 17:00,scheduled maintenance,"vymena vetraku, HW",hdc67.priv.cerit-sc.cz zapat67.cerit-sc.cz
