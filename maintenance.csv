@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2016-02-16 12:00,,scheduled maintenance,"vymena vetraku, HW",hdb18.priv.cerit-sc.cz zigur18.cerit-sc.cz hdc11.priv.cerit-sc.cz zapat11.cerit-sc.cz hdc45.priv.cerit-sc.cz zapat45.cerit-sc.cz
 2016-02-16 12:00,,reserved,"posileni cloudu",zigur1.cerit-sc.cz zigur2.cerit-sc.cz zigur3.cerit-sc.cz zigur4.cerit-sc.cz
 2016-02-06 12:00,,scheduled maintenance,"upgrade systemu, SW",zebra12.cerit-sc.cz
 2016-02-15 08:00,,reserved,"cviceni CyberCzech",zegox.cerit-sc.cz
