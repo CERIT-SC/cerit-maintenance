@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2016-02-23 11:47,,scheduled maintenance,"upgrade systemu, SW",zebra8.cerit-sc.cz
 2016-02-23 15:00,,scheduled maintenance,"zmena velikosti pameti virt.",zefron.cerit-sc.cz zefron.priv.cerit-sc.cz
 2016-02-24 12:00,,scheduled maintenance,"vymena vetraku, HW",hdb18.priv.cerit-sc.cz zigur18.cerit-sc.cz hdc11.priv.cerit-sc.cz zapat11.cerit-sc.cz hdc45.priv.cerit-sc.cz zapat45.cerit-sc.cz
 2016-02-24 12:00,,reserved,"posileni cloudu",zigur1.cerit-sc.cz zigur2.cerit-sc.cz zigur3.cerit-sc.cz zigur4.cerit-sc.cz
