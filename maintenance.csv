@@ -3,7 +3,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2016-02-25 14:00,2016-02-25 15:15,scheduled maintenance,"test GPU driveru",zefron8.cerit-sc.cz
 2016-02-24 15:30,2016-02-24 16:30,scheduled maintenance,"bezpecnostni reboot, SW",urga.cerit-sc.cz
 2016-02-23 14:30,2016-02-23 20:15,scheduled maintenance,"zmena velikosti pameti virt.",zefron4.cerit-sc.cz zefron5.cerit-sc.cz zefron6.cerit-sc.cz zefron7.cerit-sc.cz zefron8.cerit-sc.cz
-2016-02-23 14:30,,scheduled maintenance,"zmena velikosti pameti virt.",zefron1.cerit-sc.cz zefron2.cerit-sc.cz zefron3.cerit-sc.cz
+2016-02-23 14:30,2016-02-25 18:20,scheduled maintenance,"zmena velikosti pameti virt.",zefron1.cerit-sc.cz zefron2.cerit-sc.cz zefron3.cerit-sc.cz
 2016-02-23 11:47,,scheduled maintenance,"upgrade systemu, SW",zebra8.cerit-sc.cz
 2016-02-29 12:00,,scheduled maintenance,"vymena vetraku, HW",hdb18.priv.cerit-sc.cz zigur18.cerit-sc.cz hdc11.priv.cerit-sc.cz zapat11.cerit-sc.cz hdc45.priv.cerit-sc.cz zapat45.cerit-sc.cz
 2016-02-24 12:00,,reserved,"posileni cloudu",zigur1.cerit-sc.cz zigur2.cerit-sc.cz zigur3.cerit-sc.cz zigur4.cerit-sc.cz
