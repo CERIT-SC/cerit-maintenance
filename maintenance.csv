@@ -8,7 +8,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2016-03-03 04:07,,maintenance,"vymena disku, HW",hdc77.priv.cerit-sc.cz zapat77.cerit-sc.cz
 2016-03-03 09:30,,scheduled maintenance,"upgrade systemu, SW",zebra9.cerit-sc.cz
 2016-03-02 09:30,,scheduled maintenance,"upgrade systemu, SW",zebra5.cerit-sc.cz zebra10.cerit-sc.cz
-2016-03-03 12:00,,scheduled maintenance,"vymena vetraku, HW",hdc3.priv.cerit-sc.cz zapat3.cerit-sc.cz
+2016-03-03 12:00,2016-03-14 17:30,scheduled maintenance,"vymena vetraku, HW",hdc3.priv.cerit-sc.cz zapat3.cerit-sc.cz
 2016-03-07 08:00,,scheduled maintenance,"upgrade systemu, SW",zebra1.cerit-sc.cz zebra2.cerit-sc.cz zebra3.cerit-sc.cz zebra4.cerit-sc.cz zebra6.cerit-sc.cz zebra7.cerit-sc.cz zebra9.cerit-sc.cz zebra11.cerit-sc.cz
 2016-02-25 14:00,2016-02-25 15:15,scheduled maintenance,"test GPU driveru",zefron8.cerit-sc.cz
 2016-02-24 15:30,2016-02-24 16:30,scheduled maintenance,"bezpecnostni reboot, SW",urga.cerit-sc.cz
