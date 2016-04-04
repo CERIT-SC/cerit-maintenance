@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2016-04-04 15:50,,maintenance,"chyba cteni z disku, HW",hdc94.priv.cerit-sc.cz zapat94.cerit-sc.cz
 2016-04-04 12:00,2016-04-04 15:30,scheduled maintenance,"chyba cteni z disku, HW",hdc23.priv.cerit-sc.cz zapat23.cerit-sc.cz
 2016-03-21 17:30,,scheduled maintenance,"restart a rekonfigurace, HW",zefron7.priv.cerit-sc.cz zefron7.cerit-sc.cz
 2016-04-05 12:00,,scheduled maintenance,"zaseknute iLO, HW",hdc14.priv.cerit-sc.cz zapat14.cerit-sc.cz hdc15.priv.cerit-sc.cz zapat15.cerit-sc.cz hdc53.priv.cerit-sc.cz zapat53.cerit-sc.cz
