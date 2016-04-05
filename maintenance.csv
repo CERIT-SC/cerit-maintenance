@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2016-04-06 12:00,,scheduled maintenance,"vymena disku, HW",hdc94.priv.cerit-sc.cz zapat94.cerit-sc.cz
+2016-04-07 12:00,,scheduled maintenance,"vymena disku, HW",hdc94.priv.cerit-sc.cz zapat94.cerit-sc.cz
 2016-04-04 15:50,2016-04-05 10:10,maintenance,"chyba cteni z disku, HW",hdc94.priv.cerit-sc.cz zapat94.cerit-sc.cz
 2016-04-04 12:00,2016-04-04 15:30,scheduled maintenance,"chyba cteni z disku, HW",hdc23.priv.cerit-sc.cz zapat23.cerit-sc.cz
 2016-03-21 17:30,,scheduled maintenance,"restart a rekonfigurace, HW",zefron7.priv.cerit-sc.cz zefron7.cerit-sc.cz
@@ -12,7 +12,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2016-03-07 12:00,2016-04-01 13:00,scheduled maintenance,"vymena vetraku, HW",hdc6.priv.cerit-sc.cz zapat6.cerit-sc.cz
 2016-03-03 12:30,,scheduled maintenance,"upgrade systemu, SW",zebra3.cerit-sc.cz zebra4.cerit-sc.cz
 2016-03-03 05:50,2016-03-11 18:10,maintenance,"vadna pamet, HW",hdb21.priv.cerit-sc.cz zigur21.cerit-sc.cz
-2016-03-03 04:07,,maintenance,"vymena disku, HW",hdc77.priv.cerit-sc.cz zapat77.cerit-sc.cz
+2016-03-03 04:07,2016-03-05 21:30,maintenance,"vymena disku, HW",hdc77.priv.cerit-sc.cz zapat77.cerit-sc.cz
 2016-03-03 09:30,,scheduled maintenance,"upgrade systemu, SW",zebra9.cerit-sc.cz
 2016-03-02 09:30,,scheduled maintenance,"upgrade systemu, SW",zebra5.cerit-sc.cz zebra10.cerit-sc.cz
 2016-03-03 12:00,2016-03-14 17:30,scheduled maintenance,"vymena vetraku, HW",hdc3.priv.cerit-sc.cz zapat3.cerit-sc.cz
