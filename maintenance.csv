@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2016-04-08 09:00,,scheduled maintenance,"instalace virt. stroje, HW",zorg.priv.cerit-sc.cz zorg.cerit-sc.cz
+2016-04-08 09:00,2016-04-08 11:30,scheduled maintenance,"instalace virt. stroje, HW",zorg.priv.cerit-sc.cz zorg.cerit-sc.cz
 2016-05-02 12:00,,scheduled maintenance,"update FW disku, HW",hdb3.priv.cerit-sc.cz zigur3.cerit-sc.cz hdb4.priv.cerit-sc.cz zigur4.cerit-sc.cz hdb29.priv.cerit-sc.cz zigur29.cerit-sc.cz hdb32.priv.cerit-sc.cz zigur32.cerit-sc.cz hdc1.priv.cerit-sc.cz zapat1.cerit-sc.cz hdc2.priv.cerit-sc.cz zapat2.cerit-sc.cz hdc3.priv.cerit-sc.cz zapat3.cerit-sc.cz hdc4.priv.cerit-sc.cz zapat4.cerit-sc.cz hdc5.priv.cerit-sc.cz zapat5.cerit-sc.cz hdc10.priv.cerit-sc.cz zapat10.cerit-sc.cz hdc11.priv.cerit-sc.cz zapat11.cerit-sc.cz hdc16.priv.cerit-sc.cz zapat16.cerit-sc.cz hdc17.priv.cerit-sc.cz zapat17.cerit-sc.cz hdc18.priv.cerit-sc.cz zapat18.cerit-sc.cz hdc20.priv.cerit-sc.cz zapat20.cerit-sc.cz hdc54.priv.cerit-sc.cz zapat54.cerit-sc.cz hdc91.priv.cerit-sc.cz zapat91.cerit-sc.cz hdc92.priv.cerit-sc.cz zapat92.cerit-sc.cz hdc95.priv.cerit-sc.cz zapat95.cerit-sc.cz hdc96.priv.cerit-sc.cz zapat96.cerit-sc.cz hdc97.priv.cerit-sc.cz zapat97.cerit-sc.cz hdc98.priv.cerit-sc.cz zapat98.cerit-sc.cz hdc99.priv.cerit-sc.cz zapat99.cerit-sc.cz hdc100.priv.cerit-sc.cz zapat100.cerit-sc.cz hdc101.priv.cerit-sc.cz zapat101.cerit-sc.cz hdc103.priv.cerit-sc.cz zapat103.cerit-sc.cz hdc104.priv.cerit-sc.cz zapat104.cerit-sc.cz hdc112.priv.cerit-sc.cz zapat112.cerit-sc.cz
 2016-04-07 12:00,2016-04-07 13:00,scheduled maintenance,"update FW disku, HW",hdc94.priv.cerit-sc.cz zapat94.cerit-sc.cz
 2016-04-04 15:50,2016-04-05 10:10,maintenance,"chyba cteni z disku, HW",hdc94.priv.cerit-sc.cz zapat94.cerit-sc.cz
@@ -91,7 +91,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-12-15 23:55,2015-10-27 22:45,reserved,"cloud",hdc112.cerit-sc.cz zapat112.cerit-sc.cz
 2014-12-11 15:00,2015-11-20 12:30,reserved,"zatezove testy db. Peruna",hda10.cerit-sc.cz zegox10.cerit-sc.cz hda13.cerit-sc.cz zegox13.cerit-sc.cz
 2014-12-15 12:00,2015-10-27 18:30,reserved,"posileni cloudu",hdb32.cerit-sc.cz zigur32.cerit-sc.cz hdb31.cerit-sc.cz zigur31.cerit-sc.cz hdb30.cerit-sc.cz zigur30.cerit-sc.cz
-2015-05-21 12:00,,scheduled maintenance,"konec zapujcky experimentalniho stroje",zorg.cerit-sc.cz
+2015-05-21 12:00,2016-04-08 08:59,scheduled maintenance,"konec zapujcky experimentalniho stroje",zorg.cerit-sc.cz
 2014-11-28 12:00,2014-11-28 17:00,scheduled maintenance,"vymena pameti, HW",ungu1.cerit-sc.cz
 2014-12-15 12:00,2014-12-15 15:55,scheduled maintenance,"udrzba stroje, SW",zewura1.cerit-sc.cz
 2014-12-15 12:00,2014-12-15 16:05,scheduled maintenance,"udrzba stroje, SW",zewura3.cerit-sc.cz
