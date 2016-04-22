@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2016-04-22 11:30,,reserved,"CTF",hda2.priv.cerit-sc.cz
 2016-04-20 16:20,,scheduled maintenance,"testovani cgroups, SW",zebra4b.priv.cerit-sc.cz zebra4b.cerit-sc.cz
 2016-04-19 08:40,,scheduled maintenance,"degradovany vykon, HW",zefron2.priv.cerit-sc.cz zefron2.cerit-sc.cz zefron3.priv.cerit-sc.cz zefron3.cerit-sc.cz
 2016-04-15 13:30,,maintenance,"vymena zdroje, HW",hdc99.priv.cerit-sc.cz zapat99.cerit-sc.cz
