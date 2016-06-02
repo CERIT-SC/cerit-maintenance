@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2016-06-02 15:00,,scheduled maintenance,"reboot, SW",hdb6.priv.cerit-sc.cz zigur6.cerit-sc.cz
+2016-06-02 11:00,2016-06-02 11:50,scheduled maintenance,"reboot, SW",hdb6.priv.cerit-sc.cz zigur6.cerit-sc.cz
 2016-05-12 05:15,,maintenance,"odesly zdroj, HW",hdc50.priv.cerit-sc.cz zapat50.cerit-sc.cz
 2016-04-22 11:30,,reserved,"CTF",hda2.priv.cerit-sc.cz
 2016-04-20 16:20,2016-04-28 16:30,reserved,"testovani cgroups, SW",zebra4b.priv.cerit-sc.cz zebra4b.cerit-sc.cz
