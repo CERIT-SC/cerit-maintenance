@@ -1,6 +1,5 @@
 language: perl
-
 notifications:
   email:
-    - holer@ics.muni.cz
+    - root@cerit-sc.cz
     - makub@ics.muni.cz
