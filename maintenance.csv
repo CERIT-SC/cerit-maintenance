@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2016-07-22 11:20,,maintenance,"vymena pameti, HW",zefron4.priv.cerit-sc.cz zefron4.cerit-sc.cz
 2016-07-17 09:45,2016-07-22 11:20,maintenance,"test pameti",zefron4.priv.cerit-sc.cz zefron4.cerit-sc.cz
 2016-07-20 10:00,,reserved,"posileni cloudu",zebra2a.priv.cerit-sc.cz zebra2a.cerit-sc.cz zebra2b.priv.cerit-sc.cz zebra2b.cerit-sc.cz
 2016-06-02 11:00,2016-06-02 11:50,scheduled maintenance,"reboot, SW",hdb6.priv.cerit-sc.cz zigur6.cerit-sc.cz
