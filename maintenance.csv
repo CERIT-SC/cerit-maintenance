@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2016-09-15 16:30,,maintenance,"stroj se resetuje, HW",zewura4.cerit-sc.cz
-2016-09-15 03:30,,maintenance,"problem s napajenim chassis, HW",urga.cerit-sc.cz
+2016-09-15 03:30,2016-09-21 18:40,maintenance,"problem s napajenim chassis, HW",urga.cerit-sc.cz
 2016-09-26 11:00,,scheduled maintenance,"degradovany vykon, HW",zefron.priv.cerit-sc.cz zefron.cerit-sc.cz
 2016-08-21 09:55,2016-08-25 12:00,maintenance,"stroj nejde zapnout, HW",zewura4.cerit-sc.cz
 2016-08-17 03:50,2016-08-19 11:45,maintenance,"odesle vetracky, HW",hdc7.priv.cerit-sc.cz zapat7.cerit-sc.cz
