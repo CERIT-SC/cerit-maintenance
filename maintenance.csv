@@ -3,7 +3,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2016-10-06 12:00,,reserved,"posileni cloudu",hdc28.priv.cerit-sc.cz zapat28.cerit-sc.cz hdc44.priv.cerit-sc.cz zapat44.cerit-sc.cz hdc60.priv.cerit-sc.cz zapat60.cerit-sc.cz hdc65.priv.cerit-sc.cz zapat65.cerit-sc.cz hdc82.priv.cerit-sc.cz zapat82.cerit-sc.cz hdc83.priv.cerit-sc.cz zapat83.cerit-sc.cz hdc97.priv.cerit-sc.cz zapat97.cerit-sc.cz hdc78.priv.cerit-sc.cz zapat78.cerit-sc.cz hdc55.priv.cerit-sc.cz zapat55.cerit-sc.cz hdc37.priv.cerit-sc.cz zapat37.cerit-sc.cz hdc3.priv.cerit-sc.cz zapat3.cerit-sc.cz
 2016-09-15 16:30,,maintenance,"stroj se resetuje, HW",zewura4.cerit-sc.cz
 2016-09-15 03:30,2016-09-21 18:40,maintenance,"problem s napajenim chassis, HW",urga.cerit-sc.cz
-2016-10-17 12:00,,reserved,"posileni cloudu",zefron8.priv.cerit-sc.cz zefron8.cerit-sc.cz
+2016-10-17 12:00,2016-10-31 16:15,reserved,"posileni cloudu",zefron8.priv.cerit-sc.cz zefron8.cerit-sc.cz
 2016-11-01 12:00,,scheduled maintenance,"degradovany vykon, HW",zefron1.priv.cerit-sc.cz zefron1.cerit-sc.cz zefron2.priv.cerit-sc.cz zefron2.cerit-sc.cz zefron3.priv.cerit-sc.cz zefron3.cerit-sc.cz zefron4.priv.cerit-sc.cz zefron4.cerit-sc.cz zefron5.priv.cerit-sc.cz zefron5.cerit-sc.cz zefron6.priv.cerit-sc.cz zefron6.cerit-sc.cz zefron7.priv.cerit-s.cz zefron7.cerit-sc.cz
 2016-08-21 09:55,2016-08-25 12:00,maintenance,"stroj nejde zapnout, HW",zewura4.cerit-sc.cz
 2016-08-17 03:50,2016-08-19 11:45,maintenance,"odesle vetracky, HW",hdc7.priv.cerit-sc.cz zapat7.cerit-sc.cz
