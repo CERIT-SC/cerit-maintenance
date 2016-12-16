@@ -159,8 +159,7 @@ my $maints	= get_maintenances($url);
 my $nodes	= get_nodes();
 
 for my $name (keys %$nodes) {
-	$name =~ /^(\D+)\d+(\..*)$/;
-	my $cluster="$1$2";
+	my $cluster= ($name =~ /^(\D+)\d+[^.]*(\..*)$/) ? "$1$2" : '';
 	my $current_maint;
 
 	# first search for cluster wide maintenances
