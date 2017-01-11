@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2017-01-15 08:00,,scheduled maintanance,"Oprava diskovych poli",hdb7.priv.cerit-sc.cz hdb11.priv.cerit-sc.cz
+2017-01-15 08:00,,scheduled maintenance,"vymena disku, HW",hdb7.priv.cerit-sc.cz hdb11.priv.cerit-sc.cz
 2017-01-27 01:40,,scheduled maintenance,"reboot, zasek NFS, SW",zewura8.cerit-sc.cz
 2017-01-04 12:00,2017-01-04 19:20,scheduled maintenance,"vadna pamet, HW",urga.cerit-sc.cz
 2017-01-01 12:00,2017-01-02 23:50,scheduled maintenance,"reboot, HW",zewura3.cerit-sc.cz
