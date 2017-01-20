@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2017-01-19 13:00,,scheduled maintenance,"Vymena kernelu, SW",zapat84.cerit-sc.cz
-2017-01-20 11:00,,scheduled maintenance,"Vymena kernelu, SW",zebra10a.cerit-sc.cz
+2017-01-19 13:00,2017-01-20 12:20,scheduled maintenance,"Vymena kernelu, SW",zapat84.cerit-sc.cz
+2017-01-20 11:00,2017-01-20 12:20,scheduled maintenance,"Vymena kernelu, SW",zebra10a.cerit-sc.cz
 2017-01-13 10:00,2017-01-13 22:30,scheduled maintenance,"zasek, zablokovani IB karty, HW",zorg.cerit-sc.cz
 2017-01-13 08:00,2017-01-16 15:00,scheduled maintenance,"vymena disku, HW",hdb7.priv.cerit-sc.cz hdb11.priv.cerit-sc.cz zigur7.cerit-sc.cz zigur11.cerit-sc.cz
 2017-01-27 01:40,,scheduled maintenance,"reboot, zasek NFS, SW",zewura8.cerit-sc.cz
