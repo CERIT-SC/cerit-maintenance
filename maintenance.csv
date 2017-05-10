@@ -1,13 +1,13 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2017-05-09 12:00,,scheduled maintenance,"prevod torque na pbspro",zapat19.cerit-sc.cz
-2017-05-10 05:00,,scheduled maintenance,"prevod torque na pbspro",zapat25.cerit-sc.cz
-2017-05-10 04:00,,scheduled maintenance,"prevod torque na pbspro",zapat29.cerit-sc.cz
-2017-05-10 10:00,,scheduled maintenance,"prevod torque na pbspro",zapat66.cerit-sc.cz
-2017-05-10 05:00,,scheduled maintenance,"prevod torque na pbspro",zapat67.cerit-sc.cz
-2017-05-10 10:00,,scheduled maintenance,"prevod torque na pbspro",zapat74.cerit-sc.cz
-2017-05-09 15:00,,scheduled maintenance,"prevod torque na pbspro",zapat76.cerit-sc.cz
-2017-05-10 04:00,,scheduled maintenance,"prevod torque na pbspro",zapat77.cerit-sc.cz
-2017-05-10 08:00,,scheduled maintenance,"prevod torque na pbspro",zapat70.cerit-sc.cz
+2017-05-09 12:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat19.cerit-sc.cz
+2017-05-10 05:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat25.cerit-sc.cz
+2017-05-10 04:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat29.cerit-sc.cz
+2017-05-10 10:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat66.cerit-sc.cz
+2017-05-10 05:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat67.cerit-sc.cz
+2017-05-10 10:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat74.cerit-sc.cz
+2017-05-09 15:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat76.cerit-sc.cz
+2017-05-10 04:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat77.cerit-sc.cz
+2017-05-10 08:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat70.cerit-sc.cz
 2017-05-04 12:30,,reserved,"rezervace Rebok",zapat8.cerit-sc.cz
 2017-05-03 11:00,2017-05-03 18:00,scheduled maintenance,"prevod torque na pbspro",zapat41.cerit-sc.cz
 2017-05-03 13:00,2017-05-03 18:00,scheduled maintenance,"prevod torque na pbspro",zapat36.cerit-sc.cz
