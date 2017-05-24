@@ -102,7 +102,7 @@ sub get_nodes() {
 	}
 
 	die('Not enough nodes')
-		unless scalar(keys %rtn)>20;
+		unless scalar(keys %rtn)>1;
 
 	return(\%rtn);
 }
