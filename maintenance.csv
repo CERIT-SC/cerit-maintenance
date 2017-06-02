@@ -1,9 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-<<<<<<< HEAD
 2017-06-01 10:00,,maintenance,"vadna pamet",zapat89.cerit-sc.cz
-=======
-2017-05-14 10:00,,reserved,"interni tesy",zigur5.cerit-sc.cz
->>>>>>> ca1972a8b0ca85f26178e80317b5863b4d411e7c
+2017-05-14 10:00,,reserved,"interni testy",zigur5.cerit-sc.cz
 2017-05-22 17:00,2017-05-23 11:22,scheduled maintenance,"testy nebula hooku",zigur32.cerit-sc.cz
 2017-05-11 10:00,,maintenance,"porucha disku",zapat14.cerit-sc.cz
 2017-05-09 12:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat19.cerit-sc.cz
