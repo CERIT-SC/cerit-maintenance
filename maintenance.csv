@@ -1,5 +1,9 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+<<<<<<< HEAD
 2017-06-01 10:00,,maintenance,"vadna pamet",zapat89.cerit-sc.cz
+=======
+2017-05-14 10:00,,reserved,"interni tesy",zigur5.cerit-sc.cz
+>>>>>>> ca1972a8b0ca85f26178e80317b5863b4d411e7c
 2017-05-22 17:00,2017-05-23 11:22,scheduled maintenance,"testy nebula hooku",zigur32.cerit-sc.cz
 2017-05-11 10:00,,maintenance,"porucha disku",zapat14.cerit-sc.cz
 2017-05-09 12:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat19.cerit-sc.cz
@@ -108,7 +112,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2016-02-23 14:30,2016-02-23 20:15,scheduled maintenance,"zmena velikosti pameti virt.",zefron4.cerit-sc.cz zefron5.cerit-sc.cz zefron6.cerit-sc.cz zefron7.cerit-sc.cz zefron8.cerit-sc.cz
 2016-02-23 14:30,2016-02-25 18:20,scheduled maintenance,"zmena velikosti pameti virt.",zefron1.cerit-sc.cz zefron2.cerit-sc.cz zefron3.cerit-sc.cz
 2016-02-23 11:47,,scheduled maintenance,"upgrade systemu, SW",zebra8.cerit-sc.cz
-2016-03-03 12:00,2014-04-01 13:00,scheduled maintenance,"vymena vetraku, HW",hdb18.priv.cerit-sc.cz zigur18.cerit-sc.cz
+2016-03-03 12:00,2016-04-01 13:00,scheduled maintenance,"vymena vetraku, HW",hdb18.priv.cerit-sc.cz zigur18.cerit-sc.cz
 2016-02-24 12:00,,reserved,"posileni cloudu",zigur1.cerit-sc.cz zigur2.cerit-sc.cz zigur3.cerit-sc.cz zigur4.cerit-sc.cz
 2016-02-24 12:00,,reserved,"cviceni CyberCzech",zegox.cerit-sc.cz
 2016-02-06 12:00,,scheduled maintenance,"upgrade systemu, SW",zebra12.cerit-sc.cz
@@ -179,8 +183,8 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-11-28 12:00,2014-11-28 17:00,scheduled maintenance,"vymena pameti, HW",ungu1.cerit-sc.cz
 2014-12-15 12:00,2014-12-15 15:55,scheduled maintenance,"udrzba stroje, SW",zewura1.cerit-sc.cz
 2014-12-15 12:00,2014-12-15 16:05,scheduled maintenance,"udrzba stroje, SW",zewura3.cerit-sc.cz
-2015-02-16 9:30,2015-02-16 11:10,scheduled maintenance,"udrzba stroje, SW",zewura4.cerit-sc.cz
-2015-02-16 9:30,2015-02-16 11:10,scheduled maintenance,"udrzba stroje, SW",zewura5.cerit-sc.cz
+2015-02-16 09:30,2015-02-16 11:10,scheduled maintenance,"udrzba stroje, SW",zewura4.cerit-sc.cz
+2015-02-16 09:30,2015-02-16 11:10,scheduled maintenance,"udrzba stroje, SW",zewura5.cerit-sc.cz
 2015-01-19 12:00,2015-01-20 10:45,scheduled maintenance,"udrzba stroje, SW",zewura6.cerit-sc.cz
 2015-01-19 12:00,2015-01-19 15:45,scheduled maintenance,"udrzba stroje, SW",zewura7.cerit-sc.cz
 2015-01-03 01:00,2015-01-03 04:20,scheduled maintenance,"udrzba stroje, SW",zewura8.cerit-sc.cz
@@ -251,7 +255,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2014-02-24 11:30,2014-02-24 16:15,scheduled maintenance,"upgrade OS, SW",zewura5.cerit-sc.cz
 2014-02-23 20:00,2014-02-24 14:45,scheduled maintenance,"upgrade OS, SW",zewura7.cerit-sc.cz
 2014-02-21 05:00,2014-02-21 16:15,scheduled maintenance,"servisni zasah dodavatele, HW",zewura17.cerit-sc.cz zewura20.cerit-sc.cz
-2014-02-20 16:00,2014-02-28,scheduled maintenance,"rekonfigurace stroje, SW",hda45.cerit-sc.cz
+2014-02-20 16:00,2014-02-28 00:00,scheduled maintenance,"rekonfigurace stroje, SW",hda45.cerit-sc.cz
 2014-02-12 04:00,2014-02-12 17:00,scheduled maintenance,"servisni zasah dodavatele, HW",zewura10.cerit-sc.cz
 2014-01-23 22:29,2014-01-24 11:50,scheduled maintenance,"servisni zasah dodavatele, HW",zewura10.cerit-sc.cz
 2014-01-21 10:12,2014-02-05 11:35,scheduled maintenance,"vymena ventilatoru, HW",zapat25.cerit-sc.cz hdc25.cerit-sc.cz
