@@ -1,9 +1,9 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2017-06-23 10:00,2017-06-21 18:50,scheduled maintenance,"upgrade fw a biosu",phi2.cerit-sc.cz
+2017-06-21 10:00,2017-06-21 18:50,scheduled maintenance,"upgrade fw a biosu",phi2.cerit-sc.cz
 2017-06-20 14:00,2017-06-20 16:50,scheduled maintenance,"upgrade fw a biosu",phi3.cerit-sc.cz
 2017-06-20 14:00,2017-06-20 16:50,scheduled maintenance,"upgrade fw a biosu",phi4.cerit-sc.cz
-2017-06-23 10:00,2017-06-21 18:50,scheduled maintenance,"upgrade fw a biosu",phi5.cerit-sc.cz
-2017-06-23 10:00,2017-06-21 18:50,scheduled maintenance,"upgrade fw a biosu",phi6.cerit-sc.cz
+2017-06-21 10:00,2017-06-21 18:50,scheduled maintenance,"upgrade fw a biosu",phi5.cerit-sc.cz
+2017-06-21 10:00,2017-06-21 18:50,scheduled maintenance,"upgrade fw a biosu",phi6.cerit-sc.cz
 2017-06-01 10:00,2017-06-20 16:50,maintenance,"vadna pamet",zapat89.cerit-sc.cz
 2017-05-14 10:00,,reserved,"interni testy",zigur5.cerit-sc.cz
 2017-05-22 17:00,2017-05-23 11:22,scheduled maintenance,"testy nebula hooku",zigur32.cerit-sc.cz
