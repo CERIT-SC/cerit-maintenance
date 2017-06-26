@@ -57,6 +57,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2017-01-04 12:00,2017-01-04 19:20,scheduled maintenance,"vadna pamet, HW",urga.cerit-sc.cz
 2017-01-01 12:00,2017-01-02 23:50,scheduled maintenance,"reboot, HW",zewura3.cerit-sc.cz
 2017-06-23 15:40,,reserved,"vyhrazeno pro Filipovice",phi1.cerit-sc.cz
+2017-01-01 10:00,,scheduled maintenance,"puppet testy",zigur5.cerit-sc.cz
 2016-12-19 12:00,2016-12-19 18:45,scheduled maintenance,"udrzba stroje, HW",ungu.cerit-sc.cz
 2016-12-14 12:00,2016-12-15 01:40,scheduled maintenance,"udrzba stroje, HW",ungu.cerit-sc.cz
 2016-11-18 10:00,,reserved,"posileni cloudu",zebra5a.priv.cerit-sc.cz zebra5a.cerit-sc.cz
