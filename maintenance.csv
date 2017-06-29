@@ -13,7 +13,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2017-06-21 10:00,2017-06-21 18:50,scheduled maintenance,"upgrade fw a biosu",phi5.cerit-sc.cz
 2017-06-21 10:00,2017-06-21 18:50,scheduled maintenance,"upgrade fw a biosu",phi6.cerit-sc.cz
 2017-06-01 10:00,2017-06-20 16:50,maintenance,"vadna pamet",zapat89.cerit-sc.cz
-2017-05-15 10:00,,reserved,"rezervace pro puppet testy",zigur5.cerit-sc.cz
+2017-05-15 10:00,2017-06-29 16:15,reserved,"rezervace pro puppet testy",zigur5.cerit-sc.cz
 2017-05-22 17:00,2017-05-23 11:22,scheduled maintenance,"testy nebula hooku",zigur32.cerit-sc.cz
 2017-05-11 10:00,2017-06-13 17:00,maintenance,"porucha disku",zapat14.cerit-sc.cz
 2017-05-09 12:00,2017-05-10 16:00,scheduled maintenance,"prevod torque na pbspro",zapat19.cerit-sc.cz
