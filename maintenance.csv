@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2017-10-23 10:00,,scheduled maintenance,"upgrade",zewura7.cerit-sc.cz
 2017-10-19 13:00,,scheduled maintenance,"Reboot",urga1.cerit-sc.cz
 2017-10-05 20:00,2017-10-05 21:00,scheduled maintenance,"Reboot",urga1.cerit-sc.cz
 2017-10-06 15:00,2017-10-09 12:00,scheduled maintenance,"Reboot",zigur24.cerit-sc.cz
