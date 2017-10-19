@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2017-10-19 13:00,,scheduled maintenance,"Reboot",urga1.cerit-sc.cz
+2017-10-19 13:00,2017-10-19 16:45,scheduled maintenance,"Reboot",urga1.cerit-sc.cz
 2017-10-05 20:00,2017-10-05 21:00,scheduled maintenance,"Reboot",urga1.cerit-sc.cz
 2017-10-06 15:00,2017-10-09 12:00,scheduled maintenance,"Reboot",zigur24.cerit-sc.cz
 2017-08-22 15:00,2017-09-07 17:00,maintenance,"Vadny vetrak",zapat84.cerit-sc.cz
