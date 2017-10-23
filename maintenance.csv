@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2017-10-27 09:00,,scheduled maintenance,"Reboot",urga1.cerit-sc.cz
 2017-10-17 10:00,,maintenance,"stroj se vypina",zorg.cerit-sc.cz
 2017-10-23 10:00,,scheduled maintenance,"upgrade",zewura7.cerit-sc.cz
 2017-10-19 13:00,2017-10-19 16:45,scheduled maintenance,"Reboot",urga1.cerit-sc.cz
