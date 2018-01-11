@@ -3,7 +3,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2017-12-29 20:00,2018-01-03 11:00,maintenance,"vymena disku",zapat30.cerit-sc.cz
 2017-12-13 13:00,2017-12-13 16:00,scheduled maintenance,"Oprava HW",urga1.cerit-sc.cz
 2017-12-08 03:00,2017-12-21 16:00,scheduled maintenance,"upgrade",zewura2.cerit-sc.cz
-2017-10-17 10:00,,maintenance,"stroj se vypina",zorg.cerit-sc.cz
+2017-10-17 10:00,2018-01-11 12:50,maintenance,"stroj se vypina",zorg.cerit-sc.cz
 2017-12-07 04:00,2017-12-08 00:00,scheduled maintenance,"upgrade",zewura6.cerit-sc.cz
 2017-12-06 17:00,2017-12-07 03:00,scheduled maintenance,"upgrade",zewura8.cerit-sc.cz
 2017-12-06 15:00,2017-12-07 02:30,scheduled maintenance,"upgrade",zewura3.cerit-sc.cz
