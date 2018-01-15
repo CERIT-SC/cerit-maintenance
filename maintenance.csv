@@ -1,8 +1,7 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-01-09 09:00,,maintenance,"vymena disku",zapat47.cerit-sc.cz
-2018-01-15 13:00,,scheduled maintenance,"Reboot",urga1.cerit-sc.cz
+2018-01-15 13:00,2018-01-15 15:24,scheduled maintenance,"Reboot",urga1.cerit-sc.cz
 2018-01-15 12:00,,scheduled maintenance,"Reboot",phi1.cerit-sc.cz
-2018-01-25 12:00,,scheduled maintenance,"Reboot",ungu1.cerit-sc.cz
 2017-12-29 20:00,2018-01-03 11:00,maintenance,"vymena disku",zapat30.cerit-sc.cz
 2017-12-13 13:00,2017-12-13 16:00,scheduled maintenance,"Oprava HW",urga1.cerit-sc.cz
 2017-12-08 03:00,2017-12-21 16:00,scheduled maintenance,"upgrade",zewura2.cerit-sc.cz
