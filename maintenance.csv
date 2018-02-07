@@ -1,6 +1,7 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2018-02-02 13:00,,maintenance,"zasekly proces na NFS",zapat20.cerit-sc.cz
+2018-02-07 10:00,,maintenance,"vymena vetraku",zapat72.cerit-sc.cz
 2018-01-16 10:00,,maintenance,"stroj se vypina",zorg.cerit-sc.cz
+2018-02-02 13:00,2018-02-07 11:00,maintenance,"zasekly proces na NFS",zapat20.cerit-sc.cz
 2018-01-26 09:00,2018-02-06 18:00,maintenance,"vymena disku",zapat106.cerit-sc.cz
 2018-01-15 13:00,2018-01-15 15:24,scheduled maintenance,"Reboot",urga1.cerit-sc.cz
 2018-01-15 12:00,2018-01-15 16:20,scheduled maintenance,"Reboot",phi1.cerit-sc.cz
