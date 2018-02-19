@@ -1,4 +1,38 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2018-02-19 15:00,,maintenance,"upgrade pbs",zebra10a.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zebra10b.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zebra11b.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zebra12a.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zebra12b.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zebra6b.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zebra7a.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zebra7b.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zebra8b.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zebra9a.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zebra9b.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zefron1.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zefron2.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zefron3.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zefron4.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zefron5.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zefron6.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zefron8.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zelda1.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zelda10.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zelda2.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zelda3.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zelda4.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zelda5.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zelda6.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zelda7.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zelda9.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zewura1.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zewura2.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zewura3.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zewura5.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zewura6.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zewura7.cerit-sc.cz
+2018-02-19 15:00,,maintenance,"upgrade pbs",zewura8.cerit-sc.cz
 2018-02-19 13:30,2018-02-19 14:30,maintenance,"upgrade pbs",zigur5.cerit-sc.cz
 2018-02-19 13:30,2018-02-19 14:30,maintenance,"upgrade pbs",zigur6.cerit-sc.cz
 2018-02-19 13:30,2018-02-19 14:30,maintenance,"upgrade pbs",zigur7.cerit-sc.cz
