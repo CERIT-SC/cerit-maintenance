@@ -1,14 +1,14 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2018-03-07 08:00,,maintenance,"update FW",zelda1.cerit-sc.cz
-2018-03-07 08:00,,maintenance,"update FW",zelda2.cerit-sc.cz
-2018-03-07 08:00,,maintenance,"update FW",zelda3.cerit-sc.cz
-2018-03-07 08:00,,maintenance,"update FW",zelda4.cerit-sc.cz
-2018-03-07 08:00,,maintenance,"update FW",zelda5.cerit-sc.cz
-2018-03-07 08:00,,maintenance,"update FW",zelda6.cerit-sc.cz
-2018-03-07 08:00,,maintenance,"update FW",zelda7.cerit-sc.cz
-2018-03-07 08:00,,maintenance,"update FW",zelda8.cerit-sc.cz
-2018-03-07 08:00,,maintenance,"update FW",zelda9.cerit-sc.cz
-2018-03-07 08:00,,maintenance,"update FW",zelda10.cerit-sc.cz
+2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda1.cerit-sc.cz
+2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda2.cerit-sc.cz
+2018-03-07 08:00,,maintenance,"oprava",zelda3.cerit-sc.cz
+2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda4.cerit-sc.cz
+2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda5.cerit-sc.cz
+2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda6.cerit-sc.cz
+2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda7.cerit-sc.cz
+2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda8.cerit-sc.cz
+2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda9.cerit-sc.cz
+2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda10.cerit-sc.cz
 2018-03-06 14:10,,maintenance,"stroj se vypina",zorg.cerit-sc.cz
 2018-02-23 13:07,2018-02-23 13:15,maintenance,"upgrade PBS",zelda4.cerit-sc.cz
 2018-02-21 08:00,2018-02-21 10:30,maintenance,"nespousti se ulohy",ungu1.cerit-sc.cz
