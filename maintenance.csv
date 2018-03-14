@@ -1,8 +1,8 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-03-13 09:30,2018-03-13 15:30,maintenance,"update FW",zelda1.cerit-sc.cz
 2018-03-13 09:30,2018-03-13 15:30,maintenance,"update FW",zelda2.cerit-sc.cz
-2018-03-13 09:30,,maintenance,"update FW",zelda4.cerit-sc.cz
-2018-03-13 09:30,,maintenance,"update FW",zelda5.cerit-sc.cz
+2018-03-13 09:30,2018-03-14 11:00,maintenance,"update FW",zelda4.cerit-sc.cz
+2018-03-13 09:30,2018-03-14 11:00,maintenance,"update FW",zelda5.cerit-sc.cz
 2018-03-13 09:30,2018-03-13 15:30,maintenance,"update FW",zelda6.cerit-sc.cz
 2018-03-13 09:30,2018-03-13 15:30,maintenance,"update FW",zelda7.cerit-sc.cz
 2018-03-13 09:30,2018-03-13 15:30,maintenance,"update FW",zelda9.cerit-sc.cz
