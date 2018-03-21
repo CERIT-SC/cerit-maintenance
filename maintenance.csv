@@ -12,7 +12,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-03-08 20:00,2018-03-09 16:00,maintenance,'vypina se',zapat8.cerit-sc.cz
 2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda1.cerit-sc.cz
 2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda2.cerit-sc.cz
-2018-03-07 08:00,,maintenance,"oprava",zelda3.cerit-sc.cz
+2018-03-07 08:00,2018-03-21 21:20,maintenance,"oprava",zelda3.cerit-sc.cz
 2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda4.cerit-sc.cz
 2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda5.cerit-sc.cz
 2018-03-07 08:00,2018-03-07 16:40,maintenance,"update FW",zelda6.cerit-sc.cz
