@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2018-04-16 12:00,,maintenance,"SW, nenacita se usage, mnozstvi pbs_mom procesu - restart",zefron2.cerit-sc.cz
+2018-04-16 12:00,2018-04-16 14:00,maintenance,"SW, nenacita se usage, mnozstvi pbs_mom procesu - restart",zefron2.cerit-sc.cz
 2018-04-06 14:00,2018-04-06 14:20,maintenance,"vymena vetraku",zapat79.cerit-sc.cz
 2018-04-09 13:00,2018-04-09 14:33,maintenance,"reboot",urga1.cerit-sc.cz
 2018-04-04 11:00,,maintenance,"vadny disk",zapat107.cerit-sc.cz
