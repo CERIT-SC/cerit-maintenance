@@ -9,7 +9,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-04-06 14:00,2018-04-06 14:20,maintenance,"vymena vetraku",zapat79.cerit-sc.cz
 2018-04-09 13:00,2018-04-09 14:33,maintenance,"reboot",urga1.cerit-sc.cz
 2018-04-04 11:00,2018-05-02 22:30,maintenance,"vadny disk",zapat107.cerit-sc.cz
-2018-03-23 14:20,,maintenance,"oprava",zelda3.cerit-sc.cz
+2018-03-23 14:20,2018-05-18 15:30,maintenance,"oprava",zelda3.cerit-sc.cz
 2018-03-19 14:00,2018-03-22 15:39,maintenance,"vadny disk",zapat58.cerit-sc.cz
 2018-03-13 09:30,2018-03-13 15:30,maintenance,"update FW",zelda1.cerit-sc.cz
 2018-03-13 09:30,2018-03-13 15:30,maintenance,"update FW",zelda2.cerit-sc.cz
