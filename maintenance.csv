@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-06-15 17:00,,maintenance,"vymena vetraku",zigur16.cerit-sc.cz
-2018-06-18 08:00,,maintenance,"oprava",zelda2.cerit-sc.cz
+2018-06-18 08:00,2018-06-18 10:50,maintenance,"oprava",zelda2.cerit-sc.cz
 2018-06-13 15:20,2018-06-17 13:20,maintenance,"zmena front",urga1.cerit-sc.cz
 2018-06-13 15:20,2018-06-16 14:00,maintenance,"zmena front",ungu1.cerit-sc.cz
 2018-06-11 11:50,,maintenance,"chyba HW",glados1.cerit-sc.cz
@@ -15,7 +15,6 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-06-11 15:20,,reserved,"na cloud",zebra9a.cerit-sc.cz
 2018-06-11 15:20,,reserved,"na cloud",zebra9b.cerit-sc.cz
 2018-06-11 15:50,,reserved,"na cloud",zebra10a.cerit-sc.cz
-2018-06-11 17:30,,reserved,"na cloud",zebra10b.cerit-sc.cz
 2018-06-11 17:30,,reserved,"na cloud",zebra10b.cerit-sc.cz
 2018-06-11 15:20,,reserved,"na cloud",zebra11b.cerit-sc.cz
 2018-06-11 15:20,,reserved,"na cloud",zebra12a.cerit-sc.cz
