@@ -1,7 +1,7 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-07-16 11:40,,maintenance,"instalace GPU",glados9.cerit-sc.cz
 2018-07-03 08:00,,maintenance,"vymena vetraku",zapat15.cerit-sc.cz
-2018-07-02 12:30,,maintenance,"vymena vetraku",zapat12.cerit-sc.cz
+2018-07-02 12:30,2018-07-02 15:20,maintenance,"vymena vetraku",zapat12.cerit-sc.cz
 2018-07-02 08:00,2018-07-02 12:10,maintenance,"prepojeni napajeni",urga1.cerit-sc.cz
 2018-06-20 16:20,2018-06-25 14:30,maintenance,"vymena disku",zapat15.cerit-sc.cz
 2018-06-18 13:30,2018-06-21 17:45,maintenance,"vymena vetraku",zapat57.cerit-sc.cz
