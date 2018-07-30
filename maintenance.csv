@@ -1,7 +1,7 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2018-07-29 11:00,,maintenance,"upgrade fw",phi6.cerit-sc.cz
-2018-07-29 11:00,,maintenance,"upgrade fw",phi3.cerit-sc.cz
-2018-07-29 11:00,,maintenance,"upgrade fw",phi2.cerit-sc.cz
+2018-07-29 11:00,2018-07-30 15:00,maintenance,"upgrade fw",phi6.cerit-sc.cz
+2018-07-29 11:00,2018-07-30 15:00,maintenance,"upgrade fw",phi3.cerit-sc.cz
+2018-07-29 11:00,2018-07-30 15:00,maintenance,"upgrade fw",phi2.cerit-sc.cz
 2018-08-08 09:00,,maintenance,"upgrade fw",phi1.cerit-sc.cz
 2018-08-08 09:00,,maintenance,"upgrade fw",phi4.cerit-sc.cz
 2018-08-08 09:00,,maintenance,"upgrade fw",phi5.cerit-sc.cz
