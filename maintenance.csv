@@ -12,7 +12,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-07-23 10:00,2018-07-23 17:00,maintenance,"reinstalace do ON",glados12.cerit-sc.cz
 2018-07-18 18:15,,reserved,"na westlife",glados17.cerit-sc.cz
 2018-07-17 08:40,2018-07-17 14:30,maintenance,"vymena vetraku",zapat112.cerit-sc.cz
-2018-08-10 12:00,,maintenance,"upgrade OS",zefron1.cerit-sc.cz
+2018-08-10 12:00,2018-08-19 10:29,maintenance,"upgrade OS",zefron1.cerit-sc.cz
 2018-08-10 12:00,2018-08-10 22:30,maintenance,"upgrade OS",zefron2.cerit-sc.cz
 2018-07-12 10:20,2018-07-16 21:00,maintenance,"upgrade OS",zefron4.cerit-sc.cz
 2018-07-09 08:00,2018-07-10 17:30,maintenance,"chyba HW",glados1.cerit-sc.cz
