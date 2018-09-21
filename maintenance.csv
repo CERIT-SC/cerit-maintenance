@@ -14,7 +14,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-09-06 17:00,2018-09-06 19:00,maintenance,"upgrade GPU driveru",glados16.cerit-sc.cz
 2018-09-07 10:00,,maintenance,"vyrazeni HW",zapat.cerit-sc.cz
 2018-08-31 12:00,2018-08-31 15:40,maintenance,"uprava GPU vlastnosti",white1.cerit-sc.cz
-2018-09-14 16:00,,maintenance,"vymena CPU",zelda10.cerit-sc.cz
+2018-09-14 16:00,2018-09-21 22:30,maintenance,"vymena CPU",zelda10.cerit-sc.cz
 2018-08-27 16:40,2018-09-19 17:59,maintenance,"vymena vetraku",zapat70.cerit-sc.cz
 2018-08-23 09:00,2018-08-23 22:50,maintenance,"upgrade FW",zelda1.cerit-sc.cz
 2018-08-23 09:00,2018-08-23 22:50,maintenance,"upgrade FW",zelda2.cerit-sc.cz
