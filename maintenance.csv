@@ -23,11 +23,11 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-08-27 16:40,2018-09-19 17:59,maintenance,"vymena vetraku",zapat70.cerit-sc.cz
 2018-08-23 09:00,2018-08-23 22:50,maintenance,"upgrade FW",zelda1.cerit-sc.cz
 2018-08-23 09:00,2018-08-23 22:50,maintenance,"upgrade FW",zelda2.cerit-sc.cz
-2018-09-18 09:30,,maintenance,"upgrade FW",zelda5.cerit-sc.cz
-2018-09-18 09:30,,maintenance,"upgrade FW",zelda6.cerit-sc.cz
-2018-09-18 09:30,,maintenance,"upgrade FW",zelda7.cerit-sc.cz
-2018-09-18 09:30,,maintenance,"upgrade FW",zelda8.cerit-sc.cz
-2018-09-18 09:30,,maintenance,"upgrade FW",zelda9.cerit-sc.cz
+2018-09-18 09:30,2018-09-27 18:00,maintenance,"upgrade FW",zelda5.cerit-sc.cz
+2018-09-18 09:30,2018-09-27 18:00,maintenance,"upgrade FW",zelda6.cerit-sc.cz
+2018-09-18 09:30,2018-09-27 18:00,maintenance,"upgrade FW",zelda7.cerit-sc.cz
+2018-09-18 09:30,2018-09-27 18:00,maintenance,"upgrade FW",zelda8.cerit-sc.cz
+2018-09-18 09:30,2018-09-27 18:00,maintenance,"upgrade FW",zelda9.cerit-sc.cz
 2018-09-19 10:00,2018-09-19 17:53,maintenance,"upgrade OS",zewura2.cerit-sc.cz
 2018-09-19 10:00,2018-09-19 17:53,maintenance,"upgrade OS",zewura5.cerit-sc.cz
 2018-09-19 10:00,2018-09-19 17:53,maintenance,"upgrade OS",zewura6.cerit-sc.cz
