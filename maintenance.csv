@@ -22,7 +22,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-09-20 14:00,2018-09-21 10:00,maintenance,"priprava na spusteni",zenon4.cerit-sc.cz
 2018-09-20 14:00,2018-09-27 09:50,maintenance,"priprava na spusteni",zenon5.cerit-sc.cz
 2018-09-20 14:00,2018-09-22 11:00,maintenance,"priprava na spusteni",zenon12.cerit-sc.cz
-2018-09-20 14:00,,maintenance,"priprava na spusteni",zenon60.cerit-sc.cz
+2018-09-20 14:00,2018-10-05 12:55,maintenance,"priprava na spusteni",zenon60.cerit-sc.cz
 2018-09-20 14:00,,maintenance,"priprava na spusteni",zenon27.cerit-sc.cz
 2018-09-20 14:00,2018-10-03 12:40,maintenance,"priprava na spusteni",zenon53.cerit-sc.cz
 2018-09-17 16:00,2018-09-18 15:00,maintenance,"testy disku",glados15.cerit-sc.cz
