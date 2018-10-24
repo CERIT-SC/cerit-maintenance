@@ -1,9 +1,10 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2018-10-22 18:30,,maintenance,"vadny disk",zigur15.cerit-sc.cz
 2018-11-19 08:00,,maintenance,"vymena vetraku",zenon27.cerit-sc.cz
 2018-11-19 08:00,,maintenance,"vymena vetraku",zenon28.cerit-sc.cz
 2018-11-19 08:00,,maintenance,"vymena vetraku",zenon29.cerit-sc.cz
 2018-11-19 08:00,,maintenance,"vymena vetraku",zenon30.cerit-sc.cz
-2018-10-18 13:00,,maintenance,"vypina se",zigur13.cerit-sc.cz
+2018-10-18 13:00,2018-10-24 18:30,maintenance,"vypina se",zigur13.cerit-sc.cz
 2018-10-28 20:00,,maintenance,"reinstalace",glados2.cerit-sc.cz
 2018-10-28 20:00,,maintenance,"reinstalace",glados3.cerit-sc.cz
 2018-10-28 20:00,,maintenance,"reinstalace",glados4.cerit-sc.cz
