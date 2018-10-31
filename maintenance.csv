@@ -14,7 +14,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-10-28 20:00,2018-10-29 21:40,maintenance,"reinstalace",glados6.cerit-sc.cz
 2018-10-28 20:00,2018-10-29 21:40,maintenance,"reinstalace",glados7.cerit-sc.cz
 2018-10-28 20:00,2018-10-29 21:40,maintenance,"reinstalace",glados8.cerit-sc.cz
-2018-10-28 20:00,,maintenance,"prevod na openstack",glados9.cerit-sc.cz
+2018-10-28 20:00,2018-10-31 16:00,maintenance,"prevod na openstack",glados9.cerit-sc.cz
 2018-09-30 17:00,2018-09-30 18:45,maintenance,"reinstalace",white1.cerit-sc.cz
 2018-09-29 16:00,2018-09-29 20:30,maintenance,"reinstalace",glados11.cerit-sc.cz
 2018-09-29 16:00,2018-09-29 17:28,maintenance,"reinstalace",glados12.cerit-sc.cz
