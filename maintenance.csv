@@ -6,7 +6,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-11-09 17:06,,maintenance,"power saving",phi3.cerit-sc.cz
 2018-11-09 17:05,,maintenance,"power saving",phi2.cerit-sc.cz
 2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur.cerit-sc.cz
-2018-11-12 09:00,,maintenance,"vymena pameti",zelda8.cerit-sc.cz
+2018-11-12 09:00,2018-11-13 13:28,maintenance,"vymena pameti",zelda8.cerit-sc.cz
 2018-10-28 12:00,2018-10-30 16:30,maintenance,"vymena pameti",zelda8.cerit-sc.cz
 2018-10-25 10:30,2018-10-30 16:00,maintenance,"vymena vetraku",zigur12.cerit-sc.cz
 2018-10-22 18:30,2018-10-24 19:44,maintenance,"vadny disk",zigur15.cerit-sc.cz
