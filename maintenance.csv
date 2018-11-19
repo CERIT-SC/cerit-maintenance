@@ -1,4 +1,8 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2018-12-17 08:00,,maintenance,"vymena vetraku",zenon25.cerit-sc.cz
+2018-12-17 08:00,,maintenance,"vymena vetraku",zenon26.cerit-sc.cz
+2018-12-17 08:00,,maintenance,"vymena vetraku",zenon27.cerit-sc.cz
+2018-12-17 08:00,,maintenance,"vymena vetraku",zenon28.cerit-sc.cz
 2018-11-14 09:00,,maintenance,"openstack",glados9.cerit-sc.cz
 2018-11-09 17:08,,maintenance,"power saving",phi6.cerit-sc.cz
 2018-11-09 17:07,,maintenance,"power saving",phi5.cerit-sc.cz
@@ -10,10 +14,10 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-10-28 12:00,2018-10-30 16:30,maintenance,"vymena pameti",zelda8.cerit-sc.cz
 2018-10-25 10:30,2018-10-30 16:00,maintenance,"vymena vetraku",zigur12.cerit-sc.cz
 2018-10-22 18:30,2018-10-24 19:44,maintenance,"vadny disk",zigur15.cerit-sc.cz
-2018-11-19 08:00,,maintenance,"vymena vetraku",zenon27.cerit-sc.cz
-2018-11-19 08:00,,maintenance,"vymena vetraku",zenon28.cerit-sc.cz
-2018-11-19 08:00,,maintenance,"vymena vetraku",zenon29.cerit-sc.cz
-2018-11-19 08:00,,maintenance,"vymena vetraku",zenon30.cerit-sc.cz
+2018-11-19 08:00,2018-11-19 09:50,maintenance,"vymena vetraku",zenon27.cerit-sc.cz
+2018-11-19 08:00,2018-11-19 09:50,maintenance,"vymena vetraku",zenon28.cerit-sc.cz
+2018-11-19 08:00,2018-11-19 09:50,maintenance,"vymena vetraku",zenon29.cerit-sc.cz
+2018-11-19 08:00,2018-11-19 09:50,maintenance,"vymena vetraku",zenon30.cerit-sc.cz
 2018-10-18 13:00,2018-10-24 18:30,maintenance,"vypina se",zigur13.cerit-sc.cz
 2018-10-28 20:00,2018-10-29 00:40,maintenance,"reinstalace",glados2.cerit-sc.cz
 2018-10-28 20:00,2018-10-29 00:40,maintenance,"reinstalace",glados3.cerit-sc.cz
