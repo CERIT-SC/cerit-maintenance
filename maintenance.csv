@@ -10,10 +10,10 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-11-28 13:00,2018-11-28 14:00,maintenance,"power saving",phi6.cerit-sc.cz
 2018-11-26 19:00,2018-11-26 23:00,maintenance,"power saving",phi5.cerit-sc.cz
 2018-11-23 20:00,2018-11-26 16:00,maintenance,"power saving",phi1.cerit-sc.cz
-2018-12-17 08:00,,maintenance,"vymena vetraku",zenon25.cerit-sc.cz
-2018-12-17 08:00,,maintenance,"vymena vetraku",zenon26.cerit-sc.cz
-2018-12-17 08:00,,maintenance,"vymena vetraku",zenon27.cerit-sc.cz
-2018-12-17 08:00,,maintenance,"vymena vetraku",zenon28.cerit-sc.cz
+2018-12-17 08:00,2018-12-18 12:30,maintenance,"vymena vetraku",zenon25.cerit-sc.cz
+2018-12-17 08:00,2018-12-18 12:30,maintenance,"vymena vetraku",zenon26.cerit-sc.cz
+2018-12-17 08:00,2018-12-18 12:30,maintenance,"vymena vetraku",zenon27.cerit-sc.cz
+2018-12-17 08:00,2018-12-18 12:30,maintenance,"vymena vetraku",zenon28.cerit-sc.cz
 2018-11-14 09:00,,maintenance,"openstack",glados9.cerit-sc.cz
 2018-11-09 17:08,2018-11-28 11:00,maintenance,"power saving",phi6.cerit-sc.cz
 2018-11-09 17:07,2018-11-26 17:00,maintenance,"power saving",phi5.cerit-sc.cz
