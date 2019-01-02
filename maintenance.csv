@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-12-30 16:00,2018-12-31 00:15,maintenance,"powersaving",zefron8.cerit-sc.cz
-2018-12-24 01:00,,maintenance,"powersaving",phi1.cerit-sc.cz
+2018-12-24 01:00,2019-01-02 13:00,maintenance,"powersaving",phi1.cerit-sc.cz
 2018-12-14 16:00,2018-12-14 18:30,maintenance,"powersaving",zefron4.cerit-sc.cz
 2018-12-11 16:00,2018-12-12 09:30,maintenance,"power saving",zelda3.cerit-sc.cz
 2018-12-06 15:16,2018-12-07 16:55,maintenance,"power saving",zelda8.cerit-sc.cz
