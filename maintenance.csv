@@ -45,7 +45,36 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-11-09 17:07,2018-11-23 15:31,maintenance,"power saving",phi4.cerit-sc.cz
 2018-11-09 17:06,2018-11-28 09:00,maintenance,"power saving",phi3.cerit-sc.cz
 2018-11-09 17:05,,maintenance,"power saving",phi2.cerit-sc.cz
-2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur3.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur4.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur5.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur6.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur7.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur8.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur9.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur10.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur11.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur12.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur13.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur14.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur15.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur16.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur17.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur18.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur19.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur20.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur21.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur22.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur23.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur24.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur25.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur26.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur27.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur28.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur29.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur30.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur31.cerit-sc.cz
+2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur32.cerit-sc.cz
 2018-11-12 09:00,2018-11-13 13:28,maintenance,"vymena pameti",zelda8.cerit-sc.cz
 2018-10-28 12:00,2018-10-30 16:30,maintenance,"vymena pameti",zelda8.cerit-sc.cz
 2018-10-25 10:30,2018-10-30 16:00,maintenance,"vymena vetraku",zigur12.cerit-sc.cz
@@ -410,7 +439,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2016-02-23 14:30,2016-02-25 18:20,scheduled maintenance,"zmena velikosti pameti virt.",zefron1.cerit-sc.cz zefron2.cerit-sc.cz zefron3.cerit-sc.cz
 2016-02-23 11:47,,scheduled maintenance,"upgrade systemu, SW",zebra8.cerit-sc.cz
 2016-03-03 12:00,2016-04-01 13:00,scheduled maintenance,"vymena vetraku, HW",hdb18.priv.cerit-sc.cz zigur18.cerit-sc.cz
-2016-02-24 12:00,,reserved,"posileni cloudu",zigur1.cerit-sc.cz zigur2.cerit-sc.cz zigur3.cerit-sc.cz zigur4.cerit-sc.cz
+2016-02-24 12:00,2019-01-25 12:45,reserved,"posileni cloudu",zigur1.cerit-sc.cz zigur2.cerit-sc.cz zigur3.cerit-sc.cz zigur4.cerit-sc.cz
 2016-02-24 12:00,,reserved,"cviceni CyberCzech",zegox.cerit-sc.cz
 2016-02-06 12:00,,scheduled maintenance,"upgrade systemu, SW",zebra12.cerit-sc.cz
 2016-01-11 08:00,2016-01-21 08:20,scheduled maintenance,"instalace clusteru",zefron.priv.cerit-sc.cz zefron.cerit-sc.cz
