@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2019-02-11 08:00,,maintenance,"adding disk",uruk.cerit-sc.cz
+2019-02-11 08:00,2019-02-11 10:00,maintenance,"adding disk",uruk.cerit-sc.cz
 2019-02-04 13:00,,maintenance,"node_failure",cloud86.cerit-sc.cz
 2019-02-02 12:00,2019-02-02 12:01,maintenance,"node_failure",zenon26.cerit-sc.cz
 2019-02-02 12:00,2019-02-03 12:30,maintenance,"instalace",uruk.cerit-sc.cz
