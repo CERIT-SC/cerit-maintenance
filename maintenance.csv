@@ -20,7 +20,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-01-28 16:00,2019-01-29 11:00,maintenance,"powersaving",phi5.cerit-sc.cz
 2019-01-27 11:00,2019-01-28 10:00,maintenance,"powersaving",phi5.cerit-sc.cz
 2019-01-27 09:00,2019-01-27 10:00,maintenance,"powersaving",phi5.cerit-sc.cz
-2019-01-27 00:00,,maintenance,"powersaving",phi3.cerit-sc.cz
+2019-01-27 00:00,2019-03-05 16:00,maintenance,"powersaving",phi3.cerit-sc.cz
 2019-01-26 22:00,2019-01-26 23:00,maintenance,"powersaving",phi3.cerit-sc.cz
 2019-01-26 19:00,2019-01-26 20:00,maintenance,"powersaving",phi3.cerit-sc.cz
 2019-01-26 11:00,2019-01-26 12:00,maintenance,"powersaving",phi3.cerit-sc.cz
@@ -75,7 +75,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2018-11-09 17:07,2018-11-26 17:00,maintenance,"power saving",phi5.cerit-sc.cz
 2018-11-09 17:07,2018-11-23 15:31,maintenance,"power saving",phi4.cerit-sc.cz
 2018-11-09 17:06,2018-11-28 09:00,maintenance,"power saving",phi3.cerit-sc.cz
-2018-11-09 17:05,,maintenance,"power saving",phi2.cerit-sc.cz
+2018-11-09 17:05,2019-03-05 16:00,maintenance,"power saving",phi2.cerit-sc.cz
 2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur3.cerit-sc.cz
 2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur4.cerit-sc.cz
 2018-12-10 09:00,,maintenance,"stehovani/ruseni",zigur5.cerit-sc.cz
