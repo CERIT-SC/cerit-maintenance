@@ -1,74 +1,74 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2019-03-12 14:15,,maintenance,"node_failure",zenon47.cerit-sc.cz
-2019-03-12 14:15,,maintenance,"node_failure",zenon28.cerit-sc.cz
-2019-03-12 14:15,,maintenance,"node_failure",zenon34.cerit-sc.cz
-2019-03-12 14:14,,maintenance,"node_failure",zenon25.cerit-sc.cz
-2019-03-12 14:14,,maintenance,"node_failure",zenon55.cerit-sc.cz
-2019-03-12 14:14,,maintenance,"node_failure",zenon42.cerit-sc.cz
-2019-03-12 14:14,,maintenance,"node_failure",zenon15.cerit-sc.cz
-2019-03-12 14:13,,maintenance,"node_failure",zenon56.cerit-sc.cz
-2019-03-12 14:13,,maintenance,"node_failure",zenon58.cerit-sc.cz
-2019-03-12 14:13,,maintenance,"node_failure",zenon60.cerit-sc.cz
-2019-03-12 14:13,,maintenance,"node_failure",zenon20.cerit-sc.cz
-2019-03-12 14:12,,maintenance,"node_failure",zenon50.cerit-sc.cz
-2019-03-12 14:12,,maintenance,"node_failure",zenon48.cerit-sc.cz
-2019-03-12 14:12,,maintenance,"node_failure",zenon45.cerit-sc.cz
-2019-03-12 14:12,,maintenance,"node_failure",zenon13.cerit-sc.cz
-2019-03-12 14:12,,maintenance,"node_failure",zenon54.cerit-sc.cz
-2019-03-12 14:11,,maintenance,"node_failure",zenon30.cerit-sc.cz
-2019-03-12 14:11,,maintenance,"node_failure",zenon39.cerit-sc.cz
-2019-03-12 14:11,,maintenance,"node_failure",zenon35.cerit-sc.cz
-2019-03-12 14:11,,maintenance,"node_failure",zenon51.cerit-sc.cz
-2019-03-12 14:11,,maintenance,"node_failure",zenon1.cerit-sc.cz
-2019-03-12 14:10,,maintenance,"node_failure",zenon53.cerit-sc.cz
-2019-03-12 14:10,,maintenance,"node_failure",zenon26.cerit-sc.cz
-2019-03-12 14:10,,maintenance,"node_failure",zenon18.cerit-sc.cz
-2019-03-12 14:10,,maintenance,"node_failure",zenon21.cerit-sc.cz
-2019-03-12 14:10,,maintenance,"node_failure",zenon59.cerit-sc.cz
-2019-03-12 14:09,,maintenance,"node_failure",zenon6.cerit-sc.cz
-2019-03-12 14:09,,maintenance,"node_failure",zenon38.cerit-sc.cz
-2019-03-12 14:09,,maintenance,"node_failure",zenon37.cerit-sc.cz
-2019-03-12 14:09,,maintenance,"node_failure",zenon49.cerit-sc.cz
-2019-03-12 14:08,,maintenance,"node_failure",zenon57.cerit-sc.cz
-2019-03-12 14:08,,maintenance,"node_failure",zenon29.cerit-sc.cz
-2019-03-12 14:08,,maintenance,"node_failure",zenon44.cerit-sc.cz
-2019-03-12 14:08,,maintenance,"node_failure",zenon52.cerit-sc.cz
-2019-03-12 14:07,,maintenance,"node_failure",zenon46.cerit-sc.cz
-2019-03-12 14:07,,maintenance,"node_failure",zenon43.cerit-sc.cz
-2019-03-12 14:07,,maintenance,"node_failure",zenon24.cerit-sc.cz
-2019-03-12 14:07,,maintenance,"node_failure",zenon40.cerit-sc.cz
-2019-03-12 14:06,,maintenance,"node_failure",zenon41.cerit-sc.cz
-2019-03-12 14:06,,maintenance,"node_failure",zenon22.cerit-sc.cz
-2019-03-12 14:06,,maintenance,"node_failure",zenon36.cerit-sc.cz
-2019-03-12 14:06,,maintenance,"node_failure",zenon33.cerit-sc.cz
-2019-03-12 14:05,,maintenance,"node_failure",zenon32.cerit-sc.cz
-2019-03-12 14:05,,maintenance,"node_failure",zenon31.cerit-sc.cz
-2019-03-12 14:05,,maintenance,"node_failure",zenon16.cerit-sc.cz
-2019-03-12 14:05,,maintenance,"node_failure",zenon23.cerit-sc.cz
-2019-03-12 14:04,,maintenance,"node_failure",zenon19.cerit-sc.cz
-2019-03-12 14:04,,maintenance,"node_failure",zenon14.cerit-sc.cz
-2019-03-12 14:04,,maintenance,"node_failure",zenon17.cerit-sc.cz
-2019-03-12 14:04,,maintenance,"node_failure",zenon12.cerit-sc.cz
-2019-03-12 14:03,,maintenance,"node_failure",zenon11.cerit-sc.cz
-2019-03-12 14:03,,maintenance,"node_failure",zenon10.cerit-sc.cz
-2019-03-12 14:03,,maintenance,"node_failure",zenon5.cerit-sc.cz
-2019-03-12 14:03,,maintenance,"node_failure",zenon9.cerit-sc.cz
-2019-03-12 14:03,,maintenance,"node_failure",zenon3.cerit-sc.cz
-2019-03-12 14:02,,maintenance,"node_failure",zenon8.cerit-sc.cz
-2019-03-12 14:02,,maintenance,"node_failure",zenon2.cerit-sc.cz
-2019-03-12 14:02,,maintenance,"node_failure",zenon4.cerit-sc.cz
-2019-03-12 14:02,,maintenance,"node_failure",zenon7.cerit-sc.cz
-2019-03-12 14:01,,maintenance,"node_failure",zefron8.cerit-sc.cz
-2019-03-12 14:01,,maintenance,"node_failure",zefron3.cerit-sc.cz
-2019-03-12 14:01,,maintenance,"node_failure",zefron5.cerit-sc.cz
-2019-03-12 14:01,,maintenance,"node_failure",zefron6.cerit-sc.cz
-2019-03-12 14:00,,maintenance,"node_failure",zefron1.cerit-sc.cz
-2019-03-12 14:00,,maintenance,"node_failure",zefron2.cerit-sc.cz
-2019-03-12 14:00,,maintenance,"node_failure",zefron4.cerit-sc.cz
-2019-03-05 18:01,,maintenance,"powersaving",phi6.cerit-sc.cz
-2019-03-05 18:01,,maintenance,"powersaving",phi1.cerit-sc.cz
-2019-03-05 18:00,,maintenance,"powersaving",phi5.cerit-sc.cz
-2019-03-05 18:00,,maintenance,"powersaving",phi3.cerit-sc.cz
+2019-03-12 14:15,2019-03-12 15:40,maintenance,"node_failure",zenon47.cerit-sc.cz
+2019-03-12 14:15,2019-03-12 15:40,maintenance,"node_failure",zenon28.cerit-sc.cz
+2019-03-12 14:15,2019-03-12 15:40,maintenance,"node_failure",zenon34.cerit-sc.cz
+2019-03-12 14:14,2019-03-12 15:40,maintenance,"node_failure",zenon25.cerit-sc.cz
+2019-03-12 14:14,2019-03-12 15:40,maintenance,"node_failure",zenon55.cerit-sc.cz
+2019-03-12 14:14,2019-03-12 15:40,maintenance,"node_failure",zenon42.cerit-sc.cz
+2019-03-12 14:14,2019-03-12 15:40,maintenance,"node_failure",zenon15.cerit-sc.cz
+2019-03-12 14:13,2019-03-12 15:40,maintenance,"node_failure",zenon56.cerit-sc.cz
+2019-03-12 14:13,2019-03-12 15:40,maintenance,"node_failure",zenon58.cerit-sc.cz
+2019-03-12 14:13,2019-03-12 15:40,maintenance,"node_failure",zenon60.cerit-sc.cz
+2019-03-12 14:13,2019-03-12 15:40,maintenance,"node_failure",zenon20.cerit-sc.cz
+2019-03-12 14:12,2019-03-12 15:40,maintenance,"node_failure",zenon50.cerit-sc.cz
+2019-03-12 14:12,2019-03-12 15:40,maintenance,"node_failure",zenon48.cerit-sc.cz
+2019-03-12 14:12,2019-03-12 15:40,maintenance,"node_failure",zenon45.cerit-sc.cz
+2019-03-12 14:12,2019-03-12 15:40,maintenance,"node_failure",zenon13.cerit-sc.cz
+2019-03-12 14:12,2019-03-12 15:40,maintenance,"node_failure",zenon54.cerit-sc.cz
+2019-03-12 14:11,2019-03-12 15:40,maintenance,"node_failure",zenon30.cerit-sc.cz
+2019-03-12 14:11,2019-03-12 15:40,maintenance,"node_failure",zenon39.cerit-sc.cz
+2019-03-12 14:11,2019-03-12 15:40,maintenance,"node_failure",zenon35.cerit-sc.cz
+2019-03-12 14:11,2019-03-12 15:40,maintenance,"node_failure",zenon51.cerit-sc.cz
+2019-03-12 14:11,2019-03-12 15:40,maintenance,"node_failure",zenon1.cerit-sc.cz
+2019-03-12 14:10,2019-03-12 15:40,maintenance,"node_failure",zenon53.cerit-sc.cz
+2019-03-12 14:10,2019-03-12 15:40,maintenance,"node_failure",zenon26.cerit-sc.cz
+2019-03-12 14:10,2019-03-12 15:40,maintenance,"node_failure",zenon18.cerit-sc.cz
+2019-03-12 14:10,2019-03-12 15:40,maintenance,"node_failure",zenon21.cerit-sc.cz
+2019-03-12 14:10,2019-03-12 15:40,maintenance,"node_failure",zenon59.cerit-sc.cz
+2019-03-12 14:09,2019-03-12 15:40,maintenance,"node_failure",zenon6.cerit-sc.cz
+2019-03-12 14:09,2019-03-12 15:40,maintenance,"node_failure",zenon38.cerit-sc.cz
+2019-03-12 14:09,2019-03-12 15:40,maintenance,"node_failure",zenon37.cerit-sc.cz
+2019-03-12 14:09,2019-03-12 15:40,maintenance,"node_failure",zenon49.cerit-sc.cz
+2019-03-12 14:08,2019-03-12 15:40,maintenance,"node_failure",zenon57.cerit-sc.cz
+2019-03-12 14:08,2019-03-12 15:40,maintenance,"node_failure",zenon29.cerit-sc.cz
+2019-03-12 14:08,2019-03-12 15:40,maintenance,"node_failure",zenon44.cerit-sc.cz
+2019-03-12 14:08,2019-03-12 15:40,maintenance,"node_failure",zenon52.cerit-sc.cz
+2019-03-12 14:07,2019-03-12 15:40,maintenance,"node_failure",zenon46.cerit-sc.cz
+2019-03-12 14:07,2019-03-12 15:40,maintenance,"node_failure",zenon43.cerit-sc.cz
+2019-03-12 14:07,2019-03-12 15:40,maintenance,"node_failure",zenon24.cerit-sc.cz
+2019-03-12 14:07,2019-03-12 15:40,maintenance,"node_failure",zenon40.cerit-sc.cz
+2019-03-12 14:06,2019-03-12 15:40,maintenance,"node_failure",zenon41.cerit-sc.cz
+2019-03-12 14:06,2019-03-12 15:40,maintenance,"node_failure",zenon22.cerit-sc.cz
+2019-03-12 14:06,2019-03-12 15:40,maintenance,"node_failure",zenon36.cerit-sc.cz
+2019-03-12 14:06,2019-03-12 15:40,maintenance,"node_failure",zenon33.cerit-sc.cz
+2019-03-12 14:05,2019-03-12 15:40,maintenance,"node_failure",zenon32.cerit-sc.cz
+2019-03-12 14:05,2019-03-12 15:40,maintenance,"node_failure",zenon31.cerit-sc.cz
+2019-03-12 14:05,2019-03-12 15:40,maintenance,"node_failure",zenon16.cerit-sc.cz
+2019-03-12 14:05,2019-03-12 15:40,maintenance,"node_failure",zenon23.cerit-sc.cz
+2019-03-12 14:04,2019-03-12 15:40,maintenance,"node_failure",zenon19.cerit-sc.cz
+2019-03-12 14:04,2019-03-12 15:40,maintenance,"node_failure",zenon14.cerit-sc.cz
+2019-03-12 14:04,2019-03-12 15:40,maintenance,"node_failure",zenon17.cerit-sc.cz
+2019-03-12 14:04,2019-03-12 15:40,maintenance,"node_failure",zenon12.cerit-sc.cz
+2019-03-12 14:03,2019-03-12 15:40,maintenance,"node_failure",zenon11.cerit-sc.cz
+2019-03-12 14:03,2019-03-12 15:40,maintenance,"node_failure",zenon10.cerit-sc.cz
+2019-03-12 14:03,2019-03-12 15:40,maintenance,"node_failure",zenon5.cerit-sc.cz
+2019-03-12 14:03,2019-03-12 15:40,maintenance,"node_failure",zenon9.cerit-sc.cz
+2019-03-12 14:03,2019-03-12 15:40,maintenance,"node_failure",zenon3.cerit-sc.cz
+2019-03-12 14:02,2019-03-12 15:40,maintenance,"node_failure",zenon8.cerit-sc.cz
+2019-03-12 14:02,2019-03-12 15:40,maintenance,"node_failure",zenon2.cerit-sc.cz
+2019-03-12 14:02,2019-03-12 15:40,maintenance,"node_failure",zenon4.cerit-sc.cz
+2019-03-12 14:02,2019-03-12 15:40,maintenance,"node_failure",zenon7.cerit-sc.cz
+2019-03-12 14:01,2019-03-12 15:40,maintenance,"node_failure",zefron8.cerit-sc.cz
+2019-03-12 14:01,2019-03-12 15:40,maintenance,"node_failure",zefron3.cerit-sc.cz
+2019-03-12 14:01,2019-03-12 15:40,maintenance,"node_failure",zefron5.cerit-sc.cz
+2019-03-12 14:01,2019-03-12 15:40,maintenance,"node_failure",zefron6.cerit-sc.cz
+2019-03-12 14:00,2019-03-12 15:40,maintenance,"node_failure",zefron1.cerit-sc.cz
+2019-03-12 14:00,2019-03-12 15:40,maintenance,"node_failure",zefron2.cerit-sc.cz
+2019-03-12 14:00,2019-03-12 15:40,maintenance,"node_failure",zefron4.cerit-sc.cz
+2019-03-05 18:01,2019-03-12 15:40,maintenance,"powersaving",phi6.cerit-sc.cz
+2019-03-05 18:01,2019-03-12 15:40,maintenance,"powersaving",phi1.cerit-sc.cz
+2019-03-05 18:00,2019-03-12 15:40,maintenance,"powersaving",phi5.cerit-sc.cz
+2019-03-05 18:00,2019-03-12 15:40,maintenance,"powersaving",phi3.cerit-sc.cz
 2019-03-05 17:00,2019-03-12 14:02,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-03-05 12:00,2019-03-05 15:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-03-04 12:00,2019-03-05 11:00,maintenance,"powersaving",phi4.cerit-sc.cz
