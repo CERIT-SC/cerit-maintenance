@@ -1,7 +1,7 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-04-16 04:00,,maintenance,"powersaving",phi1.cerit-sc.cz
 2019-04-12 12:00,2019-04-15 15:50,maintenance,"node_failure",zenon31.cerit-sc.cz
-2019-04-06 19:00,,maintenance,"powersaving",phi4.cerit-sc.cz
+2019-04-06 19:00,2019-04-17 18:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-04-05 16:00,2019-04-06 13:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-04-02 14:00,2019-04-03 10:45,maintenance,"node_failure",zefron4.cerit-sc.cz
 2019-05-02 09:00,,maintenance,"prevod na openstack",glados2.cerit-sc.cz
