@@ -2,7 +2,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-05-22 06:00,2019-05-22 11:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-05-21 10:00,2019-05-21 12:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-05-18 22:01,2019-05-21 00:00,maintenance,"powersaving",phi4.cerit-sc.cz
-2019-05-18 22:00,,maintenance,"powersaving",phi1.cerit-sc.cz
+2019-05-18 22:00,2019-05-22 12:00,maintenance,"powersaving",phi1.cerit-sc.cz
 2019-05-18 00:00,,maintenance,"powersaving",phi6.cerit-sc.cz
 2019-05-17 22:00,,maintenance,"powersaving",phi3.cerit-sc.cz
 2019-05-17 19:00,,maintenance,"powersaving",phi5.cerit-sc.cz
