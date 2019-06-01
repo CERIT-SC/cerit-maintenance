@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2019-06-01 13:00,,maintenance,"node_failure",white1.cerit-sc.cz
 2019-06-01 01:00,,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-05-31 22:00,2019-06-01 00:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-05-31 13:00,2019-05-31 21:00,maintenance,"powersaving",phi4.cerit-sc.cz
