@@ -2,7 +2,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-07-09 16:00,,maintenance,"powersaving",phi2.cerit-sc.cz
 2019-07-05 11:00,,maintenance,"node_failure",glados1.cerit-sc.cz
 2019-07-04 17:00,,maintenance,"powersaving",phi6.cerit-sc.cz
-2019-07-04 16:39,,maintenance,"powersaving",phi1.cerit-sc.cz
+2019-07-04 16:39,2019-07-10 20:00,maintenance,"powersaving",phi1.cerit-sc.cz
 2019-06-19 22:00,,maintenance,"powersaving",phi3.cerit-sc.cz
 2019-06-19 07:00,2019-07-08 13:06,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-06-18 21:00,2019-06-20 08:50,maintenance,"node_failure",zenon39.cerit-sc.cz
