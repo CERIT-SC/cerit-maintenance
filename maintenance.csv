@@ -631,7 +631,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2016-11-15 03:45,2016-11-15 10:55,maintenance,"CATERR r001i23b04h1, HW",urga.cerit-sc.cz
 2016-10-04 08:35,2016-11-15 11:15,maintenance,"vadne vetraky, HW",hdc20.priv.cerit-sc.cz zapat20.cerit-sc.cz
 2016-11-07 07:50,2016-11-15 11:00,maintenance,"vadna pamet, HW",hdc42.priv.cerit-sc.cz zapat42.cerit-sc.cz
-2016-11-14 13:00,,reserved,"posileni cloudu",zefron7.cerit-sc.cz
+2016-11-14 13:00,2019-07-25 14:50,reserved,"posileni cloudu",zefron7.cerit-sc.cz
 2016-11-21 12:00,2016-11-22 16:50,scheduled maintenance,"upgrade systemu, SW",zewura3.cerit-sc.cz
 2016-12-01 12:00,2016-12-02 14:55,scheduled maintenance,"upgrade systemu, SW",zewura1.cerit-sc.cz
 2016-12-01 12:00,2016-12-05 17:00,scheduled maintenance,"upgrade systemu, SW",zewura2.cerit-sc.cz zewura5.cerit-sc.cz zewura6.cerit-sc.cz zewura7.cerit-sc.cz zewura8.cerit-sc.cz
