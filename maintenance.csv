@@ -15,7 +15,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-08-02 04:00,2019-08-03 14:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-08-02 03:00,2019-08-03 17:00,maintenance,"powersaving",phi3.cerit-sc.cz
 2019-08-02 03:00,2019-08-03 15:00,maintenance,"powersaving",phi1.cerit-sc.cz
-2019-08-05 08:00,,maintenance,"zmena napajeni",urga1.cerit-sc.cz
+2019-08-05 08:00,2019-08-12 15:28,maintenance,"zmena napajeni",urga1.cerit-sc.cz
 2019-08-01 04:00,2019-08-02 01:00,maintenance,"powersaving",phi5.cerit-sc.cz
 2019-08-01 03:00,2019-08-03 18:00,maintenance,"powersaving",phi2.cerit-sc.cz
 2019-08-01 03:00,2019-08-02 02:00,maintenance,"powersaving",phi3.cerit-sc.cz
