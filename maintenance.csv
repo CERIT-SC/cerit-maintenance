@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2019-08-15 11:47,,maintenance,"TESTING RECOVERY",zenon8.cerit-sc.cz
 2019-08-15 09:00,2019-08-15 11:00,maintenance,"node_failure",zenon7.cerit-sc.cz
 2019-08-13 18:00,2019-08-14 11:00,maintenance,"node_failure",ursa.cerit-sc.cz
 2019-08-13 09:03,2019-08-13 09:40,maintenance,"TESTING MAINTENANCE",zenon8.cerit-sc.cz
