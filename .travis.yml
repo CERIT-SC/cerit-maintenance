@@ -1,4 +1,6 @@
 language: perl
+perl:
+  - "5.22"
 notifications:
   email:
     - root@cerit-sc.cz
