@@ -1,5 +1,4 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2019-10-21 09:00,2019-10-21 09:00,maintenance,"switch to openstack",zenon.cerit-sc.cz
 2019-09-10 12:00,,maintenance,"node_failure",cloud104b.cerit-sc.cz
 2019-09-10 07:00,,maintenance,"powersaving",phi5.cerit-sc.cz
 2019-09-10 07:00,,maintenance,"powersaving",phi6.cerit-sc.cz
