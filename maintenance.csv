@@ -3,7 +3,66 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-09-23 13:00,2019-09-24 11:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-09-22 21:45,2019-09-24 14:50,maintenance,"Blackhole detector",zewura5.cerit-sc.cz
 2019-09-18 11:00,2019-09-23 11:00,maintenance,"powersaving",phi4.cerit-sc.cz
-2019-10-21 09:00,,maintenance,"switch to openstack",zenon.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon1.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon2.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon3.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon4.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon5.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon6.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon7.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon8.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon9.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon10.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon11.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon12.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon13.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon14.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon15.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon16.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon17.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon18.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon19.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon20.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon21.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon22.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon23.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon24.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon25.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon26.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon27.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon28.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon29.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon30.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon31.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon32.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon33.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon34.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon35.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon36.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon37.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon38.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon39.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon40.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon41.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon42.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon43.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon44.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon45.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon46.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon47.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon48.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon49.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon50.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon51.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon52.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon53.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon54.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon55.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon56.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon57.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon58.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon59.cerit-sc.cz
+2019-10-21 09:00,,maintenance,"switch to openstack",zenon60.cerit-sc.cz
 2019-09-16 09:00,2019-09-18 08:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-09-12 13:00,,maintenance,"node_failure",cloud101b.cerit-sc.cz
 2019-09-10 12:00,,maintenance,"node_failure",cloud104b.cerit-sc.cz
