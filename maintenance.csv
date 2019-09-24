@@ -184,13 +184,13 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-04-06 19:00,2019-04-17 18:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-04-05 16:00,2019-04-06 13:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-04-02 14:00,2019-04-03 10:45,maintenance,"node_failure",zefron4.cerit-sc.cz
-2019-05-02 09:00,,maintenance,"prevod na openstack",glados2.cerit-sc.cz
-2019-05-02 09:00,,maintenance,"prevod na openstack",glados3.cerit-sc.cz
-2019-05-02 09:00,,maintenance,"prevod na openstack",glados4.cerit-sc.cz
-2019-05-02 09:00,,maintenance,"prevod na openstack",glados5.cerit-sc.cz
-2019-05-02 09:00,,maintenance,"prevod na openstack",glados6.cerit-sc.cz
-2019-05-02 09:00,,maintenance,"prevod na openstack",glados7.cerit-sc.cz
-2019-05-02 09:00,,maintenance,"prevod na openstack",glados8.cerit-sc.cz
+2019-05-02 09:00,,reserved,"prevod na openstack",glados2.cerit-sc.cz
+2019-05-02 09:00,,reserved,"prevod na openstack",glados3.cerit-sc.cz
+2019-05-02 09:00,,reserved,"prevod na openstack",glados4.cerit-sc.cz
+2019-05-02 09:00,,reserved,"prevod na openstack",glados5.cerit-sc.cz
+2019-05-02 09:00,,reserved,"prevod na openstack",glados6.cerit-sc.cz
+2019-05-02 09:00,,reserved,"prevod na openstack",glados7.cerit-sc.cz
+2019-05-02 09:00,,reserved,"prevod na openstack",glados8.cerit-sc.cz
 2019-04-01 16:01,2019-04-06 16:00,maintenance,"powersaving",phi1.cerit-sc.cz
 2019-04-01 16:00,2019-04-05 05:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-03-28 16:00,2019-04-01 14:00,maintenance,"powersaving",phi4.cerit-sc.cz
