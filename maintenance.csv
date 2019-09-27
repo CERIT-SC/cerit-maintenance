@@ -1,9 +1,9 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-09-26 14:00,,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-09-26 10:00,2019-09-26 11:00,maintenance,"powersaving",phi4.cerit-sc.cz
-2019-09-26 11:35,,maintenance,"Blackhole detector",zewura5.cerit-sc.cz
-2019-09-26 11:24,,maintenance,"Blackhole detector",zewura6.cerit-sc.cz
-2019-09-25 22:19,,maintenance,"Blackhole detector",zewura7.cerit-sc.cz
+2019-09-26 11:35,2019-09-27 18:30,maintenance,"Blackhole detector",zewura5.cerit-sc.cz
+2019-09-26 11:24,2019-09-27 18:30,maintenance,"Blackhole detector",zewura6.cerit-sc.cz
+2019-09-25 22:19,2019-09-27 18:30,maintenance,"Blackhole detector",zewura7.cerit-sc.cz
 2019-09-25 15:00,2019-09-26 08:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-09-25 10:00,2019-09-25 11:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-09-24 15:00,2019-09-25 09:00,maintenance,"powersaving",phi4.cerit-sc.cz
