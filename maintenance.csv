@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2019-10-01 10:00,,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-10-01 04:54,,maintenance,"Blackhole detector",gpu@arien-pro.ics.muni.cz:15001.cerit-sc.cz
 2019-09-30 16:00,2019-10-01 08:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-09-26 14:00,2019-09-30 08:00,maintenance,"powersaving",phi4.cerit-sc.cz
