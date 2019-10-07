@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-10-07 11:00,,maintenance,"node_failure",nera.ceitec.muni.cz
-2019-10-07 10:00,,maintenance,"powersaving",phi4.cerit-sc.cz
+2019-10-07 10:00,2019-10-07 11:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-10-06 16:00,2019-10-07 08:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-10-05 11:00,2019-10-06 13:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-10-04 11:00,2019-10-05 10:16,maintenance,"powersaving",phi4.cerit-sc.cz
