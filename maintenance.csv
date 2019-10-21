@@ -45,7 +45,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-09-10 12:00,,maintenance,"node_failure",cloud104b.cerit-sc.cz
 2019-09-10 07:00,,maintenance,"powersaving",phi5.cerit-sc.cz
 2019-09-10 07:00,,maintenance,"powersaving",phi6.cerit-sc.cz
-2019-09-10 07:00,,maintenance,"powersaving",phi1.cerit-sc.cz
+2019-09-10 07:00,2019-10-21 12:00,maintenance,"powersaving",phi1.cerit-sc.cz
 2019-09-10 07:00,2019-09-11 21:00,maintenance,"powersaving",phi4.cerit-sc.cz
 2019-09-01 13:27,2019-09-02 13:00,maintenance,"Blackhole detector",ursa.cerit-sc.cz
 2019-08-30 11:00,2019-09-09 10:06,maintenance,"powersaving",phi4.cerit-sc.cz
