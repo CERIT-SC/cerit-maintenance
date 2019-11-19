@@ -6,10 +6,10 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-10-31 17:00,2019-11-02 23:30,maintenance,"node_failure",zenon6.cerit-sc.cz
 2019-10-31 17:00,2019-11-02 23:30,maintenance,"node_failure",zenon24.cerit-sc.cz
 2019-10-31 17:00,2019-11-02 23:30,maintenance,"node_failure",zenon2.cerit-sc.cz
-2019-11-18 09:00,,maintenance,"switch to openstack",zenon.cerit-sc.cz
-2019-11-18 09:00,,maintenance,"switch to openstack",uruk.cerit-sc.cz
-2019-11-18 09:00,,maintenance,"switch to openstack",ursa.cerit-sc.cz
-2019-11-18 09:00,,maintenance,"switch to openstack",urga.cerit-sc.cz
+2019-11-18 09:00,2019-11-19 17:00,maintenance,"switch to openstack",zenon.cerit-sc.cz
+2019-11-18 09:00,2019-11-19 17:00,maintenance,"switch to openstack",uruk.cerit-sc.cz
+2019-11-18 09:00,2019-11-19 17:00,maintenance,"switch to openstack",ursa.cerit-sc.cz
+2019-11-18 09:00,2019-11-19 17:00,maintenance,"switch to openstack",urga.cerit-sc.cz
 2019-11-18 09:00,,maintenance,"switch to openstack",glados.cerit-sc.cz
 2019-12-02 12:00,,maintenance,"switch to openstack",zefron.cerit-sc.cz
 2019-10-31 15:00,2019-11-04 09:00,maintenance,"powersaving",phi1.cerit-sc.cz
