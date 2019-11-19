@@ -17,7 +17,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-10-30 16:00,2019-10-31 09:00,maintenance,"powersaving",phi1.cerit-sc.cz
 2019-10-30 13:00,2019-10-30 14:00,maintenance,"powersaving",phi1.cerit-sc.cz
 2019-10-29 16:00,2019-10-30 09:00,maintenance,"powersaving",phi1.cerit-sc.cz
-2019-10-29 16:00,,maintenance,"node_failure",zenon27.cerit-sc.cz
+2019-10-29 16:00,2019-11-19 17:00,maintenance,"node_failure",zenon27.cerit-sc.cz
 2019-10-25 18:00,2019-10-26 00:40,maintenance,"node_failure",zelda8.cerit-sc.cz
 2019-10-25 13:00,2019-10-25 18:50,maintenance,"node_failure",zenon27.cerit-sc.cz
 2019-10-25 12:00,2019-10-25 18:50,maintenance,"node_failure",zenon27.cerit-sc.cz
