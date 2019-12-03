@@ -1,4 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2019-12-04 12:00,,maintenance,"pbs upgrade",glados.cerit-sc.cz
+2019-12-04 12:00,,maintenance,"pbs upgrade",white1.cerit-sc.cz
 2019-11-27 15:00,2019-11-27 16:10,maintenance,"node_failure",white1.cerit-sc.cz
 2019-11-28 09:00,2019-11-28 10:00,maintenance,"test razor",glados1.cerit-sc.cz
 2019-11-21 09:00,2019-11-27 16:10,maintenance,"switch to openstack",glados17.cerit-sc.cz
