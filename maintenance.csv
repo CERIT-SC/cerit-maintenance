@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2019-12-09 09:00,,reserved,"openstack",glados8.cerit-sc.cz
 2019-12-09 13:00,,maintenance,"pbs upgrade",ursa.cerit-sc.cz
 2019-12-09 13:00,,maintenance,"pbs upgrade",urga1.cerit-sc.cz
 2019-12-04 12:00,2019-12-05 15:00,maintenance,"pbs upgrade",glados.cerit-sc.cz
