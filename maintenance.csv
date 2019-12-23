@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-12-23 14:00,2019-12-23 18:00,maintenance,"upgrade pbs",zenon1.cerit-sc.cz
-2019-12-23 14:00,,maintenance,"upgrade pbs",zenon2.cerit-sc.cz
+2019-12-23 14:00,2019-12-23 20:10,maintenance,"upgrade pbs",zenon2.cerit-sc.cz
 2019-12-23 14:00,,maintenance,"upgrade pbs",zenon3.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 18:00,maintenance,"upgrade pbs",zenon4.cerit-sc.cz
 2019-12-23 14:00,,maintenance,"upgrade pbs",zenon5.cerit-sc.cz
@@ -10,7 +10,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-12-23 14:00,,maintenance,"upgrade pbs",zenon11.cerit-sc.cz
 2019-12-23 14:00,,maintenance,"upgrade pbs",zenon12.cerit-sc.cz
 2019-12-23 14:00,,maintenance,"upgrade pbs",zenon13.cerit-sc.cz
-2019-12-23 14:00,,maintenance,"upgrade pbs",zenon14.cerit-sc.cz
+2019-12-23 14:00,2019-12-23 20:10,maintenance,"upgrade pbs",zenon14.cerit-sc.cz
 2019-12-23 14:00,,maintenance,"upgrade pbs",zenon15.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 18:00,maintenance,"upgrade pbs",zenon16.cerit-sc.cz
 2019-12-23 14:00,,maintenance,"upgrade pbs",zenon17.cerit-sc.cz
