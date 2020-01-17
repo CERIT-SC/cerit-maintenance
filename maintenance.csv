@@ -1,4 +1,20 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2020-01-17 17:00,,maintenance,"install",elan1.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan2.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan3.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan4.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan5.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan6.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan7.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan8.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan9.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan10.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan11.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan12.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan13.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan14.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan15.cerit-sc.cz
+2020-01-17 17:00,,maintenance,"install",elan16.cerit-sc.cz
 2020-01-15 15:20,2020-01-15 17:30,maintenance,"bios update",uruk.cerit-sc.cz
 2020-01-17 09:00,2020-01-17 15:45,maintenance,"reboot",zefron6.cerit-sc.cz
 2020-01-08 09:00,,reserved,"prevod na openstack",glados7.cerit-sc.cz
