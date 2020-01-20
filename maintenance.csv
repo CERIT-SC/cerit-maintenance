@@ -21,7 +21,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2020-01-09 13:00,2020-01-09 13:10,maintenance,"reboot",ursa.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 18:00,maintenance,"upgrade pbs",zenon1.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 20:10,maintenance,"upgrade pbs",zenon2.cerit-sc.cz
-2019-12-23 14:00,,maintenance,"upgrade pbs",zenon3.cerit-sc.cz
+2019-12-23 14:00,2020-01-20 09:15,maintenance,"upgrade pbs",zenon3.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 18:00,maintenance,"upgrade pbs",zenon4.cerit-sc.cz
 2019-12-23 14:00,2019-12-25 13:45,maintenance,"upgrade pbs",zenon5.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 18:00,maintenance,"upgrade pbs",zenon7.cerit-sc.cz
@@ -47,9 +47,9 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-12-23 14:00,2019-12-25 13:45,maintenance,"upgrade pbs",zenon28.cerit-sc.cz
 2019-12-23 14:00,2019-12-27 15:20,maintenance,"upgrade pbs",zenon29.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 17:58,maintenance,"upgrade pbs",zenon31.cerit-sc.cz
-2019-12-23 14:00,,maintenance,"upgrade pbs",zenon32.cerit-sc.cz
+2019-12-23 14:00,2020-01-20 09:15,maintenance,"upgrade pbs",zenon32.cerit-sc.cz
 2019-12-23 14:00,2019-12-25 13:45,maintenance,"upgrade pbs",zenon33.cerit-sc.cz
-2019-12-23 14:00,,maintenance,"upgrade pbs",zenon34.cerit-sc.cz
+2019-12-23 14:00,2020-01-20 09:15,maintenance,"upgrade pbs",zenon34.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 18:00,maintenance,"upgrade pbs",zenon35.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 18:00,maintenance,"upgrade pbs",zenon36.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 18:00,maintenance,"upgrade pbs",zenon37.cerit-sc.cz
@@ -58,7 +58,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-12-23 14:00,2019-12-24 00:15,maintenance,"upgrade pbs",zenon40.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 18:00,maintenance,"upgrade pbs",zenon41.cerit-sc.cz
 2019-12-23 14:00,2019-12-24 09:50,maintenance,"upgrade pbs",zenon44.cerit-sc.cz
-2019-12-23 14:00,,maintenance,"upgrade pbs",zenon45.cerit-sc.cz
+2019-12-23 14:00,2020-01-20 09:15,maintenance,"upgrade pbs",zenon45.cerit-sc.cz
 2019-12-23 14:00,2019-12-24 09:50,maintenance,"upgrade pbs",zenon47.cerit-sc.cz
 2019-12-23 14:00,2019-12-25 13:45,maintenance,"upgrade pbs",zenon48.cerit-sc.cz
 2019-12-23 14:00,2019-12-23 18:00,maintenance,"upgrade pbs",zenon49.cerit-sc.cz
