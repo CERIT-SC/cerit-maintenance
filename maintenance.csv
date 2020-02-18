@@ -9,17 +9,17 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2020-02-17 15:00,,maintenance,"chyba pbs",zenon3.cerit-sc.cz
 2020-02-17 15:00,,maintenance,"chyba pbs",zenon26.cerit-sc.cz
 2020-02-17 15:00,,maintenance,"chyba pbs",zenon34.cerit-sc.cz
-2020-02-17 15:00,,maintenance,"chyba pbs",zenon10.cerit-sc.cz
+2020-02-17 15:00,2020-02-18 22:56,maintenance,"chyba pbs",zenon10.cerit-sc.cz
 2020-02-17 15:00,,maintenance,"chyba pbs",zenon12.cerit-sc.cz
 2020-02-17 15:00,,maintenance,"chyba pbs",zenon20.cerit-sc.cz
-2020-02-17 15:00,,maintenance,"chyba pbs",zenon23.cerit-sc.cz
+2020-02-17 15:00,2020-02-18 22:56,maintenance,"chyba pbs",zenon23.cerit-sc.cz
 2020-02-17 15:00,,maintenance,"chyba pbs",zenon42.cerit-sc.cz
 2020-02-17 15:00,,maintenance,"chyba pbs",zenon48.cerit-sc.cz
 2020-02-17 15:00,,maintenance,"chyba pbs",zefron5.cerit-sc.cz
 2020-02-17 15:00,,maintenance,"chyba pbs",zefron3.cerit-sc.cz
 2020-02-17 15:00,,maintenance,"chyba pbs",zewura6.cerit-sc.cz
 2020-02-17 15:00,,maintenance,"chyba pbs",zefron6.cerit-sc.cz
-2020-02-17 15:00,,maintenance,"chyba pbs",zenon29.cerit-sc.cz
+2020-02-17 15:00,2020-02-18 22:56,maintenance,"chyba pbs",zenon29.cerit-sc.cz
 2020-02-17 15:00,,maintenance,"chyba pbs",zefron1.cerit-sc.cz
 2020-02-10 09:00,,maintenance,"reinstall",zefron6.cerit-sc.cz
 2020-02-10 09:00,,maintenance,"prevod na openstack",glados10.cerit-sc.cz
