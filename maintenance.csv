@@ -39,7 +39,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2020-02-17 15:00,2020-02-25 20:20,maintenance,"chyba pbs",zewura6.cerit-sc.cz
 2020-02-17 15:00,2020-02-18 22:56,maintenance,"chyba pbs",zenon29.cerit-sc.cz
 2020-02-17 15:00,2020-02-22 18:13,maintenance,"chyba pbs",zefron1.cerit-sc.cz
-2020-02-10 09:00,,maintenance,"reinstall",zefron6.cerit-sc.cz
+2020-02-10 09:00,2020-02-27 16:50,maintenance,"reinstall",zefron6.cerit-sc.cz
 2020-02-10 09:00,2020-02-20 20:45,maintenance,"prevod na openstack",glados10.cerit-sc.cz
 2020-02-10 09:00,2020-02-20 20:45,maintenance,"prevod na openstack",glados11.cerit-sc.cz
 2020-02-10 09:00,2020-02-20 20:45,maintenance,"prevod na openstack",glados12.cerit-sc.cz
