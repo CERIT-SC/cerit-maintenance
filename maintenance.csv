@@ -1,4 +1,8 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2020-03-02 09:00,,reserved,"cloud",elan13.cerit-sc.cz
+2020-03-02 09:00,,reserved,"cloud",elan14.cerit-sc.cz
+2020-03-02 09:00,,reserved,"cloud",elan15.cerit-sc.cz
+2020-02-02 09:00,,reserved,"cloud",elan16.cerit-sc.cz
 2020-02-27 23:00,2020-02-28 12:30,maintenance,"vypadek napajeni",urga1.cerit-sc.cz
 2020-02-27 23:00,2020-02-28 16:55,maintenance,"vypadek napajeni",glados1.cerit-sc.cz
 2020-02-27 23:00,2020-02-28 22:40,maintenance,"vypadek napajeni",glados2.cerit-sc.cz
