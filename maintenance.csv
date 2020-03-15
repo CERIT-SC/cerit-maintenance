@@ -24,10 +24,10 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2020-02-27 23:00,2020-02-28 22:40,maintenance,"vypadek napajeni",glados17.cerit-sc.cz
 2020-02-19 10:00,2020-02-27 12:00,maintenance,"testing",phi4.cerit-sc.cz
 2020-02-17 15:00,2020-02-28 22:40,maintenance,"chyba pbs",zenon58.cerit-sc.cz
-2020-02-17 15:00,,maintenance,"chyba pbs",zenon37.cerit-sc.cz
+2020-02-17 15:00,2020-03-15 18:35,maintenance,"chyba pbs",zenon37.cerit-sc.cz
 2020-02-17 15:00,2020-02-17 18:00,maintenance,"chyba pbs",glados3.cerit-sc.cz
 2020-02-17 15:00,2020-03-06 16:00,maintenance,"chyba pbs",zenon49.cerit-sc.cz
-2020-02-17 15:00,,maintenance,"chyba pbs",zenon1.cerit-sc.cz
+2020-02-17 15:00,2020-03-15 18:35,maintenance,"chyba pbs",zenon1.cerit-sc.cz
 2020-02-17 15:00,2020-03-06 16:00,maintenance,"chyba pbs",zenon54.cerit-sc.cz
 2020-02-17 15:00,2020-02-21 22:30,maintenance,"chyba pbs",zenon55.cerit-sc.cz
 2020-02-17 15:00,2020-02-20 13:30,maintenance,"chyba pbs",zenon3.cerit-sc.cz
