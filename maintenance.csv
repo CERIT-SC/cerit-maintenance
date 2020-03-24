@@ -1,4 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2020-03-27 18:00,,reserved,"covid",elan11.cerit-sc.cz
+2020-03-27 18:00,,reserved,"covid",elan12.cerit-sc.cz
 2020-03-16 09:00,,reserved,"zruseni,prevod na baremetal",white1.cerit-sc.cz
 2020-03-11 09:00,2020-03-13 00:20,reserved,"elixir-tesk",elan11.cerit-sc.cz
 2020-03-11 09:00,2020-03-19 16:54,reserved,"elixir-tesk",elan12.cerit-sc.cz
