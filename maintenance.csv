@@ -15,7 +15,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2020-02-27 23:00,2020-02-28 22:40,maintenance,"vypadek napajeni",glados3.cerit-sc.cz
 2020-02-27 23:00,2020-02-28 22:40,maintenance,"vypadek napajeni",glados4.cerit-sc.cz
 2020-02-27 23:00,2020-02-28 22:40,maintenance,"vypadek napajeni",glados5.cerit-sc.cz
-2020-02-27 23:00,,maintenance,"vypadek napajeni",glados6.cerit-sc.cz
+2020-02-27 23:00,2020-03-25 18:25,maintenance,"vypadek napajeni",glados6.cerit-sc.cz
 2020-02-27 23:00,2020-02-28 22:40,maintenance,"vypadek napajeni",glados9.cerit-sc.cz
 2020-02-27 23:00,2020-02-28 22:40,maintenance,"vypadek napajeni",glados10.cerit-sc.cz
 2020-02-27 23:00,2020-02-28 22:40,maintenance,"vypadek napajeni",glados11.cerit-sc.cz
