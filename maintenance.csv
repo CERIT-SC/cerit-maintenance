@@ -1,4 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2020-05-10 22:00,,reserved,"tesk",elan10.cerit-sc.cz
+2020-05-10 22:00,,reserved,"tesk",elan9.cerit-sc.cz
 2020-05-08 10:22,,maintenance,"reboot",ursa.cerit-sc.cz
 2020-05-03 19:10,2020-05-04 18:12,maintenance,"reboot",urga1.cerit-sc.cz
 2020-03-25 11:00,2020-03-25 12:00,maintenance,"upgrade biosu",black1.cerit-sc.cz
