@@ -1,4 +1,8 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2020-08-10 13:00,,reserved,"K8S",elan6.cerit-sc.cz
+2020-08-10 13:00,,reserved,"K8S",elan7.cerit-sc.cz
+2020-08-10 13:00,,reserved,"K8S",elan8.cerit-sc.cz
+2020-08-10 13:00,,reserved,"K8S",elan9.cerit-sc.cz
 2020-07-09 13:00,,reserved,"EOSC",glados16.cerit-sc.cz
 2020-06-14 22:00,2020-06-17 15:00,maintenance,"odebrani GPU",zefron6.cerit-sc.cz
 2020-06-09 09:00,,reserved,"1M Genome",elan10.cerit-sc.cz
