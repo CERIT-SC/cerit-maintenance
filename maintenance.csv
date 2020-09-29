@@ -18,7 +18,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2020-10-01 17:30,,maintenance,"vypadek napajeni",glados17.cerit-sc.cz
 2020-10-01 17:30,,maintenance,"vypadek napajeni",uruk.cerit-sc.cz
 2020-10-01 17:30,,maintenance,"vypadek napajeni",urga1.cerit-sc.cz
-2020-09-29 08:00,,maintenance,"Oprava home",samson.ueb.cas.cz
+2020-09-29 08:00,2020-09-29 14:15,maintenance,"Oprava home",samson.ueb.cas.cz
 2020-09-02 10:00,,reserved,"Cloud Handl",glados15.cerit-sc.cz
 2020-08-06 19:00,2020-08-11 15:20,maintenance,"priprava na spusteni",samson.ueb.cas.cz
 2020-08-12 09:00,2020-08-12 11:58,maintenance,"vymena cpu",zelda2.cerit-sc.cz
