@@ -1,23 +1,23 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados1.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados2.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados3.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados4.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados5.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados6.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados7.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados8.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados9.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados10.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados11.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados12.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados13.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados14.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados15.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados16.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",glados17.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",uruk.cerit-sc.cz
-2020-10-01 17:30,,maintenance,"vypadek napajeni",urga1.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados1.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados2.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados3.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados4.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados5.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados6.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados7.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados8.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados9.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados10.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados11.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados12.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados13.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados14.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados15.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados16.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados17.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",uruk.cerit-sc.cz
+2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",urga1.cerit-sc.cz
 2020-09-29 08:00,2020-09-29 14:15,maintenance,"Oprava home",samson.ueb.cas.cz
 2020-09-02 10:00,,reserved,"Cloud Handl",glados15.cerit-sc.cz
 2020-08-06 19:00,2020-08-11 15:20,maintenance,"priprava na spusteni",samson.ueb.cas.cz
