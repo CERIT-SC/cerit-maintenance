@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2020-10-28 17:55,2020-11-01 00:00,maintenance,"crypto test",ursa.cerit-sc.cz
 2020-10-08 14:00,,reserved,"CRC-ML",glados8.cerit-sc.cz
 2020-10-05 13:10,2020-10-08 13:15,maintenance,"reboot",zefron2.cerit-sc.cz
 2020-10-01 17:30,2020-10-01 23:30,maintenance,"vypadek napajeni",glados1.cerit-sc.cz
