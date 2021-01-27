@@ -2,9 +2,9 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2021-01-27 17:30,,maintenance,"reboot afs",elan3.cerit-sc.cz
 2021-01-27 17:30,,maintenance,"reboot afs",elan4.cerit-sc.cz
 2021-01-27 17:30,,maintenance,"reboot afs",elan5.cerit-sc.cz
-2021-01-27 12:00,,maintenance,"instalace",zia2.cerit-sc.cz
-2021-01-27 12:00,,maintenance,"instalace",zia3.cerit-sc.cz
-2021-01-27 12:00,,maintenance,"instalace",zia4.cerit-sc.cz
+2021-01-27 12:00,2021-01-27 22:30,maintenance,"instalace",zia2.cerit-sc.cz
+2021-01-27 12:00,2021-01-27 22:30,maintenance,"instalace",zia3.cerit-sc.cz
+2021-01-27 12:00,2021-01-27 22:30,maintenance,"instalace",zia4.cerit-sc.cz
 2021-01-27 12:00,,maintenance,"instalace",zia5.cerit-sc.cz
 2020-10-28 17:55,2020-10-30 21:50,maintenance,"crypto test",ursa.cerit-sc.cz
 2020-10-08 14:00,,reserved,"CRC-ML",glados8.cerit-sc.cz
