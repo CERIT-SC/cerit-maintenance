@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2021-01-27 17:30,,maintenance,"reboot afs",elan3.cerit-sc.cz
-2021-01-27 17:30,,maintenance,"reboot afs",elan4.cerit-sc.cz
+2021-01-27 17:30,2021-01-28 12:30,maintenance,"reboot afs",elan3.cerit-sc.cz
+2021-01-27 17:30,2021-01-28 12:30,maintenance,"reboot afs",elan4.cerit-sc.cz
 2021-01-27 17:30,2021-01-28 09:30,maintenance,"reboot afs",elan5.cerit-sc.cz
 2021-01-27 12:00,2021-01-27 22:30,maintenance,"instalace",zia2.cerit-sc.cz
 2021-01-27 12:00,2021-01-27 22:30,maintenance,"instalace",zia3.cerit-sc.cz
