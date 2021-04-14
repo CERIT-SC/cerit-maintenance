@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2021-04-14 22:00,,maintenance,"upgrade nvidia driveru",glados.cerit-sc.cz
-2021-04-14 22:00,,maintenance,"upgrade nvidia driveru",black1.cerit-sc.cz
+2021-04-14 22:00,2021-04-15 01:40,maintenance,"upgrade nvidia driveru",glados.cerit-sc.cz
+2021-04-14 22:00,2021-04-15 01:40,maintenance,"upgrade nvidia driveru",black1.cerit-sc.cz
 2021-03-30 08:00,,reserved,"Scipion",glados14.cerit-sc.cz
 2021-03-26 23:30,2021-03-27 14:00,maintenance,"instalace",gita1.cerit-sc.cz
 2021-03-26 23:30,2021-03-27 14:00,maintenance,"instalace",gita2.cerit-sc.cz
