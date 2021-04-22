@@ -1,9 +1,9 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2021-04-21 15:45,,maintenance,"instalace gpu",zero26.ceitec.muni.cz
-2021-04-21 15:45,,maintenance,"instalace gpu",zero27.ceitec.muni.cz
-2021-04-21 15:45,,maintenance,"instalace gpu",zero28.ceitec.muni.cz
-2021-04-21 15:45,,maintenance,"instalace gpu",zero29.ceitec.muni.cz
-2021-04-21 15:45,,maintenance,"instalace gpu",zero30.ceitec.muni.cz
+2021-04-21 15:45,2021-04-22 13:30,maintenance,"instalace gpu",zero26.ceitec.muni.cz
+2021-04-21 15:45,2021-04-22 13:30,maintenance,"instalace gpu",zero27.ceitec.muni.cz
+2021-04-21 15:45,2021-04-22 13:30,maintenance,"instalace gpu",zero28.ceitec.muni.cz
+2021-04-21 15:45,2021-04-22 13:30,maintenance,"instalace gpu",zero29.ceitec.muni.cz
+2021-04-21 15:45,2021-04-22 13:30,maintenance,"instalace gpu",zero30.ceitec.muni.cz
 2021-04-14 22:00,2021-04-15 01:40,maintenance,"upgrade nvidia driveru",glados.cerit-sc.cz
 2021-04-14 22:00,2021-04-15 01:40,maintenance,"upgrade nvidia driveru",black1.cerit-sc.cz
 2021-03-30 08:00,,reserved,"Scipion",glados14.cerit-sc.cz
