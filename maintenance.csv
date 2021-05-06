@@ -10,8 +10,15 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2021-05-10 08:00,,maintenance,"instalace gpu",zero9.ceitec.muni.cz
 2021-05-10 08:00,,maintenance,"instalace gpu",zero10.ceitec.muni.cz
 2021-05-10 08:00,,maintenance,"instalace gpu",zero11.ceitec.muni.cz
+2021-05-07 01:30,,maintenance,"testy",gita1.cerit-sc.cz
+2021-05-07 01:30,,maintenance,"testy",gita2.cerit-sc.cz
+2021-05-07 01:30,,maintenance,"testy",gita3.cerit-sc.cz
+2021-05-07 01:30,,maintenance,"testy",gita4.cerit-sc.cz
+2021-05-07 01:30,,maintenance,"testy",gita5.cerit-sc.cz
+2021-05-07 01:30,,maintenance,"testy",gita6.cerit-sc.cz
+2021-05-07 01:30,,maintenance,"testy",gita7.cerit-sc.cz
 2021-05-05 09:25,2021-05-05 22:40,maintenance,"reboot",zia.cerit-sc.cz
-2021-05-06 09:00,,maintenance,"reinstalace",gita.cerit-sc.cz
+2021-05-06 09:00,2021-05-07 01:30,maintenance,"reinstalace",gita.cerit-sc.cz
 2021-05-04 09:00,2021-05-05 22:40,maintenance,"problem gpu",zia3.cerit-sc.cz
 2021-05-03 20:00,2021-05-05 22:30,maintenance,"reboot",samson.ueb.cas.cz
 2021-04-29 22:00,2021-05-01 01:30,maintenance,"zmena flavoru",gita1.cerit-sc.cz
