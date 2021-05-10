@@ -1,16 +1,16 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2021-05-07 21:30,2021-05-10 10:40,maintenance,"reboot",ursa.cerit-sc.cz
-2021-05-10 08:00,,maintenance,"instalace gpu",zero1.ceitec.muni.cz
-2021-05-10 08:00,,maintenance,"instalace gpu",zero2.ceitec.muni.cz
-2021-05-10 08:00,,maintenance,"instalace gpu",zero3.ceitec.muni.cz
-2021-05-10 08:00,,maintenance,"instalace gpu",zero4.ceitec.muni.cz
-2021-05-10 08:00,,maintenance,"instalace gpu",zero5.ceitec.muni.cz
-2021-05-10 08:00,,maintenance,"instalace gpu",zero6.ceitec.muni.cz
-2021-05-10 08:00,,maintenance,"instalace gpu",zero7.ceitec.muni.cz
-2021-05-10 08:00,,maintenance,"instalace gpu",zero8.ceitec.muni.cz
-2021-05-10 08:00,,maintenance,"instalace gpu",zero9.ceitec.muni.cz
-2021-05-10 08:00,,maintenance,"instalace gpu",zero10.ceitec.muni.cz
-2021-05-10 08:00,,maintenance,"instalace gpu",zero11.ceitec.muni.cz
+2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero1.ceitec.muni.cz
+2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero2.ceitec.muni.cz
+2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero3.ceitec.muni.cz
+2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero4.ceitec.muni.cz
+2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero5.ceitec.muni.cz
+2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero6.ceitec.muni.cz
+2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero7.ceitec.muni.cz
+2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero8.ceitec.muni.cz
+2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero9.ceitec.muni.cz
+2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero10.ceitec.muni.cz
+2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero11.ceitec.muni.cz
 2021-05-07 01:30,2021-05-07 10:30,maintenance,"testy",gita1.cerit-sc.cz
 2021-05-07 01:30,2021-05-07 10:30,maintenance,"testy",gita2.cerit-sc.cz
 2021-05-07 01:30,2021-05-07 10:30,maintenance,"testy",gita3.cerit-sc.cz
