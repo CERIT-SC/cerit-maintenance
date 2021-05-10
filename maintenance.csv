@@ -715,6 +715,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2019-01-02 23:00,2019-01-03 00:00,maintenance,"powersaving",phi1.cerit-sc.cz
 2019-01-02 14:00,2019-01-02 22:00,maintenance,"powersaving",phi1.cerit-sc.cz
 2019-01-01 00:00,,reserved,"openstack",glados9.cerit-sc.cz
+2019-01-01 00:00,,reserved,"openstack",glados18.cerit-sc.cz
 2018-12-30 16:00,2018-12-31 00:15,maintenance,"powersaving",zefron8.cerit-sc.cz
 2018-12-24 01:00,2019-01-02 13:00,maintenance,"powersaving",phi1.cerit-sc.cz
 2018-12-14 16:00,2018-12-14 18:30,maintenance,"powersaving",zefron4.cerit-sc.cz
