@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2021-05-27 20:30,,reserved,"k8s",gita26.cerit-sc.cz
 2021-05-07 21:30,2021-05-10 10:40,maintenance,"reboot",ursa.cerit-sc.cz
 2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero1.ceitec.muni.cz
 2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero2.ceitec.muni.cz
