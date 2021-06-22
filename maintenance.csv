@@ -1,6 +1,7 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2021-06-22 11:00,,reserved,"k8s test",zero2.ceitec.muni.cz
 2021-06-22 11:00,,reserved,"k8s test",zero24.ceitec.muni.cz
+2021-06-22 11:00,,reserved,"k8s test",zero28.ceitec.muni.cz
 2021-06-22 11:00,,reserved,"k8s test",zero37.ceitec.muni.cz
 2021-06-01 10:00,2021-06-02 16:00,maintenance,"oprava gpu",zia2.cerit-sc.cz
 2021-05-27 20:30,,reserved,"k8s",gita26.cerit-sc.cz
