@@ -1,4 +1,13 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2021-06-25 00:00,,maintenance,"reboot",zero5.ceitec.muni.cz
+2021-06-25 00:00,,maintenance,"reboot",zero8.ceitec.muni.cz
+2021-06-25 00:00,,maintenance,"reboot",zero16.ceitec.muni.cz
+2021-06-25 00:00,,maintenance,"reboot",zero21.ceitec.muni.cz
+2021-06-25 00:00,,maintenance,"reboot",zero22.ceitec.muni.cz
+2021-06-25 00:00,,maintenance,"reboot",zero23.ceitec.muni.cz
+2021-06-25 00:00,,maintenance,"reboot",zero27.ceitec.muni.cz
+2021-06-25 00:00,,maintenance,"reboot",zero36.ceitec.muni.cz
+2021-06-25 00:00,,maintenance,"reboot",zero38.ceitec.muni.cz
 2021-06-22 11:00,2021-06-24 10:40,reserved,"k8s test",zero2.ceitec.muni.cz
 2021-06-22 11:00,2021-06-24 10:40,reserved,"k8s test",zero24.ceitec.muni.cz
 2021-06-22 11:00,2021-06-24 10:40,reserved,"k8s test",zero28.ceitec.muni.cz
