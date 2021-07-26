@@ -1,4 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2021-07-29 15:00,,reserved,"k8s test",zenon59.cerit-sc.cz
+2021-07-29 15:00,,reserved,"k8s test",zenon60.cerit-sc.cz
 2021-07-01 08:00,2021-07-02 17:00,maintenance,"instalace GPU",zefron6.cerit-sc.cz
 2021-06-25 00:00,2021-06-25 13:30,maintenance,"reboot",zero5.ceitec.muni.cz
 2021-06-25 00:00,2021-06-25 13:30,maintenance,"reboot",zero8.ceitec.muni.cz
