@@ -1,4 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2021-09-01 10:00,,maintenance,"problem s NIC",zero9.ceitec.muni.cz
+2021-09-01 10:00,,maintenance,"problem s NIC",zero10.ceitec.muni.cz
 2021-08-17 16:30,2021-08-18 07:30,maintenance,"upgrade kernelu",zero.ceitec.muni.cz
 2021-08-10 09:00,,maintenance,"reboot",urga1.cerit-sc.cz
 2021-07-29 15:00,,reserved,"k8s test",zenon59.cerit-sc.cz
