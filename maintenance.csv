@@ -1,35 +1,35 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2021-11-27 00:00,2021-12-01 13:20,maintenance,"oprava",uruk.cerit-sc.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero1.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero2.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero3.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero4.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero5.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero6.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero7.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero8.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero9.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero10.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero11.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero12.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero1.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero2.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero3.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero4.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero5.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero6.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero7.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero8.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero9.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero10.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero11.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero12.ceitec.muni.cz
 2021-11-29 09:00,,maintenance,"instalace gpu",zero13.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero14.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero15.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero16.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero17.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero18.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero19.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero20.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero21.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero22.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero23.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero24.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero25.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero26.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero27.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero28.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero29.ceitec.muni.cz
-2021-11-29 09:00,,maintenance,"instalace gpu",zero30.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero14.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero15.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero16.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero17.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero18.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero19.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero20.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero21.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero22.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero23.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero24.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero25.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero26.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero27.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero28.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero29.ceitec.muni.cz
+2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero30.ceitec.muni.cz
 2021-11-02 17:00,2021-11-10 10:50,maintenance,"instalace gpu",zero13.ceitec.muni.cz
 2021-10-11 09:00,2021-10-11 13:34,maintenance,"instalace gpu",zero12.ceitec.muni.cz
 2021-10-16 09:00,,maintenance,"vyrazeni",zewura6.cerit-sc.cz
