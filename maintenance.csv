@@ -1,4 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2021-12-16 07:00,,maintenance,"vypadek napajeni",zero.ceitec.muni.cz
+2021-12-16 07:00,,maintenance,"vypadek napajeni",ciisb.ceitec.muni.cz
 2021-11-27 00:00,2021-12-01 13:20,maintenance,"oprava",uruk.cerit-sc.cz
 2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero1.ceitec.muni.cz
 2021-11-29 09:00,2021-12-02 13:40,maintenance,"instalace gpu",zero2.ceitec.muni.cz
