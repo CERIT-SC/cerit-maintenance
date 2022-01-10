@@ -62,7 +62,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2021-06-22 11:00,2021-06-24 10:40,reserved,"k8s test",zero28.ceitec.muni.cz
 2021-06-22 11:00,2021-06-24 10:40,reserved,"k8s test",zero37.ceitec.muni.cz
 2021-06-01 10:00,2021-06-02 16:00,maintenance,"oprava gpu",zia2.cerit-sc.cz
-2021-05-27 20:30,,reserved,"k8s",gita26.cerit-sc.cz
+2021-05-27 20:30,2022-01-10 12:50,reserved,"k8s",gita26.cerit-sc.cz
 2021-05-07 21:30,2021-05-10 10:40,maintenance,"reboot",ursa.cerit-sc.cz
 2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero1.ceitec.muni.cz
 2021-05-10 08:00,2021-05-10 14:40,maintenance,"instalace gpu",zero2.ceitec.muni.cz
@@ -168,9 +168,9 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2020-09-02 10:00,,reserved,"Cloud Handl",glados15.cerit-sc.cz
 2020-08-06 19:00,2020-08-11 15:20,maintenance,"priprava na spusteni",samson.ueb.cas.cz
 2020-08-12 09:00,2020-08-12 11:58,maintenance,"vymena cpu",zelda2.cerit-sc.cz
-2020-08-10 13:00,2021-01-09 12:50,reserved,"K8S",elan6.cerit-sc.cz
-2020-08-10 13:00,2021-01-09 12:50,reserved,"K8S",elan7.cerit-sc.cz
-2020-08-10 13:00,,reserved,"K8S",elan8.cerit-sc.cz
+2020-08-10 13:00,2022-01-09 12:50,reserved,"K8S",elan6.cerit-sc.cz
+2020-08-10 13:00,2022-01-09 12:50,reserved,"K8S",elan7.cerit-sc.cz
+2020-08-10 13:00,2022-01-10 12:50,reserved,"K8S",elan8.cerit-sc.cz
 2020-08-10 13:00,,reserved,"K8S",elan9.cerit-sc.cz
 2020-07-09 13:00,,reserved,"EOSC",glados16.cerit-sc.cz
 2020-06-14 22:00,2020-06-17 15:00,maintenance,"odebrani GPU",zefron6.cerit-sc.cz
