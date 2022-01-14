@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2022-01-14 10:00,,maintenance,"test gpu",zia3.cerit-sc.cz
+2022-01-14 10:00,2022-01-14 17:45,maintenance,"test gpu",zia3.cerit-sc.cz
 2021-12-16 07:00,2021-12-16 16:00,maintenance,"vypadek napajeni",zero.ceitec.muni.cz
 2021-12-16 07:00,2021-12-16 16:00,maintenance,"vypadek napajeni",ciisb.ceitec.muni.cz
 2021-11-27 00:00,2021-12-01 13:20,maintenance,"oprava",uruk.cerit-sc.cz
