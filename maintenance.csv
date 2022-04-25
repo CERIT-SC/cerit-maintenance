@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-04-21 13:45,,maintenance,"test",zefron6.cerit-sc.cz
-2022-04-22 23:00,,maintenance,"vadna pamet",zero33.ceitec.muni.cz
+2022-04-22 23:00,2022-04-25 16:50,maintenance,"vadna pamet",zero33.ceitec.muni.cz
 2022-04-22 23:00,,maintenance,"vadna pamet",zero26.ceitec.muni.cz
 2022-04-19 10:30,2022-04-22 23:00,maintenance,"vadna pamet",zero34.ceitec.muni.cz
 2022-04-13 21:30,2022-04-14 09:00,maintenance,"reinstall",glados6.cerit-sc.cz
