@@ -3,7 +3,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-05-23 12:00,,maintenance,"vypadek napajeni",glados2.cerit-sc.cz
 2022-05-23 12:00,,maintenance,"vypadek napajeni",glados3.cerit-sc.cz
 2022-05-23 12:00,2022-05-24 01:00,maintenance,"vypadek napajeni",zenon.cerit-sc.cz
-2022-05-23 12:00,,maintenance,"vypadek napajeni",elan.cerit-sc.cz
+2022-05-23 12:00,2022-05-24 02:15,maintenance,"vypadek napajeni",elan.cerit-sc.cz
 2022-05-23 12:00,,maintenance,"vypadek napajeni",gita.cerit-sc.cz
 2022-05-23 12:00,2022-05-23 23:00,maintenance,"vypadek napajeni",zefron.cerit-sc.cz
 2022-05-23 12:00,,maintenance,"vypadek napajeni",zefron1.cerit-sc.cz
