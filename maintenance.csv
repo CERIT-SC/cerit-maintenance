@@ -18,10 +18,10 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-05-23 12:00,,maintenance,"vypadek napajeni",gita25.cerit-sc.cz
 2022-05-23 12:00,,maintenance,"vypadek napajeni",gita26.cerit-sc.cz
 2022-05-23 12:00,2022-05-23 23:00,maintenance,"vypadek napajeni",zefron.cerit-sc.cz
-2022-05-23 12:00,,maintenance,"vypadek napajeni",zefron1.cerit-sc.cz
+2022-05-23 12:00,2022-05-25 19:30,maintenance,"vypadek napajeni",zefron1.cerit-sc.cz
 2022-05-23 12:00,,maintenance,"vypadek napajeni",zefron2.cerit-sc.cz
 2022-05-23 12:00,2022-05-24 22:45,maintenance,"vypadek napajeni",zefron3.cerit-sc.cz
-2022-05-23 12:00,,maintenance,"vypadek napajeni",zefron7.cerit-sc.cz
+2022-05-23 12:00,2022-05-25 19:30,maintenance,"vypadek napajeni",zefron7.cerit-sc.cz
 2022-05-26 06:00,,maintenance,"vypadek napajeni",zero.ceitec.muni.cz
 2022-05-26 06:00,,maintenance,"vypadek napajeni",ciisb.ceitec.muni.cz
 2022-05-04 08:55,2022-05-04 11:20,maintenance,"gpu test",zero3.ceitec.muni.cz
