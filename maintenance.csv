@@ -20,7 +20,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-05-23 12:00,2022-05-26 17:15,maintenance,"vypadek napajeni",gita26.cerit-sc.cz
 2022-05-23 12:00,2022-05-23 23:00,maintenance,"vypadek napajeni",zefron.cerit-sc.cz
 2022-05-23 12:00,2022-05-25 19:30,maintenance,"vypadek napajeni",zefron1.cerit-sc.cz
-2022-05-23 12:00,,maintenance,"vypadek napajeni",zefron2.cerit-sc.cz
+2022-05-23 12:00,2022-05-28 12:46,maintenance,"vypadek napajeni",zefron2.cerit-sc.cz
 2022-05-23 12:00,2022-05-24 22:45,maintenance,"vypadek napajeni",zefron3.cerit-sc.cz
 2022-05-23 12:00,2022-05-25 19:30,maintenance,"vypadek napajeni",zefron7.cerit-sc.cz
 2022-05-26 06:00,2022-05-27 13:00,maintenance,"vypadek napajeni",zero.ceitec.muni.cz
@@ -44,7 +44,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-02-23 14:00,2022-03-22 16:45,maintenance,"stehovani",zefron2.cerit-sc.cz
 2022-02-23 14:00,2022-03-22 16:45,maintenance,"stehovani",zefron3.cerit-sc.cz
 2022-02-23 14:00,2022-03-22 16:45,maintenance,"stehovani",zefron4.cerit-sc.cz
-2022-02-23 14:00,,maintenance,"stehovani",zefron5.cerit-sc.cz
+2022-02-23 14:00,2022-05-28 12:45,maintenance,"stehovani",zefron5.cerit-sc.cz
 2022-02-23 14:00,2022-03-22 16:45,maintenance,"stehovani",zefron6.cerit-sc.cz
 2022-02-23 14:00,2022-03-22 16:45,maintenance,"stehovani",zefron7.cerit-sc.cz
 2022-02-23 14:00,2022-03-22 16:45,maintenance,"stehovani",zefron8.cerit-sc.cz
