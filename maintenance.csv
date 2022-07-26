@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2022-08-01 13:00,,maintenance,"upgrade",zefron.cerit-sc.cz
 2022-07-25 10:00,2022-07-25 21:00,maintenance,"instalace",gita7.cerit-sc.cz
 2022-07-25 10:00,2022-07-25 21:00,maintenance,"instalace",gita8.cerit-sc.cz
 2022-07-25 10:00,2022-07-25 21:00,maintenance,"instalace",gita9.cerit-sc.cz
@@ -11,7 +12,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-06-22 10:00,2022-06-22 20:45,maintenance,"test",zia4.cerit-sc.cz
 2022-06-07 11:10,2022-06-10 16:20,maintenance,"reboot",ursa.cerit-sc.cz
 2022-06-02 09:13,2022-06-02 10:00,maintenance,"test",ciisb14.ceitec.muni.cz
-2022-06-01 12:40,,maintenance,"testy",zefron8.cerit-sc.cz
+2022-06-01 12:40,2022-07-26 12:00,maintenance,"testy",zefron8.cerit-sc.cz
 2022-06-01 16:00,2022-06-01 19:15,maintenance,"oprava",uruk.cerit-sc.cz
 2022-05-26 23:00,2022-05-27 10:10,maintenance,"vypadek napajeni",ciisb.ceitec.muni.cz
 2022-05-23 12:00,2022-05-23 23:00,maintenance,"vypadek napajeni",glados.cerit-sc.cz
