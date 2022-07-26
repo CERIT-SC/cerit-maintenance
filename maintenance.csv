@@ -4,8 +4,8 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-07-25 10:00,2022-07-25 21:00,maintenance,"instalace",gita9.cerit-sc.cz
 2022-07-25 10:00,2022-07-25 21:00,maintenance,"instalace",gita10.cerit-sc.cz
 2022-07-25 10:00,2022-07-25 21:00,maintenance,"instalace",gita27.cerit-sc.cz
-2022-07-25 21:00,,maintenance,"instalace",gita28.cerit-sc.cz
-2022-07-25 21:00,,maintenance,"instalace",glados14.cerit-sc.cz
+2022-07-25 21:00,2022-07-26 02:00,maintenance,"instalace",gita28.cerit-sc.cz
+2022-07-25 21:00,2022-07-26 02:00,maintenance,"instalace",glados14.cerit-sc.cz
 2022-07-08 08:00,2022-07-11 16:00,maintenance,"oprava",gita20.cerit-sc.cz
 2022-06-28 10:00,2022-07-05 16:15,reserved,"gpu test",zia4.cerit-sc.cz
 2022-06-22 10:00,2022-06-22 20:45,maintenance,"test",zia4.cerit-sc.cz
@@ -183,7 +183,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2021-04-21 15:45,2021-04-22 13:30,maintenance,"instalace gpu",zero30.ceitec.muni.cz
 2021-04-14 22:00,2021-04-15 01:40,maintenance,"upgrade nvidia driveru",glados.cerit-sc.cz
 2021-04-14 22:00,2021-04-15 01:40,maintenance,"upgrade nvidia driveru",black1.cerit-sc.cz
-2021-03-30 08:00,,reserved,"Scipion",glados14.cerit-sc.cz
+2021-03-30 08:00,2022-07-26 02:00,reserved,"Scipion",glados14.cerit-sc.cz
 2021-03-26 23:30,2021-03-27 14:00,maintenance,"instalace",gita1.cerit-sc.cz
 2021-03-26 23:30,2021-03-27 14:00,maintenance,"instalace",gita2.cerit-sc.cz
 2021-03-26 23:30,2021-03-27 14:00,maintenance,"instalace",gita3.cerit-sc.cz
