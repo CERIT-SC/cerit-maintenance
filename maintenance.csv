@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2022-09-01 08:00,,reserved,"4x A100 test",zia1.cerit-sc.cz
 2022-09-01 05:30,,maintenance,"vypadek napajeni",zero.ceitec.muni.cz
 2022-08-25 07:30,,maintenance,"instalace gpu",zero.ceitec.muni.cz
 2022-09-01 05:30,,maintenance,"vypadek napajeni",ciisb.ceitec.muni.cz
