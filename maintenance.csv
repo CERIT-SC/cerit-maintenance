@@ -4,8 +4,8 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-08-25 07:30,,maintenance,"instalace gpu",zero.ceitec.muni.cz
 2022-09-01 05:30,,maintenance,"vypadek napajeni",ciisb.ceitec.muni.cz
 2022-08-31 09:00,,maintenance,"upgrade",zenon.cerit-sc.cz
-2022-08-23 10:00,,maintenance,"upgrade",glados.cerit-sc.cz
-2022-08-22 13:50,,maintenance,"upgrade",glados4.cerit-sc.cz
+2022-08-23 10:00,2022-08-24 10:20,maintenance,"upgrade",glados.cerit-sc.cz
+2022-08-22 13:50,2022-08-24 10:20,maintenance,"upgrade",glados4.cerit-sc.cz
 2022-08-18 18:30,,maintenance,"upgrade",zia4.cerit-sc.cz
 2022-08-18 13:00,2022-08-18 18:30,maintenance,"upgrade",zia.cerit-sc.cz
 2022-08-18 13:00,2022-08-18 18:30,maintenance,"upgrade",black1.cerit-sc.cz
