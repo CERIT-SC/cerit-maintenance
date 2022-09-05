@@ -13,7 +13,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-09-09 09:55,,maintenance,"upgrade",samson.ueb.cas.cz
 2022-08-29 10:20,2022-09-03 00:30,maintenance,"upgrade",zero36.ceitec.muni.cz
 2022-08-29 10:20,2022-09-02 09:21,maintenance,"upgrade",ciisb1.ceitec.muni.cz
-2022-09-01 08:00,,reserved,"4x A100 test",zia1.cerit-sc.cz
+2022-09-01 08:00,2022-09-05 14:50,reserved,"4x A100 test",zia1.cerit-sc.cz
 2022-09-01 05:30,2022-09-03 00:30,maintenance,"vypadek napajeni",zero.ceitec.muni.cz
 2022-09-01 05:30,2022-09-01 21:15,maintenance,"vypadek napajeni",ciisb.ceitec.muni.cz
 2022-08-31 09:00,2022-08-31 20:45,maintenance,"upgrade",zenon.cerit-sc.cz
