@@ -10,7 +10,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-09-02 17:20,2022-09-03 14:20,maintenance,"upgrade",ciisb8.ceitec.muni.cz
 2022-09-02 17:20,2022-09-03 14:20,maintenance,"upgrade",ciisb13.ceitec.muni.cz
 2022-09-02 17:20,2022-09-03 14:20,maintenance,"upgrade",ciisb14.ceitec.muni.cz
-2022-09-09 09:55,,maintenance,"upgrade",samson.ueb.cas.cz
+2022-09-09 09:55,2022-09-15 10:30,maintenance,"upgrade",samson.ueb.cas.cz
 2022-08-29 10:20,2022-09-03 00:30,maintenance,"upgrade",zero36.ceitec.muni.cz
 2022-08-29 10:20,2022-09-02 09:21,maintenance,"upgrade",ciisb1.ceitec.muni.cz
 2022-09-01 08:00,2022-09-05 14:50,reserved,"4x A100 test",zia1.cerit-sc.cz
