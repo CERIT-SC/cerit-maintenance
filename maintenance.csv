@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2022-11-02 06:00,,maintenance,zero.ceitec.muni.cz
-2022-11-02 06:00,,maintenance,ciisb.ceitec.muni.cz
+2022-11-02 06:00,,maintenance,"power outage",zero.ceitec.muni.cz
+2022-11-02 06:00,,maintenance,"power outage",ciisb.ceitec.muni.cz
 2022-10-13 14:00,2022-10-14 15:40,maintenance,"reboot",zenon57.cerit-sc.cz
 2022-10-12 09:00,2022-10-16 23:40,reserved,"4x A100 test",zia1.cerit-sc.cz
 2022-10-05 10:30,2022-10-06 22:13,maintenance,"reboot",zia4.cerit-sc.cz
