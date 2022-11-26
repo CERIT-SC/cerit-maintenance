@@ -3,10 +3,10 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-11-24 16:00,,maintenance,"oprava gpu",zero17.ceitec.muni.cz
 2022-11-24 16:00,,maintenance,"oprava gpu",zero19.ceitec.muni.cz
 2022-11-24 16:00,,maintenance,"oprava gpu",zero21.ceitec.muni.cz
-2022-11-21 09:00,,maintenance,"oprava gpu",zero4.ceitec.muni.cz
-2022-11-21 09:00,,maintenance,"oprava gpu",zero12.ceitec.muni.cz
-2022-11-21 09:00,,maintenance,"oprava gpu",zero13.ceitec.muni.cz
-2022-11-21 09:00,,maintenance,"oprava gpu",zero15.ceitec.muni.cz
+2022-11-21 09:00,2022-11-26 12:00,maintenance,"oprava gpu",zero4.ceitec.muni.cz
+2022-11-21 09:00,2022-11-26 12:00,maintenance,"oprava gpu",zero12.ceitec.muni.cz
+2022-11-21 09:00,2022-11-26 12:00,maintenance,"oprava gpu",zero13.ceitec.muni.cz
+2022-11-21 09:00,2022-11-26 12:00,maintenance,"oprava gpu",zero15.ceitec.muni.cz
 2022-11-02 06:00,2022-11-02 18:50,maintenance,"power outage",zero.ceitec.muni.cz
 2022-11-02 06:00,2022-11-02 19:30,maintenance,"power outage",ciisb.ceitec.muni.cz
 2022-10-13 14:00,2022-10-14 15:40,maintenance,"reboot",zenon57.cerit-sc.cz
