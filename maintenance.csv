@@ -31,7 +31,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2022-09-03 00:30,2022-10-14 15:40,maintenance,"oprava gpu",zero30.ceitec.muni.cz
 2022-09-03 00:30,2022-10-14 15:40,maintenance,"oprava gpu",zero15.ceitec.muni.cz
 2022-09-03 00:30,2022-10-14 15:40,maintenance,"oprava gpu",zero22.ceitec.muni.cz
-2022-09-03 00:30,,maintenance,"oprava gpu",zero25.ceitec.muni.cz
+2022-09-03 00:30,2022-12-13 12:45,maintenance,"oprava gpu",zero25.ceitec.muni.cz
 2022-09-03 00:30,2022-10-07 19:30,maintenance,"oprava gpu",zero14.ceitec.muni.cz
 2022-09-03 00:30,2022-10-07 19:30,maintenance,"oprava gpu",zero18.ceitec.muni.cz
 2022-09-03 00:30,2022-10-07 19:30,maintenance,"oprava gpu",zero23.ceitec.muni.cz
