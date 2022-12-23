@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2022-12-20 10:00,,maintenance,"crysparc test",ciisb12.ceitec.muni.cz
+2022-12-20 10:00,2022-12-23 13:00,maintenance,"crysparc test",ciisb12.ceitec.muni.cz
 2022-12-15 10:20,2022-12-16 15:15,maintenance,"oprava RAM",ursa.cerit-sc.cz
 2022-12-12 10:00,2022-12-14 15:20,maintenance,"oprava gpu",zero22.ceitec.muni.cz
 2022-12-12 10:00,,maintenance,"oprava gpu",zero30.ceitec.muni.cz
