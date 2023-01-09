@@ -1,4 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2023-01-09 14:40,,maintenance,"oprava gpu",one8.ceitec.muni.cz
+2023-01-09 14:40,,maintenance,"oprava gpu",one7.ceitec.muni.cz
 2023-01-09 14:40,,maintenance,"reboot",zenon41.cerit-sc.cz
 2022-12-20 10:00,2022-12-23 13:00,maintenance,"crysparc test",ciisb12.ceitec.muni.cz
 2022-12-15 10:20,2022-12-16 15:15,maintenance,"oprava RAM",ursa.cerit-sc.cz
