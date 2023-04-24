@@ -1,12 +1,12 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2023-04-20 18:00,,maitenance,"rename",zero31.ceitec.muni.cz
-2023-04-20 18:00,,maitenance,"rename",zero32.ceitec.muni.cz
-2023-04-20 18:00,,maitenance,"rename",zero33.ceitec.muni.cz
-2023-04-20 18:00,,maitenance,"rename",zero34.ceitec.muni.cz
-2023-04-20 18:00,,maitenance,"rename",zero35.ceitec.muni.cz
-2023-04-20 18:00,,maitenance,"rename",zero36.ceitec.muni.cz
-2023-04-20 18:00,,maitenance,"rename",zero37.ceitec.muni.cz
-2023-04-20 18:00,,maitenance,"rename",zero38.ceitec.muni.cz
+2023-04-20 18:00,,maintenance,"rename",zero31.ceitec.muni.cz
+2023-04-20 18:00,,maintenance,"rename",zero32.ceitec.muni.cz
+2023-04-20 18:00,,maintenance,"rename",zero33.ceitec.muni.cz
+2023-04-20 18:00,,maintenance,"rename",zero34.ceitec.muni.cz
+2023-04-20 18:00,,maintenance,"rename",zero35.ceitec.muni.cz
+2023-04-20 18:00,,maintenance,"rename",zero36.ceitec.muni.cz
+2023-04-20 18:00,,maintenance,"rename",zero37.ceitec.muni.cz
+2023-04-20 18:00,,maintenance,"rename",zero38.ceitec.muni.cz
 2023-03-31 13:00,2023-03-31 15:15,maintenance,"test",uruk.cerit-sc.cz
 2023-03-27 10:00,,reserved,"mmseq",urga1.cerit-sc.cz
 2023-03-22 17:00,2023-03-24 15:40,maintenance,"vadny disk",one7.ceitec.muni.cz
