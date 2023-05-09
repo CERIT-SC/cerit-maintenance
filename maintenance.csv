@@ -27,7 +27,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2023-04-20 18:00,2023-05-02 14:00,maintenance,"rename",zero37.ceitec.muni.cz
 2023-04-20 18:00,2023-05-02 14:00,maintenance,"rename",zero38.ceitec.muni.cz
 2023-03-31 13:00,2023-03-31 15:15,maintenance,"test",uruk.cerit-sc.cz
-2023-03-27 10:00,,reserved,"mmseq",urga1.cerit-sc.cz
+2023-03-27 10:00,2023-05-09 20:20,reserved,"mmseq",urga1.cerit-sc.cz
 2023-03-22 17:00,2023-03-24 15:40,maintenance,"vadny disk",one7.ceitec.muni.cz
 2023-03-15 19:30,2023-04-18 18:00,reserved,"ljocha",zia5.cerit-sc.cz
 2023-02-22 11:00,2023-03-22 17:00,maintenance,"stehovani",one.ceitec.muni.cz
