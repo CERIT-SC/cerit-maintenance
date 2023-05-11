@@ -1,4 +1,9 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2023-05-13 11:00,,maintenance,"gpu driver upgrade",zia1.cerit-sc.cz
+2023-05-13 11:00,,maintenance,"gpu driver upgrade",zia2.cerit-sc.cz
+2023-05-13 11:00,,maintenance,"gpu driver upgrade",zia3.cerit-sc.cz
+2023-05-13 11:00,,maintenance,"gpu driver upgrade",zia4.cerit-sc.cz
+2023-05-13 11:00,,maintenance,"gpu driver upgrade",zia5.cerit-sc.cz
 2023-05-10 09:00,2023-05-11 19:55,maintenance,"gpu driver upgrade",gita1.cerit-sc.cz
 2023-05-10 09:00,2023-05-11 19:55,maintenance,"gpu driver upgrade",gita2.cerit-sc.cz
 2023-05-10 09:00,2023-05-11 19:55,maintenance,"gpu driver upgrade",gita3.cerit-sc.cz
