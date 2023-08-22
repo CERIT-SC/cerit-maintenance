@@ -1,8 +1,38 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2023-08-22 13:20,,maintenance,"overheating",zero16.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero17.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero18.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero19.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero20.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero21.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero22.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero23.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero24.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero25.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero26.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero27.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero28.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero29.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zero30.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zeroc5.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zeroc6.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zeroc7.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",zeroc8.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",one5.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",one6.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",one7.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",one8.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",ciisb8.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",ciisb9.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",ciisb10.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",ciisb11.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",ciisb12.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",ciisb13.ceitec.muni.cz
+2023-08-22 13:20,,maintenance,"overheating",ciisb14.ceitec.muni.cz
 2023-08-23 13:00,,maintenance,"hw issue",elan2.cerit-sc.cz
-2023-08-20 15:30,,maintenance,"overheating",zero.ceitec.muni.cz
-2023-08-20 15:30,,maintenance,"overheating",one.ceitec.muni.cz
-2023-08-20 15:30,,maintenance,"overheating",ciisb.ceitec.muni.cz
+2023-08-20 15:30,2023-08-22 13:20,maintenance,"overheating",zero.ceitec.muni.cz
+2023-08-20 15:30,2023-08-22 13:20,maintenance,"overheating",one.ceitec.muni.cz
+2023-08-20 15:30,2023-08-22 13:20,maintenance,"overheating",ciisb.ceitec.muni.cz
 2023-08-09 09:00,2023-08-09 22:00,maintenance,"network problem",zefron1.cerit-sc.cz
 2023-08-09 09:00,2023-08-09 22:00,maintenance,"network problem",zefron2.cerit-sc.cz
 2023-07-31 09:00,,reserved,"mycroft",zelda10.cerit-sc.cz
