@@ -29,7 +29,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2023-08-22 13:20,2023-08-23 14:42,maintenance,"overheating",ciisb12.ceitec.muni.cz
 2023-08-22 13:20,2023-08-23 14:42,maintenance,"overheating",ciisb13.ceitec.muni.cz
 2023-08-22 13:20,2023-08-23 14:42,maintenance,"overheating",ciisb14.ceitec.muni.cz
-2023-08-23 13:00,,maintenance,"hw issue",elan2.cerit-sc.cz
+2023-08-23 13:00,2023-08-24 14:45,maintenance,"hw issue",elan2.cerit-sc.cz
 2023-08-20 15:30,2023-08-22 13:20,maintenance,"overheating",zero.ceitec.muni.cz
 2023-08-20 15:30,2023-08-22 13:20,maintenance,"overheating",one.ceitec.muni.cz
 2023-08-20 15:30,2023-08-22 13:20,maintenance,"overheating",ciisb.ceitec.muni.cz
