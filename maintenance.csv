@@ -37,7 +37,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2023-08-09 09:00,2023-08-09 22:00,maintenance,"network problem",zefron2.cerit-sc.cz
 2023-07-31 09:00,,reserved,"mycroft",zelda10.cerit-sc.cz
 2023-07-10 21:50,2023-07-18 11:50,maintenance,"reset loop",zelda10.cerit-sc.cz
-2023-06-15 09:00,,maintenance,"reconfiguration",glados.cerit-sc.cz
+2023-06-15 09:00,2023-08-29 23:50,maintenance,"reconfiguration",glados.cerit-sc.cz
 2023-05-25 09:30,2023-07-02 10:40,maintenance,"bad ram",elan5.cerit-sc.cz
 2023-05-20 05:00,2023-05-23 11:00,maintenance,"network outage",samson.ueb.cas.cz
 2023-05-14 01:00,2023-05-15 13:00,maintenance,"gpu driver upgrade",black1.cerit-sc.cz
