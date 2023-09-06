@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2023-08-30 10:00,,maintenance,"battery problem",zeroc6.ceitec.muni.cz
-2023-08-30 10:00,,maintenance,"battery problem",zeroc8.ceitec.muni.cz
+2023-08-30 10:00,2023-09-06 23:30,maintenance,"battery problem",zeroc6.ceitec.muni.cz
+2023-08-30 10:00,2023-09-06 23:30,maintenance,"battery problem",zeroc8.ceitec.muni.cz
 2023-08-22 13:20,2023-08-23 14:42,maintenance,"overheating",zero16.ceitec.muni.cz
 2023-08-22 13:20,2023-08-23 14:42,maintenance,"overheating",zero17.ceitec.muni.cz
 2023-08-22 13:20,2023-08-23 14:42,maintenance,"overheating",zero18.ceitec.muni.cz
