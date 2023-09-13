@@ -44,7 +44,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2023-05-20 05:00,2023-05-23 11:00,maintenance,"network outage",samson.ueb.cas.cz
 2023-05-14 01:00,2023-05-15 13:00,maintenance,"gpu driver upgrade",black1.cerit-sc.cz
 2023-05-14 01:00,2023-05-15 13:00,maintenance,"gpu driver upgrade",glados.cerit-sc.cz
-2023-05-13 11:00,,maintenance,"gpu driver upgrade",zia1.cerit-sc.cz
+2023-05-13 11:00,2023-09-13 10:00,maintenance,"gpu driver upgrade",zia1.cerit-sc.cz
 2023-05-13 11:00,2023-05-14 01:00,maintenance,"gpu driver upgrade",zia2.cerit-sc.cz
 2023-05-13 11:00,2023-05-14 01:00,maintenance,"gpu driver upgrade",zia3.cerit-sc.cz
 2023-05-13 11:00,2023-08-14 14:40,maintenance,"gpu driver upgrade",zia4.cerit-sc.cz
