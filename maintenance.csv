@@ -1,8 +1,8 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2023-10-20 06:00,,maintenance,"power outage",zero.ceitec.muni.cz
-2023-10-20 06:00,,maintenance,"power outage",zeroc.ceitec.muni.cz
-2023-10-20 06:00,,maintenance,"power outage",ciisb.ceitec.muni.cz
-2023-10-20 06:00,,maintenance,"power outage",one.ceitec.muni.cz
+2023-10-20 06:00,2023-10-25 22:20,maintenance,"power outage",zero.ceitec.muni.cz
+2023-10-20 06:00,2023-10-25 22:20,maintenance,"power outage",zeroc.ceitec.muni.cz
+2023-10-20 06:00,2023-10-25 22:20,maintenance,"power outage",ciisb.ceitec.muni.cz
+2023-10-20 06:00,2023-10-25 22:20,maintenance,"power outage",one.ceitec.muni.cz
 2023-10-09 09:00,2023-10-10 09:30,maintenance,"replace disk",ursa.cerit-sc.cz
 2023-08-30 10:00,2023-09-06 23:30,maintenance,"battery problem",zeroc6.ceitec.muni.cz
 2023-08-30 10:00,2023-09-06 23:30,maintenance,"battery problem",zeroc8.ceitec.muni.cz
