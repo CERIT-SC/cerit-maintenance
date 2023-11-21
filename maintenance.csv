@@ -1,5 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2023-11-21 02:00,,maintenance,"gpu upgrade",ciisb.ceitec.muni.cz
+2023-11-21 13:20,,maintenance,"gpu upgrade",ciisb5.ceitec.muni.cz
+2023-11-21 02:00,2023-11-21 13:30,maintenance,"gpu upgrade",ciisb.ceitec.muni.cz
 2023-10-20 06:00,2023-10-25 22:20,maintenance,"power outage",zero.ceitec.muni.cz
 2023-10-20 06:00,2023-10-25 22:20,maintenance,"power outage",zeroc.ceitec.muni.cz
 2023-10-20 06:00,2023-10-25 22:20,maintenance,"power outage",ciisb.ceitec.muni.cz
