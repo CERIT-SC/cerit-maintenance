@@ -1,4 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
+2024-05-09 09:00,,maintenance,"reinstall",elan.cerit-sc.cz
 2024-04-24 09:00,2024-04-26 12:30,maintenance,"reinstall",gita.cerit-sc.cz
 2024-05-02 08:00,2024-05-03 19:00,maintenance,"upgrade pbs",zero.ceitec.muni.cz
 2024-05-02 08:00,2024-05-03 19:00,maintenance,"upgrade pbs",one.ceitec.muni.cz
