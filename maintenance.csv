@@ -1,7 +1,7 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2024-06-14 13:00,,maintenance,"reinstall",zelda.cerit-sc.cz
 2024-05-23 12:00,,maintenance,"reinstall",zefron.cerit-sc.cz
-2024-05-22 07:00,,maintenance,"reinstall",samson.ueb.cas.cz
+2024-05-22 07:00,2024-05-23 10:00,maintenance,"reinstall",samson.ueb.cas.cz
 2024-05-07 13:00,2024-05-09 10:00,maintenance,"reinstall",zia2.cerit-sc.cz
 2024-05-07 13:00,2024-05-09 10:00,maintenance,"reinstall",zia3.cerit-sc.cz
 2024-05-05 19:30,2024-05-06 14:30,reserved,"K8s",zia4.cerit-sc.cz
@@ -12,7 +12,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2024-05-02 08:00,2024-05-03 19:00,maintenance,"upgrade pbs",one.ceitec.muni.cz
 2024-05-02 08:00,2024-05-03 19:00,maintenance,"upgrade pbs",two.ceitec.muni.cz
 2024-04-22 08:00,,maintenance,"pomaly",phi2.cerit-sc.cz
-2024-04-22 08:00,,maintenance,"presun v racku",black1.cerit-sc.cz
+2024-04-22 08:00,2024-05-23 10:00,maintenance,"presun v racku",black1.cerit-sc.cz
 2024-04-19 09:00,2024-04-19 11:30,maintenance,"reinstall",glados.cerit-sc.cz
 2024-04-16 08:00,,maintenance,"pomaly",phi4.cerit-sc.cz
 2024-03-25 00:00,2024-03-25 17:00,maintenance,"vypadek chlazeni",ciisb.ceitec.muni.cz
@@ -21,9 +21,9 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2024-03-25 00:00,2024-03-25 17:00,maintenance,"vypadek chlazeni",two.ceitec.muni.cz
 2024-03-25 00:00,2024-03-25 17:00,maintenance,"vypadek chlazeni",one.ceitec.muni.cz
 2024-03-18 09:00,2024-04-17 11:00,maintenance,"stehovani",zenon.cerit-sc.cz
-2024-02-12 10:00,,reserved,"Rancher",gita25.cerit-sc.cz
-2024-02-12 10:00,,reserved,"Rancher",gita28.cerit-sc.cz
-2024-02-12 10:00,,reserved,"Rancher",gita22.cerit-sc.cz
+2024-02-12 10:00,2024-05-23 10:00,reserved,"Rancher",gita25.cerit-sc.cz
+2024-02-12 10:00,2024-05-23 10:00,reserved,"Rancher",gita28.cerit-sc.cz
+2024-02-12 10:00,2024-05-23 10:00,reserved,"Rancher",gita22.cerit-sc.cz
 2024-02-04 09:00,2024-02-05 08:45,maintenance,"Infinity upgrade",zero.ceitec.muni.cz
 2024-02-04 09:00,2024-02-05 08:45,maintenance,"Infinity upgrade",zeroc.ceitec.muni.cz
 2024-02-04 09:00,2024-02-05 08:45,maintenance,"Infinity upgrade",one.ceitec.muni.cz
