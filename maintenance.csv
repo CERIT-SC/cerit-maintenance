@@ -1,5 +1,5 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2024-06-14 13:00,,maintenance,"reinstall",zelda.cerit-sc.cz
+2024-06-14 13:00,2024-06-18 09:20,maintenance,"reinstall",zelda.cerit-sc.cz
 2024-05-23 12:00,2024-05-28 14:40,maintenance,"reinstall",zefron.cerit-sc.cz
 2024-05-22 07:00,2024-05-23 10:00,maintenance,"reinstall",samson.ueb.cas.cz
 2024-05-07 13:00,2024-05-09 10:00,maintenance,"reinstall",zia2.cerit-sc.cz
@@ -79,7 +79,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2023-08-20 15:30,2023-08-22 13:20,maintenance,"overheating",ciisb.ceitec.muni.cz
 2023-08-09 09:00,2023-08-09 22:00,maintenance,"network problem",zefron1.cerit-sc.cz
 2023-08-09 09:00,2023-08-09 22:00,maintenance,"network problem",zefron2.cerit-sc.cz
-2023-07-31 09:00,,reserved,"mycroft",zelda10.cerit-sc.cz
+2023-07-31 09:00,2024-06-18 09:30,reserved,"mycroft",zelda10.cerit-sc.cz
 2023-07-10 21:50,2023-07-18 11:50,maintenance,"reset loop",zelda10.cerit-sc.cz
 2023-06-15 09:00,2023-08-29 23:50,maintenance,"reconfiguration",glados.cerit-sc.cz
 2023-05-25 09:30,2023-07-02 10:40,maintenance,"bad ram",elan5.cerit-sc.cz
