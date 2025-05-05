@@ -1,6 +1,6 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2025-04-26 02:00,,maintenance,"Disk error",cemcof5.ceitec.muni.cz
-2025-04-25 15:30,,maintenance,"Disk error",one6.ceitec.muni.cz
+2025-04-25 15:30,2025-05-05 15:33,maintenance,"Disk error",one6.ceitec.muni.cz
 2025-04-16 15:30,,maintenance,"GPU bug",zero17.ceitec.muni.cz
 2025-01-28 05:00,2025-01-28 15:10,maintenance,"power outtage",zero.cerit-sc.cz
 2025-01-28 05:00,2025-01-28 15:10,maintenance,"power outtage",one.cerit-sc.cz
