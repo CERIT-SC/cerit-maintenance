@@ -4,7 +4,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2025-08-06 17:00,,maintenance,"reinstalace",zero4.ceitec.muni.cz
 2025-08-06 17:00,,maintenance,"reinstalace",zero3.ceitec.muni.cz
 2025-08-06 17:00,,maintenance,"reinstalace",zero2.ceitec.muni.cz
-2025-08-06 17:00,,maintenance,"reinstalace",zero1.ceitec.muni.cz
+2025-08-06 17:00,2025-08-11 16:00,maintenance,"reinstalace",zero1.ceitec.muni.cz
 2025-07-14 09:00,2025-07-30 12:30,maintenance,"reinstalace",one8.ceitec.muni.cz
 2025-07-14 09:00,2025-07-29 16:00,maintenance,"reinstalace",one7.ceitec.muni.cz
 2025-07-14 09:00,2025-07-28 20:00,maintenance,"reinstalace",one6.ceitec.muni.cz
