@@ -36,7 +36,7 @@ Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
 2025-07-14 09:00,2025-07-28 20:00,maintenance,"reinstalace",one6.ceitec.muni.cz
 2025-07-14 09:00,2025-07-28 17:30,maintenance,"reinstalace",one5.ceitec.muni.cz
 2025-07-14 09:00,2025-07-17 10:30,maintenance,"reinstalace",one4.ceitec.muni.cz
-2025-07-14 09:00,,maintenance,"reinstalace",one3.ceitec.muni.cz
+2025-07-14 09:00,2025-10-22 17:00,maintenance,"reinstalace",one3.ceitec.muni.cz
 2025-07-14 09:00,2025-07-17 10:30,maintenance,"reinstalace",one2.ceitec.muni.cz
 2025-07-14 09:00,2025-07-25 17:00,maintenance,"reinstalace",one1.ceitec.muni.cz
 2025-04-26 02:00,,maintenance,"Disk error",cemcof5.ceitec.muni.cz
