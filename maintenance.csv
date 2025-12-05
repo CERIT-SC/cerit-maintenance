@@ -1,23 +1,23 @@
 Start (YYYY-MM-DD),End (YYYY-MM-DD),Type,Note,Resources
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof1.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof2.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof3.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof4.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof6.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof7.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof8.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof9.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof10.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof11.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof12.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof13.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof14.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof15.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof16.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof17.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof18.ceitec.muni.cz
-2025-12-03 12:00,,maintenance,"beegfs - disk repartitioning",cemcof19.ceitec.muni.cz
-2025-11-27 14:30,,maintenance,"hardware issues",three5.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof1.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof2.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof3.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof4.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof6.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof7.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof8.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof9.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof10.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof11.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof12.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof13.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof14.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof15.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof16.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof17.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof18.ceitec.muni.cz
+2025-12-03 12:00,2025-12-05 20:00,maintenance,"beegfs - disk repartitioning",cemcof19.ceitec.muni.cz
+2025-11-27 14:30,2025-12-05 20:00,maintenance,"hardware issues",three5.ceitec.muni.cz
 2025-10-22 17:30,2025-10-24 11:00,maintenance,"reinstalace",one8.ceitec.muni.cz
 2025-10-22 17:30,2025-10-24 11:00,maintenance,"reinstalace",one7.ceitec.muni.cz
 2025-10-22 17:30,2025-10-24 11:00,maintenance,"reinstalace",one6.ceitec.muni.cz
